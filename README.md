@@ -1,3 +1,12 @@
+## About
+This repo keeps track of the reading order of Marvel comic books. 
+
+It is not a comprehensive list: I'll take the freedom of skipping story-lines that I do not bother about, if they are not strictly necessary to follow the other story-lines. 
+
+Story lines are not necessarily in chronological order. Rather, they are listed in the order that preserves the smoothness of the reading. For example, I prefer reading a main event first and only later to catch up with its tie-ins. 
+
+Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the Avengers, he appears with the black suit in the Avengers titles right after the Civil War as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not tie-ins of the Avengers ones and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
+
 ## Marvel Universe Reading Order
 
 The Pulse #1-5
@@ -40,6 +49,10 @@ New Avengers Illuminati #0
 
 Civil War #1-7
 
+The Amazing Spider-Man #529-543 (*Back in black*)
+
+Spider-Man: One more day
+
 Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
 
 Captain America #25 (*The death of Captain America*)
@@ -58,9 +71,6 @@ New Avengers #33-
 
 Mighty Avengers #8
 
-The Amazing Spider-Man #529-543 (*Back in black*)
-
-Spider-Man: One more day
 
 ## Notes
 
