@@ -17,6 +17,10 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [the-complete-marvel-reading-order-guide](https://www.comicbookherald.com/the-complete-marvel-reading-order-guide/)
 
+[captain-america-by-ed-brubaker-reading-order](https://www.comicbooktreasury.com/captain-america-by-ed-brubaker-reading-order/)
+
+[captain-america-reading-order-modern-marvel-era](https://www.comicbookherald.com/captain-america-reading-order-modern-marvel-era/)
+
 ## Marvel Universe Reading Order
 
 The Pulse #1-5
