@@ -5,7 +5,17 @@ It is not a comprehensive list: I'll take the freedom of skipping storylines tha
 
 Story lines are not necessarily in chronological order. Rather, they are listed in the order that preserves the smoothness of the reading. For example, I prefer reading a main event first and only later to catch up with its tie-ins. 
 
-Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the Avengers, he appears with the black suit in the Avengers titles right after the Civil War as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not tie-ins of the Avengers ones and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
+Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the Avengers, he appears with the black suit in the Avengers titles right after the Civil War as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not tie-ins of the Avengers ones and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers plots and it will be super easy to figure out what is their relative timeline to Spider-Man.[
+](https://www.crushingkrisis.com/collecting-avengers-comic-books-as-graphic-novels-a-definitive-guide/avengers-reading-order-bendis-years-2005-2012/)
+
+## Online resources
+[avengers-reading-order-bendis-years-2005-2012](https://www.crushingkrisis.com/collecting-avengers-comic-books-as-graphic-novels-a-definitive-guide/avengers-reading-order-bendis-years-2005-2012/)
+
+[brian-michael-bendis-avengers-reading-order](https://www.comicbooktreasury.com/brian-michael-bendis-avengers-reading-order/)
+
+[brian-michael-bendis-marvel-universe-reading-order-2000-2018](https://www.comicbookherald.com/brian-michael-bendis-marvel-universe-reading-order-2000-2018/)
+
+[the-complete-marvel-reading-order-guide](https://www.comicbookherald.com/the-complete-marvel-reading-order-guide/)
 
 ## Marvel Universe Reading Order
 
