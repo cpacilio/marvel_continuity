@@ -1,7 +1,7 @@
 ## About
 This repo keeps track of the reading order of Marvel comic books. 
 
-It is not a comprehensive list: I'll take the freedom of skipping story-lines that I do not bother about, if they are not strictly necessary to follow the other story-lines. 
+It is not a comprehensive list: I'll take the freedom of skipping storylines that I do not bother about, if they are not strictly necessary to follow the other plots. 
 
 Story lines are not necessarily in chronological order. Rather, they are listed in the order that preserves the smoothness of the reading. For example, I prefer reading a main event first and only later to catch up with its tie-ins. 
 
