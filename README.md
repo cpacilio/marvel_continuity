@@ -23,6 +23,8 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
+__Thor: Ragnarok ?__
+
 The Pulse #1-5
 
 __Marvel Knights Spider-Man?__
@@ -63,13 +65,13 @@ New Avengers Illuminati #0
 
 Civil War #1-7
 
-The Amazing Spider-Man #529-543 (*Back in black*)
-
-Spider-Man: One more day
-
 Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
 
 Captain America #25 (*The death of Captain America*)
+
+The Amazing Spider-Man #529-543 (*Back in black*)
+
+Spider-Man: One more day
 
 Civil War: The initiative
 
@@ -77,14 +79,17 @@ New Avengers #26-31
 
 Mighty Avengers #1-6
 
-New Avengers #32
+New Avengers #32-34
 
-Mighty Avengers #7
+Mighty Avengers #7-8
 
-New Avengers #33-
+New Avengers #35-38
 
-Mighty Avengers #8
+Planet Hulk #1-
 
+__World War Hulk ?__
+
+New Avengers Annual #2
 
 ## Notes
 
@@ -101,3 +106,5 @@ Mighty Avengers #8
   - The so called Murdock files are mentioned
 - During the Civil War, Dr. Strange and Wolverine are absent.
 - AMS 529: it is set before Daredevil #93
+- New avengers 35: Wilson Fisk is considered out of the games
+- New Avengers Annual 2: happens after _World War Hulk_
