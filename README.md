@@ -43,9 +43,7 @@ New Avengers #1-10
 
 Young Avengers #1-12
 
-House of M #1-8
-
-House of M Decimation
+House of M #1-8 + House of M Decimation
 
 New Avengers #11-15
 
