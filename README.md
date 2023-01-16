@@ -85,7 +85,7 @@ Mighty Avengers #7-8
 
 New Avengers #35-38
 
-Planet Hulk #1-
+The Incredible Hulk #92-95 + Giant Size Hulk #1 + (_Planet Hulk_)
 
 __World War Hulk ?__
 
@@ -104,7 +104,8 @@ New Avengers Annual #2
 - The Pulse #11-14:
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
   - The so called Murdock files are mentioned
-- During the Civil War, Dr. Strange and Wolverine are absent.
+- During the Civil War, Dr. Strange and Wolverine are absent
 - AMS 529: it is set before Daredevil #93
 - New avengers 35: Wilson Fisk is considered out of the games
 - New Avengers Annual 2: happens after _World War Hulk_
+- The Incredible Hulk #95: happens before Annihilation: Silver Surfer
