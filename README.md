@@ -83,7 +83,7 @@ Mighty Avengers #7-8
 
 New Avengers #35-38
 
-The Incredible Hulk #92-95 + Giant Size Hulk #1 + (_Planet Hulk_)
+The Incredible Hulk #92-95 + Giant Size Hulk #1 + The Incredible Hulk #96-105 (_Planet Hulk_)
 
 __World War Hulk ?__
 
