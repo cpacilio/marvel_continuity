@@ -23,6 +23,8 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
+### The New Avengers Era (2004 - ??)
+
 __Thor: Ragnarok ?__
 
 The Pulse #1-5
