@@ -81,11 +81,11 @@ New Avengers #32-34
 
 Mighty Avengers #7-8
 
-New Avengers #35-38
+New Avengers #35-37
 
 The Incredible Hulk #92-95 + Giant Size Hulk #1 + The Incredible Hulk #96-105 (_Planet Hulk_)
 
-__World War Hulk ?__
+World War Hulk #1-5
 
 New Avengers Annual #2
 
@@ -107,3 +107,4 @@ New Avengers Annual #2
 - New avengers 35: Wilson Fisk is considered out of the games
 - New Avengers Annual 2: happens after _World War Hulk_
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
+- - World War Hulk #2: Tempest is introduced as Black Panther's wife
