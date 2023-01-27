@@ -69,6 +69,8 @@ Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
 
 Captain America #25 (*The death of Captain America*)
 
+Civil War: The Confession
+
 The Amazing Spider-Man #529-543 (*Back in black*)
 
 Spider-Man: One more day
