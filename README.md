@@ -71,6 +71,8 @@ Captain America #25 (*The death of Captain America*)
 
 Civil War: The Confession
 
+Captain America #26-42
+
 The Amazing Spider-Man #529-543 (*Back in black*)
 
 Spider-Man: One more day
@@ -86,6 +88,8 @@ New Avengers #32-34
 Mighty Avengers #7-8
 
 New Avengers #35-37
+
+Migthy Avengers #9-11
 
 The Incredible Hulk #92-95 + Giant Size Hulk #1 + The Incredible Hulk #96-105 (_Planet Hulk_)
 
