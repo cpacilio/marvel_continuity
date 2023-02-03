@@ -97,6 +97,8 @@ World War Hulk #1-5
 
 New Avengers Annual #2
 
+New Avengers Illuminati #1-5
+
 ## Notes
 
 - New Avengers 11: 
