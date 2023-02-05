@@ -65,6 +65,8 @@ New Avengers Illuminati #0
 
 Civil War #1-7
 
+Thunderbolts #110-115
+
 Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
 
 Captain America #25 (*The death of Captain America*)
