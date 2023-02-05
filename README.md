@@ -75,6 +75,8 @@ Civil War: The Confession
 
 Captain America #26-42
 
+Thunderbolts #116-121
+
 The Amazing Spider-Man #529-543 (*Back in black*)
 
 Spider-Man: One more day
