@@ -25,11 +25,11 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ### The New Avengers Era (2004 - ??)
 
-__Thor: Ragnarok ?__
+Thor #80-85 (_Ragnarok_)
 
 The Pulse #1-5
 
-__Marvel Knights Spider-Man?__
+__Marvel Knights Spider-Man ?__
 
 Avengers Disassembled + Avengers Finale
 
@@ -97,7 +97,16 @@ World War Hulk #1-5
 
 New Avengers Annual #2
 
+New Avengers #38-39
+
+__Thor #1-8, 9-11 ?__
+
 New Avengers Illuminati #1-5
+
+
+__Thor #600- ?__
+
+__Captain America #43- ?__
 
 ## Notes
 
@@ -113,8 +122,11 @@ New Avengers Illuminati #1-5
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
   - The so called Murdock files are mentioned
 - During the Civil War, Dr. Strange and Wolverine are absent
+- Captain America #28: Charles Xavier walks on his own legs and helps Tony stark
 - AMS 529: it is set before Daredevil #93
 - New avengers 35: Wilson Fisk is considered out of the games
 - New Avengers Annual 2: happens after _World War Hulk_
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
-- - World War Hulk #2: Tempest is introduced as Black Panther's wife
+- World War Hulk #2: Tempest is introduced as Black Panther's wife
+- New Avengers #38: Spider-Man is back in the classical suit
+- Thor #600: The Dark Avnegers intervene
