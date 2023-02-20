@@ -103,10 +103,43 @@ New Avengers Annual #2
 
 New Avengers #38-39
 
-__Thor #1-8, 9-11 ?__
+Thor #1-11
 
 New Avengers Illuminati #1-5
 
+_Secret Invasion_ : 
+- Migthy Avengers #12,13
+- Secret Invasion #1
+- New Avengers #40
+- Secret Invasion #2
+- Mighty Avengers #14
+- New Avengers #41
+- Secret Invasion #3
+- Migthy Avengers #15
+- New Avengers #42,45
+- Secret Invasion #4
+- Migthy Avengers #16
+- New Avengers #43
+- Secret Invasion #5
+- New Avengers #44
+- Secret Invasion #6,7
+- Migthy Avengers #19
+- New Avengers #46
+- Secret Invasion #8
+- New Avengers #47
+- Mighty Avengers #20
+
+Secret Invasion: Dark Reign
+
+New Avengers #48-49
+
+Dark Avengers #1
+
+New Avengers #50
+
+Dark Avengers #2-6
+
+__New Avengers #51-__
 
 __Thor #600- ?__
 
