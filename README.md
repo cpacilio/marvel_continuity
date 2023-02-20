@@ -166,4 +166,4 @@ __Captain America #43- ?__
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in the classical suit
-- Thor #600: The Dark Avnegers intervene
+- Thor #600: The Dark Avengers intervene
