@@ -145,15 +145,15 @@ __Thor #600-603 + Thor Giant Size #1 ?__
 
 __Captain America #43-48 ?__
 
-__Dark Avengers #9-12 ?__
+Dark Avengers #9-12
 
-__New Avengers #55-60 ?__
-
-__Dark Reign The List: Avengers ?__
-
-__New Avengers Annual #3 ?__
+New Avengers #55-60
 
 __Captain America #49 ?__
+
+Dark Reign The List: Avengers
+
+New Avengers Annual #3
 
 Dark Avengers Annual #1
 
