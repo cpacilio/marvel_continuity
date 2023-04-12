@@ -141,21 +141,26 @@ Dark Avengers #2-6
 
 New Avengers #51-54
 
-__Thor #600-603 + Thor Giant Size #1 ?__
+Thor #600-603 + Thor Giant Size #1
 
-__Captain America #43-48 ?__
+Captain America #43-48 ?
 
 Dark Avengers #9-12
 
 New Avengers #55-60
 
-__Captain America #49 ?__
+Captain America #49, 600-601
+
+Captain America: Reborn #1-6
+
+Captain America: Who will wield the shield?
+
+Dark Avengers Annual #1
 
 Dark Reign The List: Avengers
 
 New Avengers Annual #3
 
-Dark Avengers Annual #1
 
 ## Notes
 
