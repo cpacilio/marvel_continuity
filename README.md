@@ -141,13 +141,17 @@ Dark Avengers #2-6
 
 New Avengers #51-54
 
+Spider-Woman #1-7
+
 Thor #600-603 + Thor Giant Size #1
 
-Captain America #43-48 ?
+Captain America #43-48
 
 Dark Avengers #9-12
 
 New Avengers #55-60
+
+Thor #604-606
 
 Captain America #49, 600-601
 
@@ -160,6 +164,8 @@ Dark Avengers Annual #1
 Dark Reign The List: Avengers
 
 New Avengers Annual #3
+
+_Siege_ :
 
 
 ## Notes
@@ -184,3 +190,4 @@ New Avengers Annual #3
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in the classical suit
 - Thor #600: The Dark Avengers intervene
+- 
