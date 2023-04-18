@@ -3,10 +3,9 @@ This repo keeps track of the reading order of Marvel comic books.
 
 It is not a comprehensive list: I'll take the freedom of skipping storylines that I do not bother about, if they are not strictly necessary to follow the other plots. 
 
-Story lines are not necessarily in chronological order. Rather, they are listed in the order that preserves the smoothness of the reading. For example, I prefer reading a main event first and only later to catch up with its tie-ins. 
+Story lines are not necessarily in chronological order. Rather, they are listed in the order that preserves the smoothness of the reading. For example, sometimes I prefer reading a main event first and to catch up with its tie-ins only later. 
 
-Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the Avengers, he appears with the black suit in the Avengers titles right after the Civil War as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not tie-ins of the Avengers ones and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers plots and it will be super easy to figure out what is their relative timeline to Spider-Man.[
-](https://www.crushingkrisis.com/collecting-avengers-comic-books-as-graphic-novels-a-definitive-guide/avengers-reading-order-bendis-years-2005-2012/)
+Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the New Avengers, he appears with the black suit in the Avengers titles right after the Civil War, as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not tie-ins of the Avengers ones and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
 
 ## Online resources
 [avengers-reading-order-bendis-years-2005-2012](https://www.crushingkrisis.com/collecting-avengers-comic-books-as-graphic-novels-a-definitive-guide/avengers-reading-order-bendis-years-2005-2012/)
@@ -20,6 +19,8 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 [captain-america-by-ed-brubaker-reading-order](https://www.comicbooktreasury.com/captain-america-by-ed-brubaker-reading-order/)
 
 [captain-america-reading-order-modern-marvel-era](https://www.comicbookherald.com/captain-america-reading-order-modern-marvel-era/)
+
+[Marvel Knights](https://en.wikipedia.org/wiki/Marvel_Knights)
 
 ## Marvel Universe Reading Order
 
@@ -35,7 +36,7 @@ Avengers #500-503 (_Disassembled_) + Avengers Finale
 
 Captain America #1-14 (_Winter Soldier_)
 
-Wolverine #20-32 (_Public Enemy_)
+Wolverine #20-32 (_Enemy of the State_)
 
 Secret War #1-5
 
