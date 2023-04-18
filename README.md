@@ -31,7 +31,7 @@ The Pulse #1-5
 
 __Marvel Knights Spider-Man ?__
 
-Avengers Disassembled + Avengers Finale
+Avengers #500-503 (_Disassembled_) + Avengers Finale
 
 Captain America #1-14 (_Winter Soldier_)
 
@@ -77,9 +77,13 @@ Captain America #26-42
 
 Thunderbolts #116-121
 
-The Amazing Spider-Man #529-543 (*Back in black*)
+The Amazing Spider-Man #539-543 (*Back in black*)
 
-Spider-Man: One more day
+Spider-Man: One more day:
+- The Amazing Spider-Man #544
+- Friendly Neighborhood Spider-Man #24
+- The Sensational Spider-Man #41
+- The Amazing Spider-Man #545
 
 Civil War: The initiative
 
@@ -172,7 +176,7 @@ Siege :
 - New Avengers #61
 - Siege #2
 - Dark Avengers #14
-- New Aevngers #62
+- New Avengers #62
 - Siege #3
 - Dark Avengers #15
 - New Avengers #63
