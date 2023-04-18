@@ -23,7 +23,7 @@ Another notable example is the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### The New Avengers Era (2004 - ??)
+### The New Avengers Era (2004 - 2010)
 
 Thor #80-85 (_Ragnarok_)
 
