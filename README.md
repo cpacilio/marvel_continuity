@@ -107,7 +107,7 @@ Thor #1-11
 
 New Avengers Illuminati #1-5
 
-_Secret Invasion_ : 
+Secret Invasion : 
 - Migthy Avengers #12,13
 - Secret Invasion #1
 - New Avengers #40
@@ -165,7 +165,22 @@ Dark Reign The List: Avengers
 
 New Avengers Annual #3
 
-_Siege_ :
+Siege :
+- Siege: The Cabal
+- Siege #1
+- Dark Avengers #13
+- New Avengers #61
+- Siege #2
+- Dark Avengers #14
+- New Aevngers #62
+- Siege #3
+- Dark Avengers #15
+- New Avengers #63
+- Siege #4
+- Dark Avengers #16
+- New Avengers #64
+
+New Avengers Finale
 
 
 ## Notes
