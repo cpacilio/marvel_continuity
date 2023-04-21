@@ -56,6 +56,8 @@ The Amazing Spider-Man #529
 
 New Avengers #16-20
 
+Doctor Strange: The Oath #1-5
+
 Captain America #15-21+ 65th anniversary special
 
 The Pulse #11-14
@@ -189,7 +191,7 @@ New Avengers Finale
 
 
 ## Notes
-
+- Marvel Knights Spieder-Max #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - New Avengers 11: 
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
   - Madame Hydra is considered in disgrace (but where did it happen?)
