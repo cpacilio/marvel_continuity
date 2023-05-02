@@ -22,15 +22,29 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Marvel Knights](https://en.wikipedia.org/wiki/Marvel_Knights)
 
+[X-Men](https://www.comicbookherald.com/the-complete-x-men-reading-order-guide-modern-marvel-comics-era/#xmen2)
+
 ## Marvel Universe Reading Order
 
-### The New Avengers Era (2004 - 2010)
+### X-Men Modern Era ( - )
+
+Astonishing X-Men #1-6
+
+Madrox #1-5
+
+Astonishing X-Men #7-12
+
+House of M #1-8
+
+House of M: Decimation
+
+### New Avengers Era (2004 - 2010)
 
 Thor #80-85 (_Ragnarok_)
 
 The Pulse #1-5
 
-__Marvel Knights Spider-Man ?__
+Marvel Knights Spider-Man
 
 Avengers #500-503 (_Disassembled_) + Avengers Finale
 
@@ -46,7 +60,7 @@ New Avengers #1-10
 
 Young Avengers #1-12
 
-House of M #1-8 + House of M Decimation
+House of M #1-8
 
 New Avengers #11-15
 
