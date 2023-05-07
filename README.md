@@ -38,6 +38,21 @@ House of M #1-8
 
 House of M: Decimation
 
+X-Men: The 198 #1-5
+
+X-Men: Deadly Genesis #1-6
+
+Uncanny X-Men #475- (_The Rise and Fall of the Shi'ar Empire_)
+
+Astonishing X-Men #13-24 + Gian Size Astonishing X-Men #1
+
+### Notes
+- Astonishing X-Men #7-12: Prof. X is in Genosha
+- Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
+- Civil War: the Sentinels guard the school, therefore it happens during decimation
+- Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
+- Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
+
 ### New Avengers Era (2004 - 2010)
 
 Thor #80-85 (_Ragnarok_)
@@ -203,8 +218,7 @@ Siege :
 
 New Avengers Finale
 
-
-## Notes
+### Notes
 - Marvel Knights Spieder-Max #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - New Avengers 11: 
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
