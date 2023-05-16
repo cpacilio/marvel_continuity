@@ -26,7 +26,24 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### X-Men Modern Era ( - )
+### X-Men Modern Era (2001 - )
+
+New X-Men #114- :
+- #114-116 (_Cassandra Nova_)
+- Annual #1 (_Xorn_)
+- #117 (_Cassandra leaves to space_)
+- #118-120 (_U-Men_)
+- #122-126 (_Shi'ar_)
+- #127 (_Xorn's Diary_)
+- #128-130 (_Fantomex_)
+- #131 (_Darkstar funeral_)
+- #132 (_Magneto's funeral_)
+- #133 (_Jean goes to India_)
+- #134-138 (_Riot at the mansion_)
+- #139-141 (_Murder at the mansion_)
+- #142-145 (_Weapon Plus_)
+- #146-150 (_Planet X_)
+- #151-154 (_Here comes tomorrow_)
 
 Astonishing X-Men #1-6
 
