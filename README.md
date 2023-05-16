@@ -33,7 +33,7 @@ New X-Men #114- :
 - Annual #1 (_Xorn_)
 - #117 (_Cassandra leaves to space_)
 - #118-120 (_U-Men_)
-- #122-126 (_Shi'ar_)
+- #121-126 (_Shi'ar_)
 - #127 (_Xorn's Diary_)
 - #128-130 (_Fantomex_)
 - #131 (_Darkstar funeral_)
