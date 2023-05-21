@@ -65,6 +65,8 @@ Madrox #1-5
 
 Astonishing X-Men #7-12
 
+__Note__: Wolverine #20-31 (_Enemy of the State_) happens here
+
 __Note__: _Secret War_ happens here
 
 Excalibur #5-14
@@ -101,7 +103,7 @@ Avengers #500-503 (_Disassembled_) + Avengers Finale
 
 Captain America #1-14 (_Winter Soldier_)
 
-Wolverine #20-32 (_Enemy of the State_)
+Wolverine #20-31 (_Enemy of the State_)
 
 Secret War #1-5
 
