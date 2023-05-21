@@ -84,7 +84,6 @@ Uncanny X-Men #475-486 (_The Rise and Fall of the Shi'ar Empire_)
 Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 
 ### Notes
-- Astonishing X-Men #7-12: Prof. X is in Genosha
 - Excalibur #8: Avengers Disassembled happens. Magneto brings Scarlet back to Genosha
 - Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
 - Civil War: the Sentinels guard the school, therefore it happens during decimation
@@ -97,7 +96,7 @@ Thor #80-85 (_Ragnarok_)
 
 The Pulse #1-5
 
-Marvel Knights Spider-Man
+Marvel Knights Spider-Man #1-12
 
 Avengers #500-503 (_Disassembled_) + Avengers Finale
 
