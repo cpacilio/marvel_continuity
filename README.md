@@ -28,9 +28,17 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ### X-Men Modern Era (2001 - )
 
-New X-Men #114- :
+In the Modern Era, X-Men comic books are best represented by two flagship titles: _New X-Men_ (2001-2004) by Grant Morrison and _Astonishing X-Men_ by Joss Whedon (2004-2008). Both runs can be read independently from other titles running in parallel (with the small exception of AXM #14, mentioning the appointment of Maria Hill as the new head of SHIELD after _Secret War_).
+
+At the same time: _i._) 2004 marks the beginning of the event-centric era of Marvel Comics and all events mainly focus on the Avengers' storylines, and _ii._) nice X-Men stories happen in parallel with AXM. Therefore, when placed in continuity, AXM cannot be read straightly. 
+
+Finally, Marvel decided to retcon some events shown in NXM (in particular the characters of Magneto and Xorn). Catching-up with Magneto requires reading the _Excalibur_ miniseries by Chris Claremont, which also serves as a prelude to the _House of M_ event, while _New Avengers_ #20 provides details about the fate of Xorn. 
+
+I personally suggest to read Morrison's NXM and Whedon's AXM without interruptions. Once you have the overall perspective of these two excellent runs, you can read the other titles to fill-in the continuity and to enjoy many other nice runs.
+
+New X-Men #114-154 + Annual #1:
 - #114-116 (_Cassandra Nova_)
-- Annual #1 (_Xorn_)
+- New X-Men Annual #1 (_Xorn_)
 - #117 (_Cassandra leaves to space_)
 - #118-120 (_U-Men_)
 - #121-126 (_Shi'ar_)
@@ -39,17 +47,27 @@ New X-Men #114- :
 - #131 (_Darkstar funeral_)
 - #132 (_Magneto's funeral_)
 - #133 (_Jean goes to India_)
-- #134-138 (_Riot at the mansion_)
+- #134-138 (_Quentin Quine's riot_)
 - #139-141 (_Murder at the mansion_)
 - #142-145 (_Weapon Plus_)
 - #146-150 (_Planet X_)
 - #151-154 (_Here comes tomorrow_)
+
+Uncanny X-Men #442-443
+
+Excalibur #1-4
+
+__Note__: _Here you can read Astonishing X-Men #1-24 + Giant Size AXM #1 to enjoy the run without interruptions_
 
 Astonishing X-Men #1-6
 
 Madrox #1-5
 
 Astonishing X-Men #7-12
+
+__Note__: _Secret War_ happens here
+
+Excalibur #5-14
 
 House of M #1-8
 
@@ -59,12 +77,13 @@ X-Men: The 198 #1-5
 
 X-Men: Deadly Genesis #1-6
 
-Uncanny X-Men #475- (_The Rise and Fall of the Shi'ar Empire_)
+Uncanny X-Men #475-486 (_The Rise and Fall of the Shi'ar Empire_)
 
-Astonishing X-Men #13-24 + Gian Size Astonishing X-Men #1
+Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 
 ### Notes
 - Astonishing X-Men #7-12: Prof. X is in Genosha
+- Excalibur #8: Avengers Disassembled happens. Magneto brings Scarlet back to Genosha
 - Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
 - Civil War: the Sentinels guard the school, therefore it happens during decimation
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
@@ -241,10 +260,6 @@ New Avengers Finale
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
   - Madame Hydra is considered in disgrace (but where did it happen?)
   - Wolverine is on a mission with the X-Men
-- Young Avengers 1:
-  - Jessica Jones is still pregnant
-- New Avengers Illuminati #0:
-  - The Illuminati decide to exile Hulk on another planet
 - The Pulse #11-14:
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
   - The so called Murdock files are mentioned
@@ -252,9 +267,6 @@ New Avengers Finale
 - Captain America #28: Charles Xavier walks on his own legs and helps Tony stark
 - AMS 529: it is set before Daredevil #93
 - New avengers 35: Wilson Fisk is considered out of the games
-- New Avengers Annual 2: happens after _World War Hulk_
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in the classical suit
-- Thor #600: The Dark Avengers intervene
-- 
