@@ -26,6 +26,16 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
+### Marvel Knights
+
+Black Panther (2005) #1-6
+
+### Wolverine
+
+Wolverine: The Origin #1-6
+
+Wolverine (2003) #1-
+
 ### X-Men Modern Era (2001 - )
 
 In the Modern Era, X-Men comic books are best represented by two flagship titles: _New X-Men_ (2001-2004) by Grant Morrison and _Astonishing X-Men_ by Joss Whedon (2004-2008). Both runs can be read independently from other titles running in parallel (with the small exception of AXM #14, mentioning the appointment of Maria Hill as the new head of SHIELD after _Secret War_).
@@ -57,7 +67,7 @@ Uncanny X-Men #442-443
 
 Excalibur #1-4
 
-__Note__: _Here you can read Astonishing X-Men #1-24 + Giant Size AXM #1 to enjoy the run without interruptions_
+__Note__: Here you can read Astonishing X-Men #1-24 + Giant Size AXM #1 to enjoy the run without interruptions
 
 Astonishing X-Men #1-6
 
@@ -66,6 +76,8 @@ Madrox #1-5
 Astonishing X-Men #7-12
 
 __Note__: Wolverine #20-31 (_Enemy of the State_) happens here
+
+Phoenix: Endsong
 
 __Note__: _Secret War_ happens here
 
@@ -81,12 +93,19 @@ X-Men: Deadly Genesis #1-6
 
 Uncanny X-Men #475-486 (_The Rise and Fall of the Shi'ar Empire_)
 
+__Note__ _Civil War_ happens here
+
+Civil War: X-Men #1-4
+
+Phoenix: Warsong #1-5
+
 Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 
 ### Notes
 - Excalibur #8: Avengers Disassembled happens. Magneto brings Scarlet back to Genosha
 - Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
 - Civil War: the Sentinels guard the school, therefore it happens during decimation
+- Phoenix: Warsong #1: we see the ``anime robot'' sentinels, therefore it's set after Civil: War X-Men.
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
@@ -256,7 +275,7 @@ Siege :
 New Avengers Finale
 
 ### Notes
-- Marvel Knights Spieder-Max #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
+- Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - New Avengers 11: 
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
   - Madame Hydra is considered in disgrace (but where did it happen?)
@@ -265,7 +284,7 @@ New Avengers Finale
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
   - The so called Murdock files are mentioned
 - During the Civil War, Dr. Strange and Wolverine are absent
-- Captain America #28: Charles Xavier walks on his own legs and helps Tony stark
+- Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_
 - AMS 529: it is set before Daredevil #93
 - New avengers 35: Wilson Fisk is considered out of the games
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
