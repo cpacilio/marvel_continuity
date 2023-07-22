@@ -24,6 +24,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [X-Men](https://www.comicbookherald.com/the-complete-x-men-reading-order-guide-modern-marvel-comics-era/#xmen2)
 
+[Spider-Man](https://www.comicbookherald.com/amazing-spider-man-reading-order-modern-marvel-era/)
+
 ## Marvel Universe Reading Order
 
 ### Spider-Man
