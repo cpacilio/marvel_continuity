@@ -26,6 +26,14 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
+### Spider-Man
+
+The Amazing Spider-Man #50
+
+Spectacular Spider-Man #2
+
+The Amazing Spider-Man #68-77
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
