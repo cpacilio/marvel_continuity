@@ -30,11 +30,36 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ### Spider-Man
 
-The Amazing Spider-Man #50
+#### Silver Age (1962-1973)
 
-Spectacular Spider-Man #2
+Spider-Man: Chapter One #1-12
 
-The Amazing Spider-Man #68-77
+Spider-Max: Blue #1-6
+
+AMS #50 (_Spider-Man no more_)
+
+Spectacular Spider-Man #2 (_Goblin lives_)
+
+AMS #68-77 (_Petrified tablet Saga_)
+
+AMS #88-92,95 (_Death of Captain Stacy_)
+
+AMS #96-98 (_Harry's drug addiction_)
+
+AMS #121-123 (_Goblin's last stand_)
+
+#### Bronze Age (1973- )
+
+AMS #129 (_First appearence of the Punisher and the Jackal_)
+
+AMS #134-135 (_Tarantula and return of the Punisher_)
+
+AMS #136-137 (_Goblin lives again_)
+
+AMS #145-150 (_Original clone Saga_)
+
+#### Notes
+- AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
 
 ### Marvel Knights
 
@@ -111,7 +136,7 @@ Phoenix: Warsong #1-5
 
 Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 
-### Notes
+#### Notes
 - Excalibur #8: Avengers Disassembled happens. Magneto brings Scarlet back to Genosha
 - Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
 - Civil War: the Sentinels guard the school, therefore it happens during decimation
@@ -284,7 +309,7 @@ Siege :
 
 New Avengers Finale
 
-### Notes
+#### Notes
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - New Avengers 11: 
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
