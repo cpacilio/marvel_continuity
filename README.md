@@ -48,7 +48,7 @@ AMS #96-98 (_Harry's drug addiction_)
 
 AMS #121-123 (_Goblin's last stand_)
 
-#### Bronze Age (1973- )
+#### Bronze Age (1973-1984)
 
 AMS #129 (_First appearence of the Punisher and the Jackal_)
 
@@ -57,6 +57,16 @@ AMS #134-135 (_Tarantula and return of the Punisher_)
 AMS #136-137 (_Goblin lives again_)
 
 AMS #145-150 (_Original clone Saga_)
+
+AMS #176-180 (_Goblis vs. Silvermane_)
+
+AMS #185 (_Peter graduates_)
+
+AMS #194- (_First appearence of the Black Cat & Death of Aunt May_)
+
+AMS Annual #13 + PPSSM Annual #1 (_Dock Ock adventure_)
+
+#### Dark Age (1984- )
 
 #### Notes
 - AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
