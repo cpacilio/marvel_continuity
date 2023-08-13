@@ -36,6 +36,10 @@ Spider-Man: Chapter One #1-12
 
 AMS Annual #1 (_The Sinister Six_)
 
+AMS Annual #2 (_First meeting with Doctor Strange_)
+
+AMS Annual #3 (_First meeting with The Avengers_)
+
 Spider-Max: Blue #1-6
 
 AMS #50 (_Spider-Man no more_)
