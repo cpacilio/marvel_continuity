@@ -34,6 +34,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 Spider-Man: Chapter One #1-12
 
+AMS Annual #1 (_The Sinister Six_)
+
 Spider-Max: Blue #1-6
 
 AMS #50 (_Spider-Man no more_)
