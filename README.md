@@ -56,6 +56,8 @@ AMS #121-123 (_Goblin's last stand_)
 
 #### Bronze Age (1973-1984)
 
+AMS #124-125 (_Man-Wolf_)
+
 AMS #129 (_First appearence of the Punisher and the Jackal_)
 
 AMS #134-135 (_Tarantula and return of the Punisher_)
