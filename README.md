@@ -76,6 +76,7 @@ AMS Annual #13 + PPSSM Annual #1 (_Dock Ock adventure_)
 
 #### Notes
 - AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
+- AMS #195 makes multiple references to the fact that Spider-Man failed to hold John Jameson and dropped him to death.
 
 ### Marvel Knights
 
