@@ -68,7 +68,17 @@ AMS #145-150 (_Original clone Saga_)
 
 AMS #176-180 (_Goblis vs. Silvermane_)
 
-AMS #185 (_Peter graduates_)
+__Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, ending with AMS Annual #13.
+
+AMS #182-183 (_Peter proposes to Mary Jane_)
+
+AMS #184-185 (_White Dragon and graduation ceremony_)
+
+AMS #186 (_Spider-Man cleared by the police_)
+
+AMS #189-190 (_Death of the Man-Wolf_)
+
+AMS #191-193 (_Spencer Smythe and The Fly_)
 
 AMS #194- (_First appearence of the Black Cat & Death of Aunt May_)
 
