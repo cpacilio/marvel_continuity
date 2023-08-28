@@ -68,7 +68,7 @@ AMS #145-150 (_Original clone Saga_)
 
 AMS #176-180 (_Goblis vs. Silvermane_)
 
-__Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, ending with AMS Annual #13.
+__Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, running through AMS #182-204 and Annual #13.
 
 AMS #182-183 (_Peter proposes to Mary Jane_)
 
@@ -80,7 +80,7 @@ AMS #189-190 (_Death of the Man-Wolf_)
 
 AMS #191-193 (_Spencer Smythe and The Fly_)
 
-AMS #194- (_First appearence of the Black Cat & Death of Aunt May_)
+AMS #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_)
 
 AMS Annual #13 + PPSSM Annual #1 (_Dock Ock adventure_)
 
