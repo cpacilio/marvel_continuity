@@ -32,7 +32,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 #### Silver Age (1962-1973)
 
-Spider-Man: Chapter One #1-12
+Spider-Man: Chapter One #1-6, #0, #7-12
 
 AMS Annual #1 (_The Sinister Six_)
 
@@ -87,7 +87,7 @@ AMS Annual #13 + PPSSM Annual #1 (_Dock Ock adventure_)
 #### Dark Age (1984- )
 
 #### Notes
-- SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens from the flaskback scenes originally portrayed in PPSM #51
+- SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51
 - AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
 
 ### Marvel Knights
