@@ -101,7 +101,7 @@ AMS Annual #15 (_Punisher vs. Doc Ock_)
 - AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
 - in PPSSM Annual #3, Peter works for the Bugle again
 - AMS Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
-- AMS Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police.
+- AMS Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
 
 ### Marvel Knights
 
