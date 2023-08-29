@@ -84,13 +84,24 @@ AMS #191-193 (_Spencer Smythe and The Fly_)
 
 AMS #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_)
 
-AMS Annual #13 + PPSSM Annual #1 (_Dock Ock adventure_)
+AMS Annual #13 + PPSSM Annual #1 (_Dock Ock returns_)
+
+AMS Annual #14 (_Doctor Strange vs Dr. Doom_)
+
+Marvel Team-Up #100 (_FF & Vietnamise Mutants_)
+
+PPSSM Annual #3 (_Healing of the Man-Wolf_)
+
+AMS Annual #15 (_Punisher vs. Doc Ock_)
 
 #### Dark Age (1984- )
 
 #### Notes
 - SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51
 - AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
+- in PPSSM Annual #3, Peter works for the Bugle again
+- AMS Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
+- AMS Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police.
 
 ### Marvel Knights
 
