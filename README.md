@@ -68,7 +68,7 @@ AMS #136-137 (_Goblin lives again_)
 
 AMS #145-150 (_Original clone Saga_)
 
-AMS #176-180 (_Goblis vs. Silvermane_)
+AMS #176-180 (_Goblin vs. Silvermane_)
 
 __Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, running through AMS #182-204 and Annual #13.
 
@@ -109,6 +109,14 @@ AMS Annual #17 (_old school reunion & kingpin_)
 AMS #240-241 (_Vulture's Revenge_) 
 
 AMS #243 (_Peter quits graduate school_)
+
+PPSSM #81-82 (_Cloak & Dagger vs Kingpin vs Punisher_)
+
+AMS #244-245 (_Hobgoblin pt.2_)
+
+PPSSM #83 (_Trial of the Punisher_)
+
+MTU #132-133 (_Every-Man & Dr. Faustus_)
 
 #### Dark Age (1984- )
 
