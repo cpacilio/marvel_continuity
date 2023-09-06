@@ -118,6 +118,14 @@ PPSSM #83 (_Trial of the Punisher_)
 
 MTU #132-133 (_Every-Man & Dr. Faustus_)
 
+AMS #246 (_Daydreaming_)
+
+AMS #248 (_The boy Who collects Spider-Man_)
+
+PPSSM #85 (_Hobgoblin's super strength_)
+
+AMS #249-251 (_Final battle against hobgoblin_)
+
 #### Dark Age (1984- )
 
 #### Notes
