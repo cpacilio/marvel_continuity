@@ -128,6 +128,16 @@ AMS #249-251 (_Final battle against hobgoblin_)
 
 #### Dark Age (1984- )
 
+AMS #252 (_intro to the black costume_)
+
+PPSSM #90-91 (_black-cat & SM vs the blob_)
+
+ASM #253 (_intro to the Rose_)
+
+AMS #254 (_Jack O'Lantern & Hobgoblin's van_)
+
+AMS #256-258 (_Puma & MJ's revalation & dismiss of the symbiote_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from AMS #241.
@@ -136,6 +146,8 @@ AMS #249-251 (_Final battle against hobgoblin_)
 - AMS Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
 - AMS Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
 - PPSSM #76 happens between AMS #238 and 239.
+- In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
+- AMS #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
 
 ### Marvel Knights
 
