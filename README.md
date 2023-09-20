@@ -136,7 +136,13 @@ ASM #253 (_intro to the Rose_)
 
 AMS #254 (_Jack O'Lantern & Hobgoblin's van_)
 
-AMS #256-258 (_Puma & MJ's revalation & dismiss of the symbiote_)
+AMS #256-259 (_Puma & MJ's revalation & dismiss of the symbiote_)
+
+AMS #260-261 (Hobgoblin lives)
+
+PPSSM #98-100 (Black Cat vs Kingpin)
+
+WSM #1 (Confrontation with the symbiote)
 
 #### Notes
 - SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51.
