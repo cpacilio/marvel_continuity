@@ -154,6 +154,7 @@ WSM #1 (Confrontation with the symbiote)
 - PPSSM #76 happens between AMS #238 and 239.
 - In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
 - AMS #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
+- In PPSSM #99 the Black cat gives a manifactured balck suit to Peter.
 
 ### Marvel Knights
 
