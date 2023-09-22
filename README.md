@@ -144,6 +144,10 @@ PPSSM #98-100 (Black Cat vs Kingpin)
 
 WSM #1 (Confrontation with the symbiote)
 
+AMS #267 (_The commuter_)
+
+PPSSM #107-110 (_The death of Jean deWolff_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from AMS #241.
@@ -155,6 +159,7 @@ WSM #1 (Confrontation with the symbiote)
 - In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
 - AMS #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
 - In PPSSM #99 the Black cat gives a manifactured balck suit to Peter.
+- _The death of Jean deWolff_ is really a gem of a story
 
 ### Marvel Knights
 
