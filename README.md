@@ -138,15 +138,23 @@ AMS #254 (_Jack O'Lantern & Hobgoblin's van_)
 
 AMS #256-259 (_Puma & MJ's revalation & dismiss of the symbiote_)
 
-AMS #260-261 (Hobgoblin lives)
+AMS #260-261 (_Hobgoblin lives_)
 
-PPSSM #98-100 (Black Cat vs Kingpin)
+PPSSM #98-100 (_Black Cat vs Kingpin_)
 
-WSM #1 (Confrontation with the symbiote)
+WSM #1 (_Confrontation with the symbiote_)
 
 AMS #267 (_The commuter_)
 
 PPSSM #107-110 (_The death of Jean deWolff_)
+
+AMS #275-278 (_Flash framed as the hobgoblin_)
+
+AMS #284-288 (_Gang War_)
+
+Spider-Man versus Wolverine (_Death of Need Leeds_)
+
+AMS #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51.
@@ -160,6 +168,8 @@ PPSSM #107-110 (_The death of Jean deWolff_)
 - AMS #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
 - In PPSSM #99 the Black cat gives a manifactured balck suit to Peter.
 - _The death of Jean deWolff_ is really a gem of a story
+- AMS #277 Is set during DD Born Again, After DD #228
+- AMS #284-288 (Gang War) takes Place After DD: Love and War
 
 ### Marvel Knights
 
