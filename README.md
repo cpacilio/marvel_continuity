@@ -36,140 +36,140 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 Spider-Man: Chapter One #1-6, #0, #7-12
 
-AMS Annual #1 (_The Sinister Six_)
+ASM Annual #1 (_The Sinister Six_)
 
-AMS Annual #2 (_First meeting with Doctor Strange_)
+ASM Annual #2 (_First meeting with Doctor Strange_)
 
-AMS Annual #3 (_First meeting with The Avengers_)
+ASM Annual #3 (_First meeting with The Avengers_)
 
 Spider-Max: Blue #1-6
 
-AMS #50 (_Spider-Man no more_)
+ASM #50 (_Spider-Man no more_)
 
 Spectacular Spider-Man #2 (_Goblin lives_)
 
-AMS #68-77 (_Petrified tablet Saga_)
+ASM #68-77 (_Petrified tablet Saga_)
 
-AMS #88-92,95 (_Death of Captain Stacy_)
+ASM #88-92,95 (_Death of Captain Stacy_)
 
-AMS #96-98 (_Harry's drug addiction_)
+ASM #96-98 (_Harry's drug addiction_)
 
-AMS #121-123 (_Goblin's last stand_)
+ASM #121-123 (_Goblin's last stand_)
 
 #### Bronze Age (1973-1984)
 
-AMS #124-125 (_Man-Wolf_)
+ASM #124-125 (_Man-Wolf_)
 
-AMS #129 (_First appearence of the Punisher and the Jackal_)
+ASM #129 (_First appearence of the Punisher and the Jackal_)
 
-AMS #134-135 (_Tarantula and return of the Punisher_)
+ASM #134-135 (_Tarantula and return of the Punisher_)
 
-AMS #136-137 (_Goblin lives again_)
+ASM #136-137 (_Goblin lives again_)
 
-AMS #145-150 (_Original clone Saga_)
+ASM #145-150 (_Original clone Saga_)
 
-AMS #176-180 (_Goblin vs. Silvermane_)
+ASM #176-180 (_Goblin vs. Silvermane_)
 
-__Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, running through AMS #182-204 and Annual #13.
+__Note__: Here starts Malv Wolfman's 2-yr run, which I really appreciate, running through ASM #182-204 and Annual #13.
 
-AMS #182-183 (_Peter proposes to Mary Jane_)
+ASM #182-183 (_Peter proposes to Mary Jane_)
 
-AMS #184-185 (_White Dragon and graduation ceremony_)
+ASM #184-185 (_White Dragon and graduation ceremony_)
 
-AMS #186 (_Spider-Man cleared by the police_)
+ASM #186 (_Spider-Man cleared by the police_)
 
-AMS #189-190 (_Death of the Man-Wolf_)
+ASM #189-190 (_Death of the Man-Wolf_)
 
-AMS #191-193 (_Spencer Smythe and The Fly_)
+ASM #191-193 (_Spencer Smythe and The Fly_)
 
-AMS #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_)
+ASM #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_)
 
-AMS Annual #13 + PPSSM Annual #1 (_Dock Ock returns_)
+ASM Annual #13 + PPSSM Annual #1 (_Dock Ock returns_)
 
-AMS Annual #14 (_Doctor Strange vs Dr. Doom_)
+ASM Annual #14 (_Doctor Strange vs Dr. Doom_)
 
 Marvel Team-Up #100 (_FF & Vietnamise Mutants_)
 
 PPSSM Annual #3 (_Healing of the Man-Wolf_)
 
-AMS Annual #15 (_Punisher vs. Doc Ock_)
+ASM Annual #15 (_Punisher vs. Doc Ock_)
 
 PPSSM #71 (_Gun control_)
 
 ASM Annual #16 (_All-new Captain Marvel_)
 
-AMS #229-230 (_nothing can stop the Juggernaut_)
+ASM #229-230 (_nothing can stop the Juggernaut_)
 
 PPSSM #76 (_Black-Cat at hospital_)
 
-AMS #238-239 (_Origin of Hobgoblin_) 
+ASM #238-239 (_Origin of Hobgoblin_) 
 
-AMS Annual #17 (_old school reunion & kingpin_)
+ASM Annual #17 (_old school reunion & kingpin_)
 
-AMS #240-241 (_Vulture's Revenge_) 
+ASM #240-241 (_Vulture's Revenge_) 
 
-AMS #243 (_Peter quits graduate school_)
+ASM #243 (_Peter quits graduate school_)
 
 PPSSM #81-82 (_Cloak & Dagger vs Kingpin vs Punisher_)
 
-AMS #244-245 (_Hobgoblin pt.2_)
+ASM #244-245 (_Hobgoblin pt.2_)
 
 PPSSM #83 (_Trial of the Punisher_)
 
 MTU #132-133 (_Every-Man & Dr. Faustus_)
 
-AMS #246 (_Daydreaming_)
+ASM #246 (_Daydreaming_)
 
-AMS #248 (_The boy Who collects Spider-Man_)
+ASM #248 (_The boy Who collects Spider-Man_)
 
 PPSSM #85 (_Hobgoblin's super strength_)
 
-AMS #249-251 (_Final battle against hobgoblin_)
+ASM #249-251 (_Final battle against hobgoblin_)
 
 #### Dark Age (1984- )
 
-AMS #252 (_intro to the black costume_)
+ASam #252 (_intro to the black costume_)
 
 PPSSM #90-91 (_black-cat & SM vs the blob_)
 
 ASM #253 (_intro to the Rose_)
 
-AMS #254 (_Jack O'Lantern & Hobgoblin's van_)
+ASM #254 (_Jack O'Lantern & Hobgoblin's van_)
 
-AMS #256-259 (_Puma & MJ's revalation & dismiss of the symbiote_)
+ASM #256-259 (_Puma & MJ's revalation & dismiss of the symbiote_)
 
-AMS #260-261 (_Hobgoblin lives_)
+ASM #260-261 (_Hobgoblin lives_)
 
 PPSSM #98-100 (_Black Cat vs Kingpin_)
 
 WSM #1 (_Confrontation with the symbiote_)
 
-AMS #267 (_The commuter_)
+ASM #267 (_The commuter_)
 
 PPSSM #107-110 (_The death of Jean deWolff_)
 
-AMS #275-278 (_Flash framed as the hobgoblin_)
+ASM #275-278 (_Flash framed as the hobgoblin_)
 
-AMS #284-288 (_Gang War_)
+ASM #284-288 (_Gang War_)
 
 Spider-Man versus Wolverine (_Death of Need Leeds_)
 
-AMS #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
+ASM #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
 
 #### Notes
-- SM Ch.One #3 portrays the events of AMS #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSM #51.
-- SM Ch.One #0 bortows the origins of the Vulture from AMS #241.
-- AMS #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, AMS #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in AMS #123, however it is completely irrelevant to the scope of that issue.
+- SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
+- SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
+- ASM #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, ASM #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in ASM #123, however it is completely irrelevant to the scope of that issue.
 - in PPSSM Annual #3, Peter works for the Bugle again
-- AMS Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
-- AMS Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
-- PPSSM #76 happens between AMS #238 and 239.
+- ASM Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
+- ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
+- PPSSM #76 happens between ASM #238 and 239.
 - In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
-- AMS #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
+- ASM #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
 - In PPSSM #99 the Black cat gives a manifactured balck suit to Peter.
 - _The death of Jean deWolff_ is really a gem of a story
-- AMS #277 Is set during DD Born Again, After DD #228
-- AMS #284-288 (Gang War) takes Place After DD: Love and War
+- ASM #277 Is set during DD Born Again, After DD #228
+- ASM #284-288 (Gang War) takes Place After DD: Love and War
 
 ### Marvel Knights
 
