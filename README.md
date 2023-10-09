@@ -156,6 +156,10 @@ Spider-Man versus Wolverine (_Death of Need Leeds_)
 
 ASM #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
 
+ASM #290-292 + Annual #21 (Peter marries MJ)
+
+WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hunt_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
