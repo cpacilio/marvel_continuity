@@ -128,7 +128,7 @@ ASM #249-251 (_Final battle against hobgoblin_)
 
 #### Dark Age (1984- )
 
-ASam #252 (_intro to the black costume_)
+ASM #252 (_intro to the black costume_)
 
 PPSSM #90-91 (_black-cat & SM vs the blob_)
 
