@@ -156,7 +156,7 @@ Spider-Man versus Wolverine (_Death of Need Leeds_)
 
 ASM #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
 
-ASM #290-292 + Annual #21 (Peter marries MJ)
+ASM #290-292 + Annual #21 (_Peter marries MJ_)
 
 WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hunt_)
 
