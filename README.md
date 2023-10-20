@@ -162,7 +162,7 @@ WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hun
 
 ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_)
 
-PPSSM #134-136 (_ Sin-Eater released_)
+PPSSM #134-136 (_Sin-Eater released_)
 
 ASM #300 (_Birth of Venom_)
 
