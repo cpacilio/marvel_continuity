@@ -34,7 +34,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 #### Silver Age (1962-1973)
 
-Spider-Man: Chapter One #1-6, #0, #7-12
+Spider-Man: Chapter One #1-6, #0, #7-12 __[Favourite]__
 
 ASM Annual #1 (_The Sinister Six_)
 
@@ -42,19 +42,19 @@ ASM Annual #2 (_First meeting with Doctor Strange_)
 
 ASM Annual #3 (_First meeting with The Avengers_)
 
-Spider-Max: Blue #1-6
+Spider-Max: Blue #1-6 __[Favourite]__
 
 ASM #50 (_Spider-Man no more_)
 
-Spectacular Spider-Man #2 (_Goblin lives_)
+Spectacular Spider-Man #2 (_Goblin lives_) __[Favourite]__
 
-ASM #68-77 (_Petrified tablet Saga_)
+ASM #68-77 (_Petrified tablet Saga_) __[Favourite]__
 
-ASM #88-92,95 (_Death of Captain Stacy_)
+ASM #88-92,95 (_Death of Captain Stacy_) __[Favourite]__
 
-ASM #96-98 (_Harry's drug addiction_)
+ASM #96-98 (_Harry's drug addiction_) __[Favourite]__
 
-ASM #121-123 (_Goblin's last stand_)
+ASM #121-123 (_Goblin's last stand_) __[Favourite]__
 
 #### Bronze Age (1973-1984)
 
@@ -78,13 +78,13 @@ ASM #184-185 (_White Dragon and graduation ceremony_)
 
 ASM #186 (_Spider-Man cleared by the police_)
 
-ASM #189-190 (_Death of the Man-Wolf_)
+ASM #189-190 (_Death of the Man-Wolf_) __[Favourite]__
 
 ASM #191-193 (_Spencer Smythe and The Fly_)
 
-ASM #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_)
+ASM #194-200 (_First appearence of the Black Cat & Death of Aunt May & The Burglar_) __[Favourite]__
 
-ASM Annual #13 + PPSSM Annual #1 (_Dock Ock returns_)
+ASM Annual #13 + PPSSM Annual #1 (_Dock Ock returns_) __[Favourite]__
 
 ASM Annual #14 (_Doctor Strange vs Dr. Doom_)
 
@@ -92,7 +92,7 @@ Marvel Team-Up #100 (_FF & Vietnamise Mutants_)
 
 PPSSM Annual #3 (_Healing of the Man-Wolf_)
 
-ASM Annual #15 (_Punisher vs. Doc Ock_)
+ASM Annual #15 (_Punisher vs. Doc Ock_) __[Favourite]__
 
 PPSSM #71 (_Gun control_)
 
@@ -146,7 +146,7 @@ WSM #1 (_Confrontation with the symbiote_)
 
 ASM #267 (_The commuter_)
 
-PPSSM #107-110 (_The death of Jean deWolff_)
+PPSSM #107-110 (_The death of Jean deWolff_) __[Favourite]__
 
 ASM #275-278 (_Flash framed as the hobgoblin_)
 
@@ -154,15 +154,15 @@ ASM #284-288 (_Gang War_)
 
 Spider-Man versus Wolverine (_Death of Need Leeds_)
 
-ASM #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_)
+ASM #289, WSM #29-30 (_Hobgoblin revealed, End of the Rose_) __[Favourite]__
 
-ASM #290-292 + Annual #21 (_Peter marries MJ_)
+ASM #290-292 + Annual #21 (_Peter marries MJ_) __[Favourite]__
 
-WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hunt_)
+WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hunt_) __[Favourite]__
 
-ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_)
+ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_) __[Favourite]__
 
-PPSSM #134-136 (_Sin-Eater released_)
+PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
 ASM #300 (_Birth of Venom_)
 
