@@ -168,6 +168,8 @@ ASM #300 (_Birth of Venom_)
 
 ASM #315-317 (_Venom returns_)
 
+ASM #334-339 (_Return of the Sinister Six, Death of Nathan Lubensky_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
