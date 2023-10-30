@@ -166,9 +166,17 @@ PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
 ASM #300 (_Birth of Venom_)
 
+PPSSM #139-143 (_Thombstone_)
+
+PPSSM Annual #8 (_Gwen's clone and the High Evolutionary_)
+
+ASM #311, PPSSM #146, WSM #47, ASM #312, PPSSM #147, WSM #48, ASM #313, PPSSM #148 (_Inferno, Hobgoblin becomes a demon_)
+
 ASM #315-317 (_Venom returns_)
 
 ASM #334-339 (_Return of the Sinister Six, Death of Nathan Lubensky_)
+
+PPSSM #162-163 (_Hobgoblin & Carrion_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
