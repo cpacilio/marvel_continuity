@@ -164,19 +164,23 @@ ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_) __[Favourite]__
 
 PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
-ASM #300 (_Birth of Venom_)
+ASM #300 (_Birth of Venom_) __[Favourite]__
 
-PPSSM #139-143 (_Thombstone_)
+PPSSM #139-143 (_Tombstone_) __[Favourite]__
 
 PPSSM Annual #8 (_Gwen's clone and the High Evolutionary_)
 
 ASM #311, PPSSM #146, WSM #47, ASM #312, PPSSM #147, WSM #48, ASM #313, PPSSM #148 (_Inferno, Hobgoblin becomes a demon_)
+
+PPSSM #149-150 (_Carrion, Trial of Robbie Robertson_)
 
 ASM #315-317 (_Venom returns_)
 
 ASM #334-339 (_Return of the Sinister Six, Death of Nathan Lubensky_)
 
 PPSSM #162-163 (_Hobgoblin & Carrion_)
+
+Spider-Man #1-5 (_Torment. Calypso & Lizard_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -192,6 +196,7 @@ PPSSM #162-163 (_Hobgoblin & Carrion_)
 - _The death of Jean deWolff_ is really a gem of a story
 - ASM #277 Is set during DD Born Again, After DD #228
 - ASM #284-288 (Gang War) takes Place After DD: Love and War
+- The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards kraven, insisting on his pride to make him fight Spider-Man.
 
 ### Marvel Knights
 
