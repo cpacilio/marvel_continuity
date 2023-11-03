@@ -172,6 +172,8 @@ PPSSM Annual #8 (_Gwen's clone and the High Evolutionary_)
 
 ASM #311, PPSSM #146, WSM #47, ASM #312, PPSSM #147, WSM #48, ASM #313, PPSSM #148 (_Inferno, Hobgoblin becomes a demon_)
 
+ASM #314 (_New Year's Eve_) 
+
 PPSSM #149-150 (_Carrion, Trial of Robbie Robertson_)
 
 ASM #315-317 (_Venom returns_)
