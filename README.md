@@ -26,7 +26,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Spider-Man](https://www.comicbookherald.com/amazing-spider-man-reading-order-modern-marvel-era/)
 
-[Spider-Man Master Reading Order](comicsbackissues.com/comic-book-reading-order/spider-man-read-order-chronology/)
+[Spider-Man Master Reading Order](http://www.comicsbackissues.com/comic-book-reading-order/spider-man-read-order-chronology/)
 
 ## Marvel Universe Reading Order
 
