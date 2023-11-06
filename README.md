@@ -201,6 +201,7 @@ Spider-Man #6-7 (_Masques. Hobgoblin vs GhostvRider_) __[Favourite]__
 - ASM #277 Is set during DD Born Again, After DD #228
 - ASM #284-288 (Gang War) takes Place After DD: Love and War
 - The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards kraven, insisting on his pride to make him fight Spider-Man.
+- After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring and moreover they are not in MU.
 
 ### Marvel Knights
 
