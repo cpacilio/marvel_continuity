@@ -180,11 +180,11 @@ ASM #315-317 (_Venom returns_)
 
 ASM #334-339 (_Return of the Sinister Six, Death of Nathan Lubensky_)
 
-PPSSM #162-163 (_Hobgoblin & Carrion_)
+PPSSM #161-163 (_Hobgoblin & Carrion_) [#161 not on MU]
 
 Spider-Man #1-5 (_Torment. Calypso & Lizard_)
 
-Spider-Man #6-7 (_Masques. Hobgoblin vs GhostvRider_) __[Favourite]__
+Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
