@@ -186,6 +186,8 @@ Spider-Man #1-5 (_Torment. Calypso & Lizard_)
 
 Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
+PPSSM #171-172 (_Confrontation with Puma_) [not on MU]
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
