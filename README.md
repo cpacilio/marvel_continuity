@@ -148,6 +148,8 @@ ASM #267 (_The commuter_)
 
 PPSSM #107-110 (_The death of Jean deWolff_) __[Favourite]__
 
+WSM #13 (_Point of view_) [not on MU]
+
 ASM #275-278 (_Flash framed as the hobgoblin_)
 
 ASM #284-288 (_Gang War_)
@@ -165,6 +167,8 @@ ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_) __[Favourite]__
 PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
 ASM #300 (_Birth of Venom_) __[Favourite]__
+
+AMS # (_MJ kidnapped_)
 
 PPSSM #139-143 (_Tombstone_) __[Favourite]__
 
