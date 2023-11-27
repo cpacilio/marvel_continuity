@@ -188,9 +188,11 @@ PPSSM #161-163 (_Hobgoblin & Carrion_) [#161 not on MU]
 
 Spider-Man #1-5 (_Torment. Calypso & Lizard_)
 
+PPSSM #171-172 (_Confrontation with Puma_) [not on MU]
+
 Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
-PPSSM #171-172 (_Confrontation with Puma_) [not on MU]
+WSM #84-90 (_Name of the Rose_) [not on MU]
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -208,6 +210,7 @@ PPSSM #171-172 (_Confrontation with Puma_) [not on MU]
 - ASM #284-288 (Gang War) takes Place After DD: Love and War
 - The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards kraven, insisting on his pride to make him fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring and moreover they are not in MU.
+- WSM #84-89 (_Name of the Rose_) takes Place before DD #300.
 
 ### Marvel Knights
 
