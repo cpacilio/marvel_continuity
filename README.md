@@ -168,9 +168,9 @@ PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
 ASM #300 (_Birth of Venom_) __[Favourite]__
 
-AMS # (_MJ kidnapped_)
-
 PPSSM #139-143 (_Tombstone_) __[Favourite]__
+
+ASM #307-309 (_MJ kidnapped_)
 
 PPSSM Annual #8 (_Gwen's clone and the High Evolutionary_)
 
