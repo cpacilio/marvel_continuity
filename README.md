@@ -192,6 +192,8 @@ PPSSM #171-172 (_Confrontation with Puma_) [not on MU]
 
 Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
+Ghost Rider #16-17 (_Blaze & GR & SM vs Hobgoblin_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
@@ -208,7 +210,7 @@ Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 - ASM #284-288 (_Gang War_) takes Place After DD: Love and War
 - The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards kraven, insisting on his pride to make him fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring and moreover they are not in MU.
-- WSM #84-89 (_Name of the Rose_) [not in MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Moonknight #32-33 and Ghost Rider #16-17. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
+- WSM #84-89 (_Name of the Rose_) [not in MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
 
 ### Marvel Knights
 
