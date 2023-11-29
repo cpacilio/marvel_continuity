@@ -28,6 +28,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Spider-Man Master Reading Order](http://www.comicsbackissues.com/comic-book-reading-order/spider-man-read-order-chronology/)
 
+[Life of Reilly](http://lifeofreillyarchives.blogspot.com/2008/03/part-35.html?m=0)
+
 ## Marvel Universe Reading Order
 
 ### Spider-Man
