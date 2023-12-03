@@ -196,6 +196,16 @@ Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
 Ghost Rider #16-17 (_Blaze & GR & SM vs Hobgoblin_)
 
+Spider-Man: Soul of the Hunter
+
+PPSSM #178-184 (_The child within_)
+
+ASM #361-363 (_Carnage first appearence_)
+
+PPSSM #186-188 (_Funeral Arrangements_)
+
+PPSSM #189 (_The Osborn Legacy_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
