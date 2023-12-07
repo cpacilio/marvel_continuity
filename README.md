@@ -196,17 +196,17 @@ Spider-Man #6-7 (_Masques. Hobgoblin vs Ghost Rider_) __[Favourite]__
 
 Ghost Rider #16-17 (_Blaze & GR & SM vs Hobgoblin_)
 
-Spider-Man: Soul of the Hunter
+Spider-Man: Soul of the Hunter __[Favourite]__
 
 Spider-Man: Spirits of the Earth
 
-PPSSM #178-184 (_The child within_)
+PPSSM #178-184 (_The child within_) __[Favourite]__
 
 ASM #361-363 (_Carnage first appearence_)
 
-PPSSM #186-188 (_Funeral Arrangements_)
+PPSSM #186-188 (_Funeral Arrangements_) __[Favourite]__
 
-PPSSM #189-190 (_The Osborn Legacy_)
+PPSSM #189-190 (_The Osborn Legacy_) __[Favourite]__
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
