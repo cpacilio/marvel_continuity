@@ -198,13 +198,15 @@ Ghost Rider #16-17 (_Blaze & GR & SM vs Hobgoblin_)
 
 Spider-Man: Soul of the Hunter
 
+Spider-Man: Spirits of the Earth
+
 PPSSM #178-184 (_The child within_)
 
 ASM #361-363 (_Carnage first appearence_)
 
 PPSSM #186-188 (_Funeral Arrangements_)
 
-PPSSM #189 (_The Osborn Legacy_)
+PPSSM #189-190 (_The Osborn Legacy_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
