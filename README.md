@@ -32,7 +32,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Spider-Man
+### Spider-Man [220 issues]
 
 #### Silver Age (1962-1973)
 
