@@ -206,7 +206,7 @@ ASM #361-363 (_Carnage first appearence_)
 
 PPSSM #186-188 (_Funeral Arrangements_) __[Favourite]__
 
-PPSSM #189-190 (_The Osborn Legacy_) __[Favourite]__
+PPSSM #189-190 (_The Osborn Legacy_) [#190 not on MU] __[Favourite]__
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
