@@ -208,6 +208,8 @@ PPSSM #186-188 (_Funeral Arrangements_) __[Favourite]__
 
 PPSSM #189-190 (_The Osborn Legacy_) [#190 not on MU] __[Favourite]__
 
+PPSSM #194-196 (_The death of Vermin_) [not on MU] __[Favourite]__
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
