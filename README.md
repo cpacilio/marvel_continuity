@@ -128,7 +128,7 @@ PPSSM #85 (_Hobgoblin's super strength_)
 
 ASM #249-251 (_Final battle against hobgoblin_)
 
-#### Dark Age (1984- )
+#### Dark Age (1984-1993)
 
 ASM #252 (_intro to the black costume_)
 
@@ -209,6 +209,10 @@ PPSSM #186-188 (_Funeral Arrangements_) __[Favourite]__
 PPSSM #189-190 (_The Osborn Legacy_) [#190 not on MU] __[Favourite]__
 
 PPSSM #194-196 (_The death of Vermin_) [not on MU] __[Favourite]__
+
+PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
+
+#### Modern Era (1993- )
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
