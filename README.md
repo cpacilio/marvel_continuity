@@ -200,7 +200,7 @@ Spider-Man: Soul of the Hunter __[Favourite]__
 
 Spider-Man: Spirits of the Earth
 
-PPSSM #178-184 (_The child within_) __[Favourite]__
+PPSSM #178-184 (_The child within_) [not on MU] __[Favourite]__
 
 ASM #361-363 (_Carnage first appearence_)
 
