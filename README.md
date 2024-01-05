@@ -216,6 +216,17 @@ PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
 
 PPSSM #213-214 (_Bloody Mary_) __[Favourite]__
 
+The Clone Saga:
+- The Clone Journal (_A fast recap of the initial events_)
+- Spider-Man: The lost years #0-3 (_The backstory of what Ben did in the past five years_)
+- ASM #400 (_Death of Aunt May, Peter is arrested_)
+- PPSSM #226 (_Peter free of charge, Ben Is revealed to be the original_)
+- PPSSM #229 (_Peter quits Spider-Man _)
+- Sensational SM #0 (_Ben becomes Spider-Man_)
+- Spider-Man #64 (_Poison vs El Toro negro_)
+- Spider-man: The last Adventure #1-4 (_Peter and MJ move to Portland, Peter's Powers stand by_)
+- Sensational SM #1, ASM #408, SM #65 (_Media Blizzard_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
