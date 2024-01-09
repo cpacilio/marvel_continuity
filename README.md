@@ -44,7 +44,7 @@ ASM Annual #2 (_First meeting with Doctor Strange_)
 
 ASM Annual #3 (_First meeting with The Avengers_)
 
-Spider-Max: Blue #1-6 __[Favourite]__
+Spider-Man: Blue #1-6 __[Favourite]__
 
 ASM #50 (_Spider-Man no more_)
 
@@ -241,7 +241,7 @@ The Clone Saga:
 - _The death of Jean deWolff_ is really a gem of a story
 - ASM #277 Is set during DD Born Again, After DD #228
 - ASM #284-288 (_Gang War_) takes Place After DD: Love and War
-- The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards kraven, insisting on his pride to make him fight Spider-Man.
+- The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his pride to make him fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring and moreover they are not in MU.
 - WSM #84-89 (_Name of the Rose_) [not in MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
 
