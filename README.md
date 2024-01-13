@@ -224,8 +224,14 @@ The Clone Saga:
 - PPSSM #229 (_Peter quits Spider-Man_)
 - Sensational SM #0 (_Ben becomes Spider-Man_)
 - Spider-Man #64 (_Spider-Man & Poison vs El Toro negro_)
-- Spider-man: The last Adventure #1-4 (_Peter and MJ move to Portland, Peter's powers stand by_)
+- Spider-man: The last Adventure #1-4 (_Peter and MJ move to Portland, Peter temporarily loses powers_)
 - Sensational SM #1, ASM #408, SM #65 (_Misteryo's Media Blizzard_)
+- PPSSM #231, Sensational SM #2, SM #66 (_The return of Kaine_)
+- Sensational SM #3, AMS #410, SM #67, PPSSM #233 (_Spider-Carnage_)
+- Sensational SM #4 (_Ben unveiled by Jessica_)
+- SM #68, PPSSM #234 (_Cyber Hobgoblin_)
+- Sensational SM #5, ASM #412, (_Connection between Dr. Trainer and Osborn Industries_)
+- SM #69 (_Confrontation with cyber Hobgoblin, Peter and MJ move back to NY_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
