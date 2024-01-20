@@ -216,7 +216,9 @@ PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
 
 PPSSM #213-214 (_Bloody Mary_) __[Favourite]__
 
-The Clone Saga:
+Spider-Man: Legacy of Evil (_Ben Urich exposes Goblin's identities_) [not on MU] __[Favourite]__
+
+The Clone Saga (see Notes below):
 - The Clone Journal (_Fast recap of the initial events_)
 - Spider-Man: The lost years #0-3 (_Ben's backstory in the past five years_) __[Favourite]__
 - ASM #400 (_Death of Aunt May, Peter arrested_)
@@ -233,28 +235,35 @@ The Clone Saga:
 - Sensational SM #5, ASM #412, (_Connection between Dr. Trainer and Osborn Industries_)
 - SM #69 (_Confrontation with cyber Hobgoblin, Peter and MJ move back to NY_)
 - Sensational SM #6 (_Jessica accepts the truth about her father_)
+- Spider-Man: Redemption (_Kaine's and Janine's redemption_) __[Favourite]__
 - SM #70-71 (_Don Fortunato, Peter hospitalized critically_)
 - SM #72 (_Sentinels, Onslaught tie-in_)
+- SM #73-74 (_Don Fortunato & Hydra_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
 - ASM #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, ASM #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in ASM #123, however it is completely irrelevant to the scope of that issue.
-- in PPSSM Annual #3, Peter works for the Bugle again
+- In PPSSM Annual #3, Peter works for the Bugle again.
 - ASM Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
 - ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
 - PPSSM #76 happens between ASM #238 and 239.
 - In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
-- ASM #256 makes reference to the gang war between kingpin and micah synn in Daredevil.
-- In PPSSM #99 the Black cat gives a manifactured balck suit to Peter.
+- ASM #256 makes reference to the gang war between kingpin and Micah Synn in Daredevil.
+- In PPSSM #99 the Black Cat gives a manifactured black suit to Peter.
 - _The death of Jean deWolff_ is really a gem of a story
-- ASM #277 Is set during DD Born Again, After DD #228
+- ASM #277 is set during DD Born Again, After DD #228
 - ASM #284-288 (_Gang War_) takes Place After DD: Love and War
 - The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his pride to make him fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 [not on MU] (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring.
 - WSM #84-89 (_Name of the Rose_) [not on MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
+- Romita Jr's inks for SM are exceptional. 
 - In PPSSM #237 Peter starts to regain his powers.
-- In ASM #416 Peter is fired from the Bugle due to the journal's financial crisis. He still serves as a freelance for them. 
+- In ASM #416 Peter is fired from the Bugle due to the journal's financial crisis. He still serves as a freelance for them.
+- SM #70-71, 73-74 tells of the gang war following the Kingpin's loss of power and departure from New-York.
+- _The Clone Saga_ is a controversial storyline occupying all Spider-Man titles between October 1994 and December 1996. It can be split in two parts (Oct 1994-to-Dec 1995 and Jan 1996-to-Dec 1996). I find that the first part is written in a chaotic way and only few issues are worth reading. The second part, on the other hand, is enjoyable and leads to what is probably the most important plot-twist in Spider-Man's history. Here is a brief summary of the first part, out of which I only list few selected issues:
+  - Aunt May is hospitalized in critical conditions. On the rooftop of the hospital, Peter meets his clone, who he believed to be dead. He has lived out of New York for the past five years, under the name of Ben Reilly (_Spider-Man: The lost years #0-3_). Ben decides to stay in New York and assumes the secret identity of the Scarlet Spider. Meanwhile, a misterious foe named Kaine appears, who is revealed to be an earlier prototype of Peter's clone, whose cells are degenerating. Kaine, who is a much stronger and wilder version of Peter and Ben, kills Dr. Octopus. The Jackal makes his return as well. Aunt May dies, not before revealing to Peter that she knew he was Spider-Man since a long time (_ASM #400_). Meanwhile, Mary Jane gets pregnant. Peter and Ben check their genetic signatures with the help of Ben's friend, Dr. Seward Trainer. They discover that Peter is the clone while Ben is the original (_PPSSM #226_). A final battle leads to the deaths of the Jackal and Kaine. After the shocking revelations, Peter decides to leave New York and moves to Portland with Mary Jane (_PPSSM #229_). Ben is left as the only Spider-Man and starts a new life in New York.
+- During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was approximately 19 when Gwen died and he is 25 during the Clone Saga. 
 
 ### Marvel Knights
 
