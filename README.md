@@ -234,7 +234,7 @@ The Clone Saga:
 - SM #69 (_Confrontation with cyber Hobgoblin, Peter and MJ move back to NY_)
 - Sensational SM #6 (_Jessica accepts the truth about her father_)
 - SM #70-71 (_Don Fortunato, Peter hospitalized critically_)
--SM #72 (_Sentinels, Onslaught tie-in_)
+- SM #72 (_Sentinels, Onslaught tie-in_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -251,8 +251,8 @@ The Clone Saga:
 - ASM #277 Is set during DD Born Again, After DD #228
 - ASM #284-288 (_Gang War_) takes Place After DD: Love and War
 - The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his pride to make him fight Spider-Man.
-- After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring and moreover they are not in MU.
-- WSM #84-89 (_Name of the Rose_) [not in MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
+- After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 [not on MU] (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring.
+- WSM #84-89 (_Name of the Rose_) [not on MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
 - In PPSSM #237 Peter starts to regain his powers.
 - In ASM #416 Peter is fired from the Bugle due to the journal's financial crisis. He still serves as a freelance for them. 
 
