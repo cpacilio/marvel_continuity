@@ -239,6 +239,8 @@ The Clone Saga (see Notes below):
 - SM #70-71 (_Don Fortunato, Peter hospitalized critically_)
 - SM #72 (_Sentinels, Onslaught tie-in_)
 - SM #73-74 (_Don Fortunato & Hydra_)
+- PPSSM #240, Sensational SM #11, ASM #418 (_Gaunt revealed, Master-planner revealed_)
+- SM #75 (_End of Clone Saga_) __[Favourite]__
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
