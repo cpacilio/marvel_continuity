@@ -242,6 +242,14 @@ The Clone Saga (see Notes below):
 - PPSSM #240, Sensational SM #11, ASM #418 (_Gaunt revealed, Master-planner revealed_)
 - SM #75 (_End of Clone Saga_) __[Favourite]__
 
+Spider-man: Hobgoblin lives #1-3 (_Original Hobgoblin revealed_)
+
+PPSSM #250 (_Osborn goes public and buys the Daily Bugle_) [not on MU]
+
+Spider-man: Kingpin to the death (_SM & DD vs Kingpin_) [not on MU]
+
+SM #97, PPSSM #263, SM #98 (_Goblin goes insane, Rescue of May Parker_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
