@@ -248,6 +248,8 @@ PPSSM #250 (_Osborn goes public and buys the Daily Bugle_) [not on MU]
 
 Spider-man: Kingpin to the death (_SM & DD vs Kingpin_) [not on MU]
 
+Spider-Man: The Venom Agenda (_Eddie is ripped from the symbiote and loses memory_)
+
 SM #97, PPSSM #263, SM #98 (_Goblin goes insane, Rescue of May Parker_)
 
 #### Notes
