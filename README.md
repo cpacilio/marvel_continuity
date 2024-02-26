@@ -46,7 +46,7 @@ ASM Annual #3 (_First meeting with The Avengers_)
 
 Spider-Man: Blue #1-6 __[Favourite]__
 
-ASM #50 (_Spider-Man no more_)
+ASM #50 (_Spider-Man no more_) __[Favourite]__
 
 Spectacular Spider-Man #2 (_Goblin lives_) __[Favourite]__
 
