@@ -38,6 +38,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 Spider-Man: Chapter One #1-6, #0, #7-12 __[Favourite]__
 
+Amazing Fantasy #16-18 (this retcon takes place after AF #15/ Ch. One #1) __[Favourite]__
+
 ASM Annual #1 (_The Sinister Six_)
 
 ASM Annual #2 (_First meeting with Doctor Strange_)
@@ -54,7 +56,7 @@ ASM #68-77 (_Petrified tablet Saga_) __[Favourite]__
 
 ASM #88-92,95 (_Death of Captain Stacy_) __[Favourite]__
 
-Spider-Man: Death and Destiny #1-3 (_Aftermath of Capt. Stacy's death_) (this retcon happens after AMS #90) __[Favourite]__
+Spider-Man: Death and Destiny #1-3 (_Aftermath of Capt. Stacy's death_) (this retcon takes place after AMS #90) __[Favourite]__
 
 ASM #96-98 (_Harry's drug addiction_) __[Favourite]__
 
