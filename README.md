@@ -54,6 +54,8 @@ ASM #68-77 (_Petrified tablet Saga_) __[Favourite]__
 
 ASM #88-92,95 (_Death of Captain Stacy_) __[Favourite]__
 
+Spider-Man: Death and Destiny #1-3 (_Aftermath of Capt. Stacy's death_) (this retcon happens after AMS #90) __[Favourite]__
+
 ASM #96-98 (_Harry's drug addiction_) __[Favourite]__
 
 ASM #121-123 (_Goblin's last stand_) __[Favourite]__
