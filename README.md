@@ -46,7 +46,7 @@ ASM Annual #2 (_First meeting with Doctor Strange_)
 
 ASM Annual #3 (_First meeting with The Avengers_)
 
-Webspinners #1-3 (_Return of Mysterio_)
+Webspinners #1-3 (_Return of Mysterio_) __[Favourite]__
 
 Spider-Man: Blue #1-6 __[Favourite]__
 
