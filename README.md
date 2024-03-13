@@ -46,6 +46,8 @@ ASM Annual #2 (_First meeting with Doctor Strange_)
 
 ASM Annual #3 (_First meeting with The Avengers_)
 
+Webspinners #1-3 (_Return of Mysterio_)
+
 Spider-Man: Blue #1-6 __[Favourite]__
 
 ASM #50 (_Spider-Man no more_) __[Favourite]__
@@ -275,6 +277,8 @@ PPSM-2 #19 (_Peter accepts MJ's death_)
 PPSM-2 #22 (_Death of Sandman_)
 
 AMS-2 #22-24 (_Conclusion of Senator Ward's storyline_)
+
+Revenge of the Green Goblin #1-3, AMS-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
