@@ -280,6 +280,8 @@ AMS-2 #22-24 (_Conclusion of Senator Ward's storyline_)
 
 Revenge of the Green Goblin #1-3, AMS-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
 
+AMS-2 #27-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
