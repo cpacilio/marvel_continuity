@@ -278,6 +278,8 @@ PPSM-2 #22 (_Death of Sandman_)
 
 AMS-2 #22-24 (_Conclusion of Senator Ward's storyline_)
 
+Spider-Man: Lifeline #1-3 (_Petrified tablet saga #2_) __[Favourite]__
+
 Revenge of the Green Goblin #1-3, AMS-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
 
 AMS-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
