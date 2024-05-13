@@ -30,6 +30,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Life of Reilly](http://lifeofreillyarchives.blogspot.com/2008/03/part-35.html?m=0)
 
+[Ultimate Universe](https://www.comicbookherald.com/the-complete-marvel-reading-order-guide/ultimate-marvel-universe-reading-order/)
+
 ## Marvel Universe Reading Order
 
 ### Spider-Man [226 issues]
