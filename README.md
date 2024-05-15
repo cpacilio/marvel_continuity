@@ -576,3 +576,13 @@ New Avengers Finale
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in the classical suit
+
+### ULTIMATE SPIDER-MAN
+
+USM #1-7 (_Birth of SM, Battle with Goblin_)
+
+USM #8-13 (_SM vs Kingpin, Peter reveals to MJ_)
+
+USM #14-21 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
+
+USM #22-27 (_Return of Goblin_)
