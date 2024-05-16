@@ -586,3 +586,7 @@ USM #8-13 (_SM vs Kingpin, Peter reveals to MJ_)
 USM #14-21 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
 
 USM #22-27 (_Return of Goblin_)
+
+USM #28-32 (_SM impostor, Death of Capt. Stacy_)
+
+USM #33-39 (_Venom_)
