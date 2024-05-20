@@ -583,10 +583,16 @@ USM #1-7 (_Birth of SM, Battle with Goblin_)
 
 USM #8-13 (_SM vs Kingpin, Peter reveals to MJ_)
 
-USM #14-21 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
+USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
 
 USM #22-27 (_Return of Goblin_)
 
 USM #28-32 (_SM impostor, Death of Capt. Stacy_)
 
 USM #33-39 (_Venom_)
+
+USM #40-45 (_PP back to normal life, meets the X-Men_) 
+
+#### Notes
+- You can read USM #46 after #21 or before U-Six #1
+- USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
