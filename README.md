@@ -593,6 +593,8 @@ USM #33-39 (_Venom_)
 
 USM #40-45 (_PP back to normal life, meets the X-Men_) 
 
+USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
