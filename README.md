@@ -589,9 +589,9 @@ UMTU #6-8 (_Punisher, Daredevil_)
 
 UXM #1-6 (_Magneto_)
 
-UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
-
 USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
+
+UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
 
 USM #22-27 (_Return of Goblin_)
 
