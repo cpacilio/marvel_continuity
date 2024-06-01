@@ -587,9 +587,13 @@ UMTU #1-3 (_Wolverine, Hulk_)
 
 UMTU #6-8 (_Punisher, Daredevil_)
 
+UMTU #10 (_Lizard_)
+
 UXM #1-6 (_Magneto_)
 
 USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
+
+UMTU #11 (_X-Men_)
 
 UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
 
