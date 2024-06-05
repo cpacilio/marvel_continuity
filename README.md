@@ -595,6 +595,10 @@ USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
 
 UMTU #11 (_X-Men_)
 
+UMTU #12-13 (_Doctor Strange_)
+
+UMTU #15-16 (_Shang-Chi_)
+
 UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
 
 USM #22-27 (_Return of Goblin_)
