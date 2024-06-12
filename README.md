@@ -591,6 +591,8 @@ UMTU #10 (_Lizard_)
 
 UXM #1-6 (_Magneto_)
 
+UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
+
 USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
 
 UMTU #11 (_X-Men_)
@@ -599,13 +601,17 @@ UMTU #12-13 (_Doctor Strange_)
 
 UMTU #15-16 (_Shang-Chi_)
 
-UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
-
 USM #22-27 (_Return of Goblin_)
 
 USM #28-32 (_SM impostor, Death of Capt. Stacy_)
 
 USM #33-39 (_Venom_)
+
+UXM #13-14 (_Gambit vs Hammerhead_)
+
+UXM #15-20 (_Xavier's son_)
+
+UXM #21-25 (_Phoenix visions, Hellfire Club_)
 
 USM #40-45 (_PP back to normal life, meets the X-Men_) 
 
