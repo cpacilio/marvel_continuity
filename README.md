@@ -613,6 +613,10 @@ UXM #15-20 (_Xavier's son_)
 
 UXM #21-25 (_Phoenix visions, Hellfire Club_)
 
+U-War #1-4 (_Return of Magneto, Ultimates vs X-Men_)
+
+UXM #26-33 (_Battle with Magneto, Xavier partners with SHIELD_)
+
 USM #40-45 (_PP back to normal life, meets the X-Men_) 
 
 USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
