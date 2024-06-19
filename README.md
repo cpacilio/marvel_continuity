@@ -617,7 +617,11 @@ U-War #1-4 (_Return of Magneto, Ultimates vs X-Men_)
 
 UXM #26-33 (_Battle with Magneto, Xavier partners with SHIELD_)
 
-USM #40-45 (_PP back to normal life, meets the X-Men_) 
+UXM #34-39 (_Wolverine hunted by weapon X rebels, teams up with Spider-Man and Daredevil, Jean has new Phoenix crisis_)
+
+USM #40-45 (_PP back to normal life, meets the X-Men_)
+
+UXM #40-45 (_Plot against mutants, Emma Frost, Death of Beast_)
 
 USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
 
