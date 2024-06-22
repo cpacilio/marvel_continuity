@@ -577,7 +577,7 @@ New Avengers Finale
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in the classical suit
 
-### ULTIMATE SPIDER-MAN
+### ULTIMATE MARVEL UNIVERSE
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -622,6 +622,10 @@ UXM #34-39 (_Wolverine hunted by weapon X rebels, teams up with Spider-Man and D
 USM #40-45 (_PP back to normal life, meets the X-Men_)
 
 UXM #40-45 (_Plot against mutants, Emma Frost, Death of Beast_)
+
+UXM #46-49 (_Sinister_)
+
+UXM #50-53 (_Gambit, Fenris Inc_)
 
 USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
 
