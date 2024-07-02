@@ -629,6 +629,22 @@ UXM #50-53 (_Gambit, Fenris Inc_)
 
 USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
 
+UFF #1-6 (_Origin story_)
+
+UFF #7-12 (_Confrontation with Victor_)
+
+USM #47-49 (_Return of Kingpin_)
+
+USM #50-53 (_Black Cat, Kingpin, Elektra_)
+
+USM #54-59 (_Octopus, Gwen finds out Peter's SM_)
+
+USM #60-65 (_Carnage, Death of Gwen_)
+
+USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnny Storm goes to Peter's high school_)
+
+UFF #13-18 (_Into the N-Zone_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
