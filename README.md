@@ -645,6 +645,10 @@ USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnn
 
 UFF #13-18 (_Into the N-Zone_)
 
+USM 70-71 (_Dr. Strange, Peter's nightmares_)
+
+USM #72-77 (_Hobgoblin_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
