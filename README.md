@@ -645,6 +645,14 @@ USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnn
 
 UFF #13-18 (_Into the N-Zone_)
 
+U-Secret #1-4 (Capt. Marvel and Knee, Galactus Trilogy: Book Two_)
+
+UFF Annual #1 (_Inhumans_)
+
+UFF #21-23 (_Crossover with a parallel Marvel Universe_)
+
+UFF #24-26 (_Namor_)
+
 USM 70-71 (_Dr. Strange, Peter's nightmares_)
 
 USM #72-77 (_Hobgoblin_)
