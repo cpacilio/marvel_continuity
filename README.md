@@ -649,6 +649,18 @@ USM 70-71 (_Dr. Strange, Peter's nightmares_)
 
 USM #72-77 (_Hobgoblin_)
 
+U-Vision #0 (_Vision introduces the threat of Galactus_)
+
+U-Extinction #1-5 (_Galaktus_)
+
+USM #78-85 (_Hammerhead vs Kingpin Gang War_)
+
+U-Vision #0 (_Vision introduces the threat of Galactus_)
+
+U-Extinction #1-5 (_Galaktus_)
+
+USM #78-85 (_Hammerhead vs Kingpin Gang War_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
