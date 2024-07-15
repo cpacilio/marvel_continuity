@@ -643,8 +643,6 @@ UXM #50-53 (_Gambit, Fenris Inc_)
 
 UXM #54-57 (_Mojo's TV show_)
 
-UXM #58 (_Xavier saves a back rob_)
-
 --------------------
 
 UFF #1-6 (_Origin story_)
@@ -667,7 +665,7 @@ USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnn
 
 UFF #13-18 (_Into the N-Zone_)
 
-U-Secret #1-4 (Capt. Marvel and Knee, Galactus Trilogy: Book Two_)
+U-Secret #1-4 (_Capt. Marvel and Knee, Galactus Trilogy: Book Two_)
 
 UFF Annual #1 (_Inhumans_)
 
@@ -680,6 +678,8 @@ UFF #27-29 (_Time travels & super skrull_)
 UFF #30-32 (_Doom & zombie menace_)
 
 --------------------
+
+UXM #58 (_Xavier saves a back rob_)
 
 UXM Annual #1 (_Gambit and Rogue_)
 
