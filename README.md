@@ -681,21 +681,25 @@ UFF #30-32 (_Doom & zombie menace_)
 
 --------------------
 
+UXM Annual #1 (_Gambit and Rogue_)
+
+UXM #59-60 (_Wolverine and Storm vs Deathstrike_)
+
+UXM #61-65 (_Magneto's escape plan_)
+
+U-Vision #0 (_Vision introduces the threat of Galactus_)
+
+U-Extinction #1-5 (_Galactus trilogy: book three_)
+
+--------------------
+
 USM 70-71 (_Dr. Strange, Peter's nightmares_)
 
 USM #72-77 (_Hobgoblin_)
 
-U-Vision #0 (_Vision introduces the threat of Galactus_)
+USM #78-85 (_Hammerhead vs Kingpin Gang war_)
 
-U-Extinction #1-5 (_Galaktus_)
-
-USM #78-85 (_Hammerhead vs Kingpin Gang War_)
-
-U-Vision #0 (_Vision introduces the threat of Galactus_)
-
-U-Extinction #1-5 (_Galaktus_)
-
-USM #78-85 (_Hammerhead vs Kingpin Gang War_)
+USM Annual #1 (_Romance with kitty pride_)
 
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
