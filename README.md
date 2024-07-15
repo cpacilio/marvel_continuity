@@ -589,9 +589,13 @@ UMTU #6-8 (_Punisher, Daredevil_)
 
 UMTU #10 (_Lizard_)
 
+--------------------
+
 UXM #1-6 (_Magneto_)
 
 UXM #7-12 (_Weapon X, Fury tipped head of SHIELD_)
+
+--------------------
 
 USM #14-21 + #46 (_Gwen Stacy, Octopus Vs Justin Hammer, Kraven_)
 
@@ -607,6 +611,8 @@ USM #28-32 (_SM impostor, Death of Capt. Stacy_)
 
 USM #33-39 (_Venom_)
 
+--------------------
+
 UXM #13-14 (_Gambit vs Hammerhead_)
 
 UXM #15-20 (_Xavier's son_)
@@ -617,21 +623,35 @@ U-War #1-4 (_Return of Magneto, Ultimates vs X-Men_)
 
 UXM #26-33 (_Battle with Magneto, Xavier partners with SHIELD_)
 
-UXM #34-39 (_Wolverine hunted by weapon X rebels, teams up with Spider-Man and Daredevil, Jean has new Phoenix crisis_)
+--------------------
 
 USM #40-45 (_PP back to normal life, meets the X-Men_)
+
+USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
+
+--------------------
+
+UXM #34-39 (_Wolverine hunted by weapon X rebels, teams up with Spider-Man and Daredevil, Jean has new Phoenix crisis_)
 
 UXM #40-45 (_Plot against mutants, Emma Frost, Death of Beast_)
 
 UXM #46-49 (_Sinister_)
 
+U-Nightmare #1-5 (_Galactus trilogy: book one_)
+
 UXM #50-53 (_Gambit, Fenris Inc_)
 
-USM #46 + U-Six #1-7 (_SM & Ultimates vs Goblin, Octopus, etc_)
+UXM #54-57 (_Mojo's TV show_)
+
+UXM #58 (_Xavier saves a back rob_)
+
+--------------------
 
 UFF #1-6 (_Origin story_)
 
 UFF #7-12 (_Confrontation with Victor_)
+
+--------------------
 
 USM #47-49 (_Return of Kingpin_)
 
@@ -643,6 +663,8 @@ USM #60-65 (_Carnage, Death of Gwen_)
 
 USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnny Storm goes to Peter's high school_)
 
+--------------------
+
 UFF #13-18 (_Into the N-Zone_)
 
 U-Secret #1-4 (Capt. Marvel and Knee, Galactus Trilogy: Book Two_)
@@ -652,6 +674,12 @@ UFF Annual #1 (_Inhumans_)
 UFF #21-23 (_Crossover with a parallel Marvel Universe_)
 
 UFF #24-26 (_Namor_)
+
+UFF #27-29 (_Time travels & super skrull_)
+
+UFF #30-32 (_Doom & zombie menace_)
+
+--------------------
 
 USM 70-71 (_Dr. Strange, Peter's nightmares_)
 
