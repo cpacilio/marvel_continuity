@@ -667,11 +667,11 @@ U-Secret #1-4 (_Capt. Marvel and Kree, Galactus Trilogy: Book Two_)
 
 UFF #19-20 (_Rhona Burchill_)
 
-UFF Annual #1 (_Inhumans_)
-
 UFF #21-23 (_Crossover with a parallel Marvel Universe_)
 
 UFF #24-26 (_Namor_)
+
+UFF Annual #1 (_Inhumans_)
 
 UFF #27-29 (_Time travels & super skrull_)
 
