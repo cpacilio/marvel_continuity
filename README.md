@@ -703,6 +703,32 @@ USM #78-85 (_Hammerhead vs Kingpin Gang war_)
 
 USM Annual #1 (_Romance with kitty pride_)
 
+USM #86-90 (_Silver Sable_)
+
+--------------------
+
+UXM/UFF #1-2 (_return of Rhona Burchill_)
+
+UXM #66-68 (_Xavier seals a deal with Sh'iar cult_)
+
+UXM #69-71 (_Revelations about Phoenix, Magical becomes an X-Men member_)
+
+UXM #72-74 (_Truth about Magical_)
+
+--------------------
+
+USM #91-94 (_Deadpool, Krakoa_)
+
+USM #95-96 (_Morbius & vampires_)
+
+USM Annual #2 (_Kangaroo, Punisher shoots at Capt. de Wolfe_)
+
+USM #97-105 (_Clone Saga_)
+
+--------------------
+
+UXM Annual #2 (_Dazzler leaves the team, Nightwing is locked under control_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
