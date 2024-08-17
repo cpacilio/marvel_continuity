@@ -483,6 +483,8 @@ New Avengers #38-39
 
 Thor #1-11
 
+The Invincible Iron-Man (2008) #1-7  (_Ezekiel Stane_)
+
 New Avengers Illuminati #1-5
 
 Secret Invasion : 
