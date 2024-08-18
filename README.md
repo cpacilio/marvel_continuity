@@ -413,7 +413,9 @@ Secret War #1-5
 
 The Pulse #6-9
 
-New Avengers #1-10
+New Avengers #1-6 (_Prison breakout, Savage Land, New Avengers assemble_)
+
+New Avengers #7-10 (_Sentry_)
 
 Young Avengers #1-12
 
