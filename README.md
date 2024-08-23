@@ -316,6 +316,8 @@ AMS-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a 
 
 Black Panther (2005) #1-6
 
+Sentry #1-5, Sentry/Hulk, Sentry/Spider-Man, Sentry/X-Men, Sentry/Fantastic four, The Sentry vs The Void
+
 ### Wolverine
 
 Wolverine: The Origin #1-6
