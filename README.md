@@ -34,7 +34,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Spider-Man [226 issues]
+### Spider-Man
 
 #### Silver Age (1962-1973)
 
@@ -311,6 +311,26 @@ AMS-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a 
   - Aunt May is hospitalized in critical conditions. On the rooftop of the hospital, Peter meets his clone, who he believed to be dead. He has lived out of New York for the past five years, under the name of Ben Reilly (_Spider-Man: The lost years #0-3_). Ben decides to stay in New York and assumes the secret identity of the Scarlet Spider. Meanwhile, a misterious foe named Kaine appears, who is revealed to be an earlier prototype of Peter's clone, whose cells are degenerating. Kaine, who is a much stronger and wilder version of Peter and Ben, kills Dr. Octopus. The Jackal makes his return as well. Aunt May dies, not before revealing to Peter that she knew he was Spider-Man since a long time (_ASM #400_). Meanwhile, Mary Jane gets pregnant. Peter and Ben check their genetic signatures with the help of Ben's friend, Dr. Seward Trainer. They discover that Peter is the clone while Ben is the original (_PPSSM #226_). A final battle leads to the deaths of the Jackal and Kaine. After the shocking revelations, Peter decides to leave New York and moves to Portland with Mary Jane (_PPSSM #229_). Ben is left as the only Spider-Man and starts a new life in New York.
 - During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was approximately 19 when Gwen died and he is 25 during the Clone Saga.
 - AMS-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
+
+### Classic Marvel Era (1961-)
+
+__Early FF and Avengers:__
+
+The FF are the first (and for a while the only) supergroup in the MU, the Avengers later followed up.
+
+These stories are seminal in establishing the mithology of the MU. You will find the introduction of classic foes like the Skrulls, Dr Doom, The Watcher, Loki, and Kang The Conqueror. Moreover, directly from the Golden Age of Marvel Comics, Captain America is resurrected, alongside the Sub-Mariner.
+
+These stories are 60 years old and have not always aged well: the plots might seem silly to a modern reader. Moreover, Sue Storm and women in general are often depicted as damsels in peril and lack a strong characterization.
+
+- FF #2 (_Skrulls first appearance_)
+- FF #4 (_Sub-Mariner awakens_)
+- FF #5 (_Dr Doom first appearance_)
+- FF #6 (_Sub-Mariner & Dr Doom_)
+- FF #12 (_First meeting with the Hulk_)
+- FF Annual #1 (_Origin of Sub-Mariner, Sub-Mariner conquers the Earth_)
+- FF #18 (_Super Skrull_)
+- FF #19 (_Pharoah Rama-Tut_)
+- FF Annual #2 (_Origin of Dr Doom_)
 
 ### Marvel Knights
 
