@@ -331,6 +331,9 @@ These stories are 60 years old and have not always aged well: the plots might se
 - FF #18 (_Super Skrull_)
 - FF #19 (_Pharoah Rama-Tut_)
 - FF Annual #2 (_Origin of Dr Doom_)
+- Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
+- Avengers #8 (_Kang the Conqueror_)
+- AMS Annual #3 (_Avengers test SM on hunting for Hulk_)
 
 ### Marvel Knights
 
