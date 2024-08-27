@@ -339,7 +339,14 @@ These stories are 60 years old and have not always aged well: the plots might se
 
 Black Panther (2005) #1-6
 
-Sentry #1-5, Sentry/Hulk, Sentry/Spider-Man, Sentry/X-Men, Sentry/Fantastic four, The Sentry vs The Void
+Sentry:
+Sentry is a character that becomes pivotal and thoroughly explored in the New Avengers storylines from 2004 to 2010; these issues collect the original miniseries that established the character:
+- Sentry #1-5
+- Sentry/Hulk
+- Sentry/Spider-Man
+- Sentry/X-Men
+- Sentry/Fantastic four
+- The Sentry vs The Void
 
 ### Wolverine
 
@@ -430,7 +437,7 @@ Marvel Knights Spider-Man #1-12
 
 Avengers #500-503 (_Disassembled_) + Avengers Finale
 
-Captain America #1-14 (_Winter Soldier_)
+Captain America #1-14 (_Winter Soldier_) (#10 is a _House of M_ tie-in, but it reads smoothly without any background of the main event. You can either read it here or after HoM #XX)
 
 Wolverine #20-31 (_Enemy of the State_)
 
