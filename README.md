@@ -335,6 +335,13 @@ These stories are 60 years old and have not always aged well: the plots might se
 - Avengers #8 (_Kang the Conqueror_)
 - AMS Annual #3 (_Avengers test SM on hunting for Hulk_)
 
+__Roy Thomas' Avengers__:
+- Avengers #56 (_Cap relives Bucky's death back in time_)
+- Avengers #55, 57-58 (_Intro to Ultron and Vision, Vision joins the Avengers_) (you can read AMS #86 hereafter to know about the fate of the Black Widow)
+- Avengers #87 (_Black Panther's origins_)
+- Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
+- Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
