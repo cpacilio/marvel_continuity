@@ -222,7 +222,7 @@ PPSSM #194-196 (_The death of Vermin_) [not on MU] __[Favourite]__
 
 PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
 
-#### Modern Era (1993- )
+#### Modern Era (1993-)
 
 PPSSM #213-214 (_Bloody Mary_) __[Favourite]__
 
@@ -336,8 +336,17 @@ These stories are 60 years old and have not always aged well: the plots might se
 - Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 - Avengers #8 (_Kang the Conqueror_)
 - AMS Annual #3 (_Avengers test SM on hunting for Hulk_)
+- FF Annual #3 (_Wedding of Sue and Reed_)
 
-__Roy Thomas' Avengers__:
+__FF from Lee & Kirby (mature stage):__
+
+Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Plots developments are less obvious, topics more ambitious, and there is excellent character development. Pencils are more dynamic and Kirby does a majestic work with The Thing. They introduce fresh characters and storylines whose heritage lasts till today: the Inhumans, Galactus and Silver Surfer, Black Panther.
+
+- FF #44-48 (_Inhumans_)
+- FF #48-50 (_Galactus & Silver Surfer_)
+- FF #51 (_"This man... this monster"_)
+
+__Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
 - Avengers #55, 57-58 (_Intro to Ultron and Vision, Vision joins the Avengers_) (you can read AMS #86 hereafter to know about the fate of the Black Widow)
 - Avengers #87 (_Black Panther's origins_)
@@ -363,7 +372,7 @@ Wolverine: The Origin #1-6
 
 Wolverine (2003) #1-
 
-### X-Men Modern Era (2001 - )
+### X-Men Modern Era (2001-)
 
 In the Modern Era, X-Men comic books are best represented by two flagship titles: _New X-Men_ (2001-2004) by Grant Morrison and _Astonishing X-Men_ by Joss Whedon (2004-2008). Both runs can be read independently from other titles running in parallel (with the small exception of AXM #14, mentioning the appointment of Maria Hill as the new head of SHIELD after _Secret War_).
 
@@ -436,7 +445,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004 - 2010)
+### New Avengers Era (2004-2010)
 
 Thor #80-85 (_Ragnarok_)
 
