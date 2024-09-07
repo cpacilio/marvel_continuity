@@ -481,8 +481,7 @@ New Avengers #16-20
 
 Doctor Strange: The Oath #1-5
 
-Captain America #15-21 (_Crossbones & Sin, Battle in London_) 
-+ 65th anniversary special (_WW2 tale_)
+Captain America #15-21 (_Crossbones & Sin, Battle in London_) + 65th anniversary special (_WW2 tale_)
 
 The Pulse #11-14
 
