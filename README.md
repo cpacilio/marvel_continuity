@@ -266,11 +266,11 @@ Webspinners #10-12 (_Chameleon's apparent suicide, Peter's dream_)
 
 PPSM-2 #9-10 (_Venom returns_)
 
-AMS-2 #12, PPSM-2 #12 (_Sinister Six vs Doc Ock and Senator Ward, Explosion of MJ's plane_)
+ASM-2 #12, PPSM-2 #12 (_Sinister Six vs Doc Ock and Senator Ward, Explosion of MJ's plane_)
 
 PPSM-2 #13-14 (_Aftermath of MJ's plane's explosion_)
 
-AMS-2 Annual 2000 (_Rebel scriers kidnap Normie_)
+ASM-2 Annual 2000 (_Rebel scriers kidnap Normie_)
 
 PPSM-2 #16-17 (_Venom vs Sinister Six_)
 
@@ -280,13 +280,25 @@ PPSM-2 #19 (_Peter accepts MJ's death_)
 
 PPSM-2 #22 (_Death of Sandman_)
 
-AMS-2 #22-24 (_Conclusion of Senator Ward's storyline_)
+ASM-2 #22-24 (_Conclusion of Senator Ward's storyline_)
 
 Spider-Man: Lifeline #1-3 (_Petrified tablet saga #2_) __[Favourite]__
 
 Revenge of the Green Goblin #1-3, AMS-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
 
-AMS-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
+ASM-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
+
+SM's Tangled Web #4 __[Favourite]__
+
+SM's Tangled Web #5-6 (_Flowers for Rhino_) __[Favourite]__
+
+PPSM-2 #44-47 (_Return of Goblin, Flash paralyzed by Goblin_)
+
+ASM-2 #30-35, 37-39 (_Peter becomes a teacher, Ezekiel, Morlun, conversation with Aunt May_) __[Favourite]__
+
+ASM-2 #36 (_In memory of the 9/11 terror attack_)
+
+Spectacular SM #1-5 (_Return of Venom_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -312,7 +324,8 @@ AMS-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a 
 - _The Clone Saga_ is a controversial storyline occupying all Spider-Man titles between October 1994 and December 1996. It can be split in two parts (Oct 1994-to-Dec 1995 and Jan 1996-to-Dec 1996). I find that the first part is written in a chaotic way and only few issues are worth reading. The second part, on the other hand, is enjoyable and leads to what is probably the most important plot-twist in Spider-Man's history. Here is a brief summary of the first part, out of which I only list few selected issues:
   - Aunt May is hospitalized in critical conditions. On the rooftop of the hospital, Peter meets his clone, who he believed to be dead. He has lived out of New York for the past five years, under the name of Ben Reilly (_Spider-Man: The lost years #0-3_). Ben decides to stay in New York and assumes the secret identity of the Scarlet Spider. Meanwhile, a misterious foe named Kaine appears, who is revealed to be an earlier prototype of Peter's clone, whose cells are degenerating. Kaine, who is a much stronger and wilder version of Peter and Ben, kills Dr. Octopus. The Jackal makes his return as well. Aunt May dies, not before revealing to Peter that she knew he was Spider-Man since a long time (_ASM #400_). Meanwhile, Mary Jane gets pregnant. Peter and Ben check their genetic signatures with the help of Ben's friend, Dr. Seward Trainer. They discover that Peter is the clone while Ben is the original (_PPSSM #226_). A final battle leads to the deaths of the Jackal and Kaine. After the shocking revelations, Peter decides to leave New York and moves to Portland with Mary Jane (_PPSSM #229_). Ben is left as the only Spider-Man and starts a new life in New York.
 - During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was approximately 19 when Gwen died and he is 25 during the Clone Saga.
-- AMS-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
+- ASM-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
+- ASM-2 #39 is a mute issue in memory of the victims of the 9/11 terror attack.
 
 ### Classic Marvel Era (1961-)
 
