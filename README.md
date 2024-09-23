@@ -54,6 +54,8 @@ Webspinners #1-3 (_Return of Mysterio_) __[Favourite]__
 
 Spider-Man: Blue #1-6 __[Favourite]__
 
+Kingpin #1-7 (_Rise of Kingpin_) __[Favourite]__
+
 ASM #50 (_Spider-Man no more_) __[Favourite]__
 
 Spectacular Spider-Man #2 (_Goblin lives_) __[Favourite]__
