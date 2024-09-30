@@ -362,6 +362,8 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF #44-48 (_Inhumans_)
 - FF #48-50 (_Galactus & Silver Surfer_)
 - FF #51 (_"This man... this monster"_)
+- FF #52-53 (_Black Panther_)
+- FF #54-60 (_Inhumans break free, Dr. Doom steals cosmic powers from Silver Surfer_)
 
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
