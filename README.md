@@ -333,6 +333,10 @@ Spectacular SM #1-5 (_Return of Venom_)
 
 ### Classic Marvel Era (1961-)
 
+__Doctor Strange:__
+
+Strange Tales #127,130-141,146 (_Dormammu, Search for Eternity_)
+
 __Early FF and Avengers:__
 
 The FF are the first (and for a while the only) supergroup in the MU, the Avengers later followed up.
@@ -490,7 +494,7 @@ Young Avengers #1-12
 
 House of M #1-8
 
-New Avengers #11-15
+New Avengers #11-15 (_Madame Hydra, Spider-Woman's secret, the Avengers go public_)
 
 Iron-Man Extremis #1-6
 
