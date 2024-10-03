@@ -304,6 +304,18 @@ ASM-2 #36 (_In memory of the 9/11 terror attack_)
 
 Spectacular SM #1-5 (_Return of Venom_)
 
+Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
+
+Spectacular SM #11-13 (_Lizard_)
+
+Spectacular SM #15-20 (_Ana, Peter mutates_)
+
+Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
+
+Marvel Knights SM #1-12 __[Favourite]__
+
+AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
