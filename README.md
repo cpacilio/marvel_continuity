@@ -316,6 +316,14 @@ Marvel Knights SM #1-12 __[Favourite]__
 
 AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
 
+AMS-2 #526-527 __[Favourite]__ (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.)
+
+AMS-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
+
+Civil War #1-7
+
+AMS-2 #538 (_End of civil war, Kingpin sends a sniper_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
@@ -342,6 +350,9 @@ AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
 - During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was approximately 19 when Gwen died and he is 25 during the Clone Saga.
 - ASM-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
 - ASM-2 #39 is a mute issue in memory of the victims of the 9/11 terror attack.
+- AMS-2 519-524 and "The Other" are set before New Avengers #7, because Sentry is not present.
+- AMS-2 #538 happens before Daredevil #93.
+- "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 
 ### Classic Marvel Era (1961-)
 
