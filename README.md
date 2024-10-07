@@ -314,15 +314,29 @@ Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
 
 Marvel Knights SM #1-12 __[Favourite]__
 
+__Note:__ New Avengers #1-6 happen here
+
 AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
+
+__Note:__ New Avengers #7-10 and #11-15 happen here (because Sentry is not present in the previous story)
 
 AMS-2 #526-527 __[Favourite]__ (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.)
 
 AMS-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
 
+__Note:__ New Avengers #16-20 happen here (because Spider-Man wears the Iron-Spider suit)
+
 Civil War #1-7
 
-AMS-2 #538 (_End of civil war, Kingpin sends a sniper_)
+AMS-2 #538 (_End of Civil War, Kingpin sends a sniper_)
+
+AMS-2 #539-543 (_Back in black_)
+
+_One more day_:
+- AMS-2 #544
+- Friendly Neighborhood Spider-Man #24
+- The Sensational Spider-Man #41
+- AMS-2 #545
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -351,8 +365,8 @@ AMS-2 #538 (_End of civil war, Kingpin sends a sniper_)
 - ASM-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
 - ASM-2 #39 is a mute issue in memory of the victims of the 9/11 terror attack.
 - AMS-2 519-524 and "The Other" are set before New Avengers #7, because Sentry is not present.
-- AMS-2 #538 happens before Daredevil #93.
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
+- AMS-2 #538 happens before Daredevil #93.
 
 ### Classic Marvel Era (1961-)
 
@@ -523,7 +537,7 @@ Iron-Man Extremis #1-6
 
 The Amazing Spider-Man #529
 
-New Avengers #16-20
+New Avengers #16-20 (_The Collective, Magneto regains powers and disappears_)
 
 Doctor Strange: The Oath #1-5
 
