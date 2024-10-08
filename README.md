@@ -310,6 +310,8 @@ Spectacular SM #11-13 (_Lizard_)
 
 Spectacular SM #15-20 (_Ana, Peter mutates_)
 
+The Pulse #1-5 (_Norman Osborn revealed, Ben Urich knows about Peter_) __[Favourite]__
+
 Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
 
 Marvel Knights SM #1-12 __[Favourite]__
@@ -320,7 +322,7 @@ AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
 
 __Note:__ New Avengers #7-10 and #11-15 happen here (because Sentry is not present in the previous story)
 
-AMS-2 #526-527 __[Favourite]__ (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.)
+AMS-2 #526-527 (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.) __[Favourite]__
 
 AMS-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
 
