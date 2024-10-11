@@ -302,6 +302,8 @@ ASM-2 #30-35, 37-39 (_Peter becomes a teacher, Ezekiel, Morlun, conversation wit
 
 ASM-2 #36 (_In memory of the 9/11 terror attack_)
 
+AMS-2 #40-42 (_Shade, Dr. Strange, Astral plane_) __[Favourite]__
+
 Spectacular SM #1-5 (_Return of Venom_)
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
