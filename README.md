@@ -513,7 +513,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 
 Thor #80-85 (_Ragnarok_)
 
-The Pulse #1-5
+The Pulse #1-5 (_Goblin arrested, Ben Urich knows about Peter_)
 
 Marvel Knights Spider-Man #1-12
 
@@ -525,7 +525,7 @@ Wolverine #20-31 (_Enemy of the State_)
 
 Secret War #1-5
 
-The Pulse #6-9
+The Pulse #6-9 (_Aftermath of Secret War_)
 
 New Avengers #1-6 (_Prison breakout, Savage Land, New Avengers assemble_)
 
@@ -539,7 +539,7 @@ New Avengers #11-15 (_Madame Hydra, Spider-Woman's secret, the Avengers go publi
 
 Iron-Man Extremis #1-6
 
-The Amazing Spider-Man #529
+The Amazing Spider-Man #529 (_Iron-Spider suit, Tony mentions the registration act_)
 
 New Avengers #16-20 (_The Collective, Magneto regains powers and disappears_)
 
@@ -547,7 +547,7 @@ Doctor Strange: The Oath #1-5
 
 Captain America #15-21 (_Crossbones & Sin, Battle in London_) + 65th anniversary special (_WW2 tale_)
 
-The Pulse #11-14
+The Pulse #11-14 (_D-Man, Jessica gives birth_)
 
 New Avengers Annual #1
 
