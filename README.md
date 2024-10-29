@@ -519,6 +519,8 @@ Marvel Knights Spider-Man #1-12
 
 Avengers #500-503 (_Disassembled_) + Avengers Finale
 
+Marvel Team-Up #1-6 (_Golden Boy_)
+
 Captain America #1-14 (_Winter Soldier_) (#10 is a _House of M_ tie-in, but it reads smoothly here without any background of the main event.)
 
 Wolverine #20-31 (_Enemy of the State_)
