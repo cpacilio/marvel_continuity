@@ -553,7 +553,7 @@ Captain America #15-21 (_Crossbones & Sin, Battle in London_) + 65th anniversary
 
 The Pulse #11-14 (_D-Man, Jessica gives birth_)
 
-New Avengers Annual #1
+New Avengers Annual #1 (_Yelena Belova strikes back, Jessica Jones and Luke Cage marry_)
 
 New Avengers Illuminati #0
 
