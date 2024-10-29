@@ -535,6 +535,8 @@ Young Avengers #1-12
 
 House of M #1-8
 
+Son of M #1-6 (_Pietro steals the terrigen mists_)
+
 New Avengers #11-15 (_Madame Hydra, Spider-Woman's secret, the Avengers go public_)
 
 Iron-Man Extremis #1-6
@@ -543,7 +545,7 @@ The Amazing Spider-Man #529 (_Iron-Spider suit, Tony mentions the registration a
 
 New Avengers #16-20 (_The Collective, Magneto regains powers and disappears_)
 
-Doctor Strange: The Oath #1-5
+Doctor Strange: The Oath #1-5 
 
 Captain America #15-21 (_Crossbones & Sin, Battle in London_) + 65th anniversary special (_WW2 tale_)
 
