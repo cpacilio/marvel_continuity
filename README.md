@@ -558,8 +558,8 @@ New Avengers Annual #1 (_Yelena Belova strikes back, Jessica Jones and Luke Cage
 New Avengers Illuminati #0
 
 Civil War #1-7
-
-Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
+- New Avengers #22 (_Luke Cage's choice, Civil War tie in_)
+- Captain America #22-24 + Winter Soldier: Winter kills (*Civil War tie-ins*)
 
 Thunderbolts #110-115
 
