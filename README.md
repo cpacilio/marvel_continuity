@@ -693,6 +693,7 @@ New Avengers Finale
 - The Pulse #11-14:
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
   - The so called Murdock files are mentioned
+- During Sentry (2005) #1-8, Nick Fury appears as the head of SHIELD, despite he is dismissed at the end of Secret War. This is probably due to the publication delays suffered by Secret War.
 - During the Civil War, Dr. Strange and Wolverine are absent
 - Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_
 - AMS 529: it is set before Daredevil #93
