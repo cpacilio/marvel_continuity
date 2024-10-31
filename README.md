@@ -541,6 +541,8 @@ Son of M #1-6 (_Pietro steals the terrigen mists_)
 
 New Avengers #11-15 (_Madame Hydra, Spider-Woman's secret, the Avengers go public_)
 
+Sentry (2005) #1-8 (_Sentry uncovers the truth about his origins_)
+
 Iron-Man Extremis #1-6
 
 The Amazing Spider-Man #529 (_Iron-Spider suit, Tony mentions the registration act_)
