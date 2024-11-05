@@ -583,9 +583,11 @@ Spider-Man: One more day:
 
 Civil War: The initiative
 
-New Avengers #26-31
+New Avengers #26 (_Clint looks for Wanda_)
 
-Mighty Avengers #1-6
+Mighty Avengers #1-6 (_Ultron takes control of Tony_)
+
+New Avengers #27-31 (_The Hand and Elektra_)
 
 New Avengers #32-34
 
