@@ -587,9 +587,9 @@ New Avengers #26 (_Clint looks for Wanda_)
 
 Mighty Avengers #1-6 (_Ultron takes control of Tony_)
 
-New Avengers #27-31 (_The Hand and Elektra_)
+New Avengers #27-32 (_The Hand and Elektra_)
 
-New Avengers #32-34
+New Avengers #33-34
 
 Mighty Avengers #7-8
 
