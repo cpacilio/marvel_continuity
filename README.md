@@ -589,11 +589,9 @@ Mighty Avengers #1-6 (_Ultron takes control of Tony_)
 
 New Avengers #27-32 (_The Hand and Elektra_)
 
-New Avengers #33-34
+New Avengers #33-37 (_Venom invasion, the Hood_)
 
 Mighty Avengers #7-8
-
-New Avengers #35-37
 
 Migthy Avengers #9-11
 
