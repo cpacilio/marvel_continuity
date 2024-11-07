@@ -595,6 +595,8 @@ New Avengers #33-37 (_Venom virus, the Hood_)
 
 Migthy Avengers #9-11 (_Attack to Latveria, Doom arrested_)
 
+Silent War #1-6 (_Inhumans declare War, Maximus regains power_)
+
 The Incredible Hulk #92-95 + Giant Size Hulk #1 + The Incredible Hulk #96-105 (_Planet Hulk_)
 
 World War Hulk #1-5
