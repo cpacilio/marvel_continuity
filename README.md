@@ -601,7 +601,7 @@ The Incredible Hulk #92-95 + Giant Size Hulk #1 + The Incredible Hulk #96-105 (_
 
 World War Hulk #1-5
 
-New Avengers Annual #2
+New Avengers Annual #2 (_The Hood's gang attacks the New Avengers_)
 
 New Avengers #38-39
 
@@ -702,7 +702,7 @@ New Avengers Finale
 - New avengers 35: Wilson Fisk is considered out of the games
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
-- New Avengers #38: Spider-Man is back in the classical suit
+- New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38
 
 ### ULTIMATE MARVEL UNIVERSE
 
