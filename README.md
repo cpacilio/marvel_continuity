@@ -612,22 +612,13 @@ The Invincible Iron-Man (2008) #1-7  (_Ezekiel Stane_)
 New Avengers Illuminati #1-5
 
 Secret Invasion : 
-- Migthy Avengers #12,13
+- Migthy Avengers #12-13
 - Secret Invasion #1
 - New Avengers #40
-- Secret Invasion #2
-- Mighty Avengers #14
-- New Avengers #41
-- Secret Invasion #3
+- Secret Invasion #2-3
 - Migthy Avengers #15
 - New Avengers #42,45
-- Secret Invasion #4
-- Migthy Avengers #16
-- New Avengers #43
-- Secret Invasion #5
-- New Avengers #44
-- Secret Invasion #6,7
-- Migthy Avengers #19
+- Secret Invasion #4-7
 - New Avengers #46
 - Secret Invasion #8
 - New Avengers #47
