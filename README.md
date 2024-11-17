@@ -624,15 +624,11 @@ Secret Invasion :
 - New Avengers #47
 - Mighty Avengers #20
 
-Secret Invasion: Dark Reign
+Secret Invasion: Dark Reign (_Osborn groups the Cabal_)
 
-New Avengers #48-49
+New Avengers #48-50 (_Luke finds his child with Osborn's help, Osborn starts the Dark Avengers_)
 
-Dark Avengers #1
-
-New Avengers #50
-
-Dark Avengers #2-6
+Dark Avengers #1-6 (_Battle against Morgana in Latveria, Osborn manipulates Sentry_)
 
 New Avengers #51-54
 
@@ -659,6 +655,8 @@ Dark Avengers Annual #1
 Dark Reign The List: Avengers
 
 New Avengers Annual #3
+
+The Invincible Iron-Man (2008) #8-19 (_Tony turns off his brain functions_)
 
 Siege :
 - Siege: The Cabal
