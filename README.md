@@ -1,4 +1,4 @@
-## About
+q## About
 This repo keeps track of the reading order of Marvel comic books. 
 
 It is not a comprehensive list: I'll take the freedom of skipping storylines that I do not bother about, if they are not strictly necessary to follow the other plots. 
@@ -636,7 +636,7 @@ Spider-Woman #1-7
 
 Thor #600-603 + Thor Giant Size #1
 
-Captain America #43-48
+Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
 
 Dark Avengers #9-12
 
