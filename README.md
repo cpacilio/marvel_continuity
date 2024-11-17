@@ -1,4 +1,4 @@
-q## About
+## About
 This repo keeps track of the reading order of Marvel comic books. 
 
 It is not a comprehensive list: I'll take the freedom of skipping storylines that I do not bother about, if they are not strictly necessary to follow the other plots. 
