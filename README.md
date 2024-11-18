@@ -630,7 +630,7 @@ New Avengers #48-50 (_Luke finds his child with Osborn's help, Osborn starts the
 
 Dark Avengers #1-6 (_Battle against Morgana in Latveria, Osborn manipulates Sentry_)
 
-New Avengers #51-54
+New Avengers #51-54 (_Dr. Vodoo the new sorcerer supreme_)
 
 Spider-Woman #1-7
 
@@ -638,7 +638,7 @@ Thor #600-603 + Thor Giant Size #1
 
 Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
 
-Dark Avengers #9-12
+Dark Avengers #9-12 (_Molecule Man_)
 
 New Avengers #55-60
 
