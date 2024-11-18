@@ -640,7 +640,7 @@ Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
 
 Dark Avengers #9-12 (_Molecule Man_)
 
-New Avengers #55-60
+New Avengers #55-60 (_Luke has a cardiac arrest, Loki brings back the Hood_)
 
 Thor #604-606
 
