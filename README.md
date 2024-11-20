@@ -605,7 +605,7 @@ New Avengers Annual #2 (_The Hood's gang attacks the New Avengers_)
 
 New Avengers #38-39
 
-Thor #1-11
+Thor #1-12 (_Thor and the asgardians resurrect_)
 
 The Invincible Iron-Man (2008) #1-7  (_Ezekiel Stane_)
 
