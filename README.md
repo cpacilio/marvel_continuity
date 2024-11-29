@@ -409,6 +409,8 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF #51 (_"This man... this monster"_)
 - FF #52-53 (_Black Panther_)
 - FF #54-60 (_Inhumans break free, Dr. Doom steals cosmic powers from Silver Surfer_)
+- FF Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
+- FF #102-104 (_Magneto tricks Namor in attacking New York_)
 
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
