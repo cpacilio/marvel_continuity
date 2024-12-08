@@ -376,7 +376,14 @@ _One more day_:
 
 __Doctor Strange:__
 
-Strange Tales #127,130-141,146 (_Dormammu, Search for Eternity_)
+Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
+
+_Origins of Dr. Strange_: they have been told several times:
+- Strange Tales (1951) #115
+- Doctor Strange (1968) #169
+- Doctor Strange (1974) #56
+
+Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
 
 __Early FF and Avengers:__
 
@@ -393,7 +400,7 @@ These stories are 60 years old and have not always aged well: the plots might se
 - FF #12 (_First meeting with the Hulk_)
 - FF Annual #1 (_Origin of Sub-Mariner, Sub-Mariner conquers the Earth_)
 - FF #18 (_Super Skrull_)
-- FF #19 (_Pharoah Rama-Tut_)
+- FF #19 (_Pharoah Rama-Tut_) (this classic story was later retconned in Doctor Strange (1974) #53, revealing the undisclosed presence of the astral form of Dr. Strange)
 - FF Annual #2 (_Origin of Dr Doom_)
 - Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 - Avengers #8 (_Kang the Conqueror_)
