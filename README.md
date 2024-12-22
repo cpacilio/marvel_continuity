@@ -304,7 +304,11 @@ ASM-2 #36 (_In memory of the 9/11 terror attack_)
 
 AMS-2 #40-42 (_Shade, Dr. Strange, Astral plane_) __[Favourite]__
 
+AMS-2 #43-45 (_Carlyle and Doc Ock_)
+
 Spectacular SM #1-5 (_Return of Venom_)
+
+AMS-2 #46-50 (_Spider-Wasp, Dr. Doom at airport, Peter and MJ come back together_)
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
 
