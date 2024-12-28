@@ -664,13 +664,15 @@ Captain America: Reborn #1-6
 
 Captain America: Who will wield the shield?
 
-Dark Avengers Annual #1
+Dark Avengers Annual #1 (_Marvel Boy upgraded by Kree's supreme intelligence_)
 
-Dark Reign The List: Avengers
+Dark Reign The List: Avengers (_Clint Barton captured by the Dark Avengers_)
 
-New Avengers Annual #3
+New Avengers Annual #3 (_The New Avengers free Clint_)
 
 The Invincible Iron-Man (2008) #8-19 (_Tony turns off his brain functions_)
+
+The Invincible Iron-Man (2008) #20-24 (_Tony brought back to consciousness, hidden in Oklahoma with Thor and Captain America_)
 
 Siege :
 - Siege: The Cabal
