@@ -654,23 +654,23 @@ Thor #600-603 + Thor Giant Size #1
 
 Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
 
-Dark Avengers #9-12 (_Molecule Man_)
+Dark Avengers #9 (_Ares confronts Nick about Phobos, Sentry is shot Lindy_) + Dark Avengers #10-12 (_Molecule Man_)
 
 New Avengers #55-60 (_Luke has a cardiac arrest, Loki brings back the Hood_)
 
 Thor #604-606 (_Balder and Thor attack Dr. Doom_)
 
-Captain America #49, 600-601
+Captain America #49, 600-601 (_Interlude issues before Cap's reborn_)
 
-Captain America: Reborn #1-6
-
-Captain America: Who will wield the shield?
+Captain America: Reborn #1-6 (_Cap's Reborn, death of Red Skull_) + Captain America: Who will wield the shield?
 
 Dark Avengers Annual #1 (_Marvel Boy upgraded by Kree's supreme intelligence_)
 
 Dark Reign The List: Avengers (_Clint Barton captured by the Dark Avengers_)
 
 New Avengers Annual #3 (_The New Avengers free Clint_)
+
+Secret Warriors #7-9 + Dark Reign: The List - Secret Warriors + Secret Warriors #10 (_Secret Warriors vs. Dark Avengers, Phobos becomes a God, beginning of Leviathan storyline_)
 
 The Invincible Iron-Man (2008) #8-19 (_Tony turns off his brain functions_)
 
