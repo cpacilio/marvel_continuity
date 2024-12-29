@@ -672,6 +672,8 @@ New Avengers Annual #3 (_The New Avengers free Clint_)
 
 Secret Warriors #7-9 + Dark Reign: The List - Secret Warriors + Secret Warriors #10 (_Secret Warriors vs. Dark Avengers, Phobos becomes a God, beginning of Leviathan storyline_)
 
+Secret Warriors #11-16 (_Leviathan wakes up, Leviathan vs Hydra_)
+
 The Invincible Iron-Man (2008) #8-19 (_Tony turns off his brain functions_)
 
 The Invincible Iron-Man (2008) #20-24 (_Tony brought back to consciousness, hidden in Oklahoma with Thor and Captain America_)
