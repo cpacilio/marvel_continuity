@@ -646,6 +646,8 @@ Dark Avengers #1-6 (_Battle against Morgana in Latveria, Osborn manipulates Sent
 
 New Avengers #51-54 (_Dr. Vodoo the new sorcerer supreme_)
 
+Secret Warriors #1-6 (_Nick unveils the secret Hydra's ramifications, Baron Von Strucker reestablishes Hydra_)
+
 Spider-Woman #1-7
 
 Thor #600-603 + Thor Giant Size #1
