@@ -697,6 +697,7 @@ New Avengers Finale
 
 #### Notes
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
+- In The New Thunderbolts #17 it is revealed that the Baron Von Strucker killed during the _Enemy of the State_ storyline was a clone.
 - New Avengers 11: 
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
   - Madame Hydra is considered in disgrace (but where did it happen?)
