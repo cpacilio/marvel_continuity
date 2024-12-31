@@ -680,20 +680,11 @@ The Invincible Iron-Man (2008) #20-24 (_Tony brought back to consciousness, hidd
 
 Siege :
 - Siege: The Cabal
-- Siege #1
-- Dark Avengers #13
-- New Avengers #61
-- Siege #2
-- Dark Avengers #14
-- New Avengers #62
-- Siege #3
-- Dark Avengers #15
-- New Avengers #63
-- Siege #4
+- Dark Avengers #13-15 (_Sentry background_)
+- Siege #1-4
 - Dark Avengers #16
-- New Avengers #64
 
-New Avengers Finale
+New Avengers Finale (_End of the Hood_)
 
 #### Notes
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
