@@ -346,7 +346,7 @@ _One more day_:
 - The Sensational Spider-Man #41
 - AMS-2 #545
 
-### Brand New Era (2008-)
+#### Brand New Era (2008-)
 
 AMS-2 #568-573 (_Norman Osborn sends the Thunderbolts after Spider-Man, birth of anti-Venom_)
 
