@@ -224,7 +224,7 @@ PPSSM #194-196 (_The death of Vermin_) [not on MU] __[Favourite]__
 
 PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
 
-#### Modern Era (1993-)
+#### Modern Era (1993-2008)
 
 PPSSM #213-214 (_Bloody Mary_) __[Favourite]__
 
@@ -345,6 +345,12 @@ _One more day_:
 - Friendly Neighborhood Spider-Man #24
 - The Sensational Spider-Man #41
 - AMS-2 #545
+
+### Brand New Era (2008-)
+
+AMS-2 #568-573 (_Norman Osborn sends the Thunderbolts after Spider-Man, birth of anti-Venom_)
+
+AMS-2 #584-588 (_Menace revealed_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
