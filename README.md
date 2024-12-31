@@ -34,6 +34,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [1960's Marvel](https://www.comicbookherald.com/best-1960s-marvel-comics/)
 
+[Marvel Now](https://www.comicbookherald.com/the-complete-marvel-reading-order-guide/marvel-now-checklist/)
+
 ## Marvel Universe Reading Order
 
 ### Spider-Man
