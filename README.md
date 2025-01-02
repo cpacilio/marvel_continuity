@@ -140,6 +140,8 @@ ASM #248 (_The boy Who collects Spider-Man_)
 
 PPSSM #85 (_Hobgoblin's super strength_)
 
+PPSSM #87,89 (_Peter reveals his identity to the Black Cat, Felicia gets real super powers from the Kingpin_)
+
 ASM #249-251 (_Final battle against hobgoblin_)
 
 #### Dark Age (1984-1993)
@@ -296,13 +298,13 @@ SM's Tangled Web #4 __[Favourite]__
 
 SM's Tangled Web #5-6 (_Flowers for Rhino_) __[Favourite]__
 
-PPSM-2 #44-47 (_Return of Goblin, Flash paralyzed by Goblin_)
-
-PPSM-2 #56-57 (_Sandman reborn_)
-
 ASM-2 #30-35, 37-39 (_Peter becomes a teacher, Ezekiel, Morlun, conversation with Aunt May_) __[Favourite]__
 
 ASM-2 #36 (_In memory of the 9/11 terror attack_)
+
+PPSM-2 #44-47 (_Return of Goblin, Flash paralyzed by Goblin_)
+
+PPSM-2 #56-57 (_Sandman reborn_)
 
 AMS-2 #40-42 (_Shade, Dr. Strange, Astral plane_) __[Favourite]__
 
@@ -311,6 +313,8 @@ AMS-2 #43-45 (_Carlyle and Doc Ock_)
 Spectacular SM #1-5 (_Return of Venom_)
 
 AMS-2 #46-50 (_Spider-Wasp, Dr. Doom at airport, Peter and MJ come back together_)
+
+Doctor Octopus: Negative Exposure #1-5
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
 
@@ -362,7 +366,6 @@ AMS-2 #584-588 (_Menace revealed_)
 - ASM Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
 - ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
 - PPSSM #76 happens between ASM #238 and 239.
-- In PPSM #87-89 Peter goes open about his identity with the black cat; the black cat gets real super powers from kingpin; #88-89 are not present on MU.
 - ASM #256 makes reference to the gang war between kingpin and Micah Synn in Daredevil.
 - In PPSSM #99 the Black Cat gives a manifactured black suit to Peter.
 - _The death of Jean deWolff_ is really a gem of a story
