@@ -446,6 +446,9 @@ __Roy Thomas' Avengers:__
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
 
+__Steve Englearth's Avengers:__
+- Avengers #133-135 + GSA #4 (_Origin of Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
@@ -533,7 +536,8 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 #### Notes
 - Excalibur #8: Avengers Disassembled happens. Magneto brings Scarlet back to Genosha
 - Deadly Genesis: Prof. X is revealed to have lost his powers in the aftermath of House of M but he has regained the use of his legs; Rachel Summers is part of the group
-- Civil War: the Sentinels guard the school, therefore it happens during decimation
+- Civil War: the Sentinels guard the school, therefore it happens during decimation.
+- useful background for UXM #475-486: Rachel has received a Phoenix mark by the Shi'ar (see UXM #466-, Nov 2005); Polaris lost her powers after House of M, but they were restored by Apocalypse (see XM #180-, Dec 2005)
 - Phoenix: Warsong #1: we see the ``anime robot'' sentinels, therefore it's set after Civil: War X-Men.
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
@@ -700,6 +704,41 @@ Siege :
 - Dark Avengers #16
 
 New Avengers Finale (_End of the Hood_)
+
+### Modern Marvel Cosmic
+Annihilation:
+- Drax the Destroyer #1-4
+- Annihilation Prologue 
+- Annihilation: Nova #1-4
+- Annihilation: Ronan #1-4
+- Annihilation: Super-Skrull #1-4
+- Annihilation: Silver Surfer #1-4
+- Annihilation #1-6
+- Annihilation: Heralds of Galactus #1-2
+
+X-Men: Deadly Genesis #1-6 
+
+*Civil War happens here*
+
+Uncanny X-Men #475-486 (*The Rise and Fall of the Shi'ar Empire*)
+
+Nova #1-3 (*Nova briefly returns on Earth*)
+
+Annihilation: Conquest 
+- Annihilation: Conquest Prologue
+- Nova #4-7
+- Nova 8-10 + Annual #1 + #11-12
+- Annihilation: Conquest #1-6
+
+X-men: Emperor Vulcan #1-5
+
+*Secret Invasion happens here*
+
+Secret Invasion: Inhumans #1-4
+
+Secret Invasion: War of Kings 
+
+X-Men: King breaker
 
 #### Notes
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
