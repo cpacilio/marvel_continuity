@@ -642,6 +642,8 @@ Thor #1-12 (_Thor and the asgardians resurrect_)
 
 The Invincible Iron-Man (2008) #1-7  (_Ezekiel Stane_)
 
+Captain Marvel (2007) #1-5
+
 New Avengers Illuminati #1-5
 
 Secret Invasion : 
@@ -652,6 +654,7 @@ Secret Invasion :
 - Migthy Avengers #15
 - New Avengers #42,45
 - Secret Invasion #4-7
+- Mighty Avengers #19 (_Captain Marvel and Marvel Boy_)
 - New Avengers #46
 - Secret Invasion #8
 - New Avengers #47
