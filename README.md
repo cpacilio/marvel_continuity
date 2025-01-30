@@ -443,6 +443,7 @@ __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
 - Avengers #55, 57-58 (_Intro to Ultron and Vision, Vision joins the Avengers_) (you can read AMS #86 hereafter to know about the fate of the Black Widow)
 - Avengers #87 (_Black Panther's origins_)
+- Marvel Super-Heroes #12-13 + Captain Marvel #1-3,17 (_Origins of Captain Marvel_)
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
 
