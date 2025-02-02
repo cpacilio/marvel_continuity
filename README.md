@@ -447,8 +447,10 @@ __Roy Thomas' Avengers:__
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
 
+Iron-Man #55, Captain Marvel #25-30, Marvel Features #12, Captain Marvel #31-33 (_Thanos War_) (This is the first cosmic storyline by Jim Starlin)
+
 __Steve Englearth's Avengers:__
-- Avengers #133-135 + GSA #4 (_Origin of Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
+- Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
 
 ### Marvel Knights
 
