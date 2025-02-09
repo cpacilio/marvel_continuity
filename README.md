@@ -43,6 +43,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 Origin story:
 There are many versions of DD's origins. I prefer:
 - Daredevil: the man without fear #1-5
+
 but if you prefer a more traditional take, you can read
 - Daredevil: Yellow #1-6
 
