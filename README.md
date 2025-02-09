@@ -38,6 +38,28 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
+### Daredevil
+
+Origin story:
+There are many versions of DD's origins. I prefer:
+- Daredevil: the man without fear #1-5
+but if you prefer a more traditional take, you can read
+- Daredevil: Yellow #1-6
+
+Before Frank Miller, DD was not a succesful comic-book. While Frank Miller became penciler *and* writer from issue 168, he penciled since issue 158. Issues 159-167 are useful to give you a background context before Frank Miller's run. They also feature relevant plot developments, such as DD interrupting his sentimental relation with the Black Widow, and Ben Urich discovering DD's identity.
+
+- Daredevil (1964) #159-161 (_Bullseye kidnaps the Black Widow_)
+- Daredevil #163 (_Battle vs Hulk_)
+- Daredevil #164 (_Ben Urich discovers DD's identity_)
+- Daredevil #165 (_Dr. Octopus, the Black Widow leaves NY_)
+- Daredevil #166 (_Gladiator, Foggy's wedding_)
+- Daredevil #167 (_Mauler_)
+
+Here starts Frank Miller's run, distinguishing for a grim and noir atmosphere.
+
+- Daredevil #168 (_Elektra_)
+- Daredevil #169 (_Bullseye's brain tumor_)
+
 ### Spider-Man
 
 #### Silver Age (1962-1973)
@@ -370,7 +392,7 @@ AMS-2 #584-588 (_Menace revealed_)
 - ASM #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, ASM #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in ASM #123, however it is completely irrelevant to the scope of that issue.
 - In PPSSM Annual #3, Peter works for the Bugle again.
 - ASM Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
-- ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be atrested the Police. We'll see him next in Daredevil #182.
+- ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be arrested by the Police. We'll see him next in Daredevil #182.
 - PPSSM #76 happens between ASM #238 and 239.
 - ASM #256 makes reference to the gang war between kingpin and Micah Synn in Daredevil.
 - In PPSSM #99 the Black Cat gives a manifactured black suit to Peter.
