@@ -60,6 +60,9 @@ Here starts Frank Miller's run, distinguishing for a grim and noir atmosphere.
 
 - Daredevil #168 (_Elektra_)
 - Daredevil #169 (_Bullseye's brain tumor_)
+- Daredevil #170-172 (_Return of the Kingpin_)
+- Daredevil #173 (_Trial of Melvin Potter, Becky Blake's trauma_)
+- Daredevil #174-177 (_Daredevil & Elektra vs the Hand, Daredevil loses radar senses and trains with Stick_)
 
 ### Spider-Man
 
