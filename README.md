@@ -347,6 +347,8 @@ AMS-2 #55-56 (_Melissa and Joshua_)
 
 AMS-2 #57-58,500 (_Dr. Strange vs Dormammu, Peter relives his past_)
 
+AMS-2 #501-502 (_May talks to Parkers' graves, the tailor_)
+
 Doctor Octopus: Negative Exposure #1-5
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
