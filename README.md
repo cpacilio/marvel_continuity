@@ -47,7 +47,7 @@ There are many versions of DD's origins. I prefer:
 but if you prefer a more traditional take, you can read
 - Daredevil: Yellow #1-6
 
-Before Frank Miller, DD was not a succesful comic-book. While Frank Miller became penciler *and* writer from issue 168, he penciled since issue 158. Issues 159-167 are useful to give you a background context before Frank Miller's run. They also feature relevant plot developments, such as DD interrupting his sentimental relation with the Black Widow, and Ben Urich discovering DD's identity.
+Before Frank Miller, DD was not a succesful comic-book. While Frank Miller became penciler *and* writer from issue 168, he penciled since issue 158. Issues 159-167 are useful to give you a background context before Frank Miller's solo run. They also feature relevant plot developments, such as DD interrupting his sentimental relation with the Black Widow, and Ben Urich discovering DD's identity.
 
 - Daredevil (1964) #159-161 (_Bullseye kidnaps the Black Widow_)
 - Daredevil #163 (_Battle vs Hulk_)
@@ -56,7 +56,7 @@ Before Frank Miller, DD was not a succesful comic-book. While Frank Miller becam
 - Daredevil #166 (_Gladiator, Foggy's wedding_)
 - Daredevil #167 (_Mauler_)
 
-Here starts Frank Miller's run, distinguishing for a grim and noir atmosphere.
+Frank Miller's solo run:
 
 - Daredevil #168 (_Elektra_)
 - Daredevil #169 (_Bullseye's brain tumor_)
@@ -64,6 +64,10 @@ Here starts Frank Miller's run, distinguishing for a grim and noir atmosphere.
 - Daredevil #173 (_Trial of Melvin Potter, Becky Blake's trauma_)
 - Daredevil #174-177 (_Daredevil & Elektra vs the Hand, Daredevil loses radar senses and trains with Stick_)
 - Daredevil #178-182 (_Elektra hired by Kingpin, Bullseye kills Elektra_)
+- Daredevil #183-184 (_The Punisher, Matt proposes to Heather)
+- Daredevil #185-186 (_Glenn's industries_)
+- Daredevil #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
+- Daredevil #191 (_Russian roulette wiht Bullseye_)
 
 ### Spider-Man
 
