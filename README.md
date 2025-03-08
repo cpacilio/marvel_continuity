@@ -69,6 +69,9 @@ Frank Miller's solo run:
 - Daredevil #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
 - Daredevil #191 (_Russian roulette wiht Bullseye_)
 
+Daredevil #196-200 (_Bullseye's spine healed in Japan_)
+Daredevil #202, 206, 210-214 (_Mycah Synn_)
+
 ### Spider-Man
 
 #### Silver Age (1962-1973)
