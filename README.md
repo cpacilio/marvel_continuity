@@ -749,6 +749,8 @@ Siege :
 
 New Avengers Finale (_End of the Hood_)
 
+Secret Warriors #17-19 (_Several Howling Commandos die in China_)
+
 ### Modern Marvel Cosmic
 Annihilation:
 - Drax the Destroyer #1-4
