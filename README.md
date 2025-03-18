@@ -750,6 +750,7 @@ Siege :
 New Avengers Finale (_End of the Hood_)
 
 Secret Warriors #17-19 (_Several Howling Commandos die in China_)
+Secret Warriors #20-22 (_Death of Phobos and JT_)
 
 ### Modern Marvel Cosmic
 Annihilation:
