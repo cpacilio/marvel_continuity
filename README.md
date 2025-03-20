@@ -750,7 +750,10 @@ Siege :
 New Avengers Finale (_End of the Hood_)
 
 Secret Warriors #17-19 (_Several Howling Commandos die in China_)
+
 Secret Warriors #20-22 (_Death of Phobos and JT_)
+
+Secret Warriors #23-26 (_Nick's masterplan, Nick kills strucker and destroys Leviathan, Daisy is the new head of the peace force_)
 
 ### Modern Marvel Cosmic
 Annihilation:
