@@ -70,6 +70,7 @@ Frank Miller's solo run:
 - Daredevil #191 (_Russian roulette wiht Bullseye_)
 
 Daredevil #196-200 (_Bullseye's spine healed in Japan_)
+
 Daredevil #202, 206, 210-214 (_Mycah Synn_)
 
 ### Spider-Man
