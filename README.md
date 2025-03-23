@@ -200,7 +200,7 @@ ASM #267 (_The commuter_)
 
 PPSSM #107-110 (_The death of Jean deWolff_) __[Favourite]__
 
-WSM #13 (_Point of view_) [not on MU]
+WSM #13 (_Point of view_)
 
 ASM #275-278 (_Flash framed as the hobgoblin_)
 
