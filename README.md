@@ -357,6 +357,8 @@ AMS-2 #57-58,500 (_Dr. Strange vs Dormammu, Peter relives his past_)
 
 AMS-2 #501-502 (_May talks to Parkers' graves, the tailor_)
 
+AMS-2 #503-504 (_Morwen & Loki_)
+
 Doctor Octopus: Negative Exposure #1-5
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
