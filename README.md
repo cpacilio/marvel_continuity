@@ -479,6 +479,8 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF #64-65 (_Kree's Sentry, Ronan the accuser_)
 - FF Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
 - FF #102-104 (_Magneto tricks Namor in attacking New York_)
+Here Kirby leaves the series.
+- FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
 
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
