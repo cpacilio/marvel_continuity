@@ -467,7 +467,7 @@ These stories are 60 years old and have not always aged well: the plots might se
 - AMS Annual #3 (_Avengers test SM on hunting for Hulk_)
 - FF Annual #3 (_Wedding of Sue and Reed_)
 
-__FF from Lee & Kirby (mature stage):__
+__Fantastic Four__
 
 Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Plots developments are less obvious, topics more ambitious, and there is excellent character development. Pencils are more dynamic and Kirby does a majestic work with The Thing. They introduce fresh characters and storylines whose heritage lasts till today: the Inhumans, Galactus and Silver Surfer, Black Panther.
 
@@ -479,8 +479,10 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF #64-65 (_Kree's Sentry, Ronan the accuser_)
 - FF Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
 - FF #102-104 (_Magneto tricks Namor in attacking New York_)
-Here Kirby leaves the series.
+
+Here Kirby leaves the series and is replaced by John Romita and John Buscema.
 - FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
+- FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
 
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
