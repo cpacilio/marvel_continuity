@@ -481,7 +481,13 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF #102-104 (_Magneto tricks Namor in attacking New York_)
 
 Here Kirby leaves the series and is replaced by John Romita and John Buscema.
+
 - FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
+
+Galactus featured several issues of Thor, during which Thor discovers the origin of Galactus:
+- Thor #160-162 (_Thor and Ego the living planet against Galactus_)
+- Thor #168-169 (_Thor discovers the origin of Galactus_)
+
 - FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
 
 __Roy Thomas' Avengers:__
