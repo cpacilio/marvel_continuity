@@ -480,15 +480,16 @@ Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Pl
 - FF Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
 - FF #102-104 (_Magneto tricks Namor in attacking New York_)
 
-Here Kirby leaves the series and is replaced by John Romita and John Buscema.
+_Here Kirby leaves the series and is replaced by John Romita and John Buscema._
 
-- FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
+FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
 
-Galactus featured several issues of Thor, during which Thor discovers the origin of Galactus:
+Galactus featured several issues of Thor, culminating with Thor learning about the origin of Galactus:
 - Thor #160-162 (_Thor and Ego the living planet against Galactus_)
 - Thor #168-169 (_Thor discovers the origin of Galactus_)
+- Super-Villain Classics 1 (_Retelling of Galactus' origin_) (This is a reprint from Lee-and-Kirby's original material, with alterations from other authors; for example, here Galactus receives his powers from the Sentience of the Universe, instead of just taking them from stellar radiations_)
 
-- FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
+FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
 
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
