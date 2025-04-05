@@ -365,6 +365,8 @@ AMS-2 #501-502 (_May talks to Parkers' graves, the tailor_)
 
 AMS-2 #503-504 (_Morwen & Loki_)
 
+AMS-2 #505-508 (_End of Ezekiel_) __[Favourite]__
+
 Doctor Octopus: Negative Exposure #1-5
 
 Spectacular SM #6-10 (_Doc Ock attacks palestinian ambassador_)
