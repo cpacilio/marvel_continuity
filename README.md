@@ -73,6 +73,12 @@ Daredevil #196-200 (_Bullseye's spine healed in Japan_)
 
 Daredevil #202, 206, 210-214 (_Mycah Synn_)
 
+### Hulk
+
+Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
+
+Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
+
 ### Spider-Man
 
 #### Silver Age (1962-1973)
