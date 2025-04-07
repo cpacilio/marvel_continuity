@@ -813,6 +813,7 @@ Secret Invasion: War of Kings
 X-Men: King breaker
 
 #### Notes
+- Young Avengers #1 is set before New Avengers and before Winter Soldier
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - In The New Thunderbolts #17 it is revealed that the Baron Von Strucker killed during the _Enemy of the State_ storyline was a clone.
 - New Avengers 11: 
