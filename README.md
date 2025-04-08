@@ -617,6 +617,8 @@ Avengers #500-503 (_Disassembled_) + Avengers Finale
 
 Marvel Team-Up #1-6 (_Golden Boy_)
 
+Young Avengers #1-6 (_Young Avengers vs Kang_)
+
 Captain America #1-14 (_Winter Soldier_) (#10 is a _House of M_ tie-in, but it reads smoothly here without any background of the main event.)
 
 Wolverine #20-31 (_Enemy of the State_)
@@ -629,7 +631,7 @@ New Avengers #1-6 (_Prison breakout, Savage Land, New Avengers assemble_)
 
 New Avengers #7-10 (_Sentry_)
 
-Young Avengers #1-12
+Young Avengers #7-12
 
 House of M #1-8
 
@@ -813,7 +815,7 @@ Secret Invasion: War of Kings
 X-Men: King breaker
 
 #### Notes
-- Young Avengers #1 is set before New Avengers and before Winter Soldier
+- Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
 - In The New Thunderbolts #17 it is revealed that the Baron Von Strucker killed during the _Enemy of the State_ storyline was a clone.
 - New Avengers 11: 
