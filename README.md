@@ -633,7 +633,7 @@ New Avengers #7-10 (_Sentry_)
 
 Young Avengers #7-8 (_Truth about Eli's powers_)
 
-Young Avengers #9-12 (_Kree vs Skrull_)
+Young Avengers #9-12 (_Kree vs Skrull, Hulking revealed to be the son of Anelle and Captain Marvel_)
 
 House of M #1-8
 
