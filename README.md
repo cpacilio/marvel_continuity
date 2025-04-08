@@ -631,7 +631,9 @@ New Avengers #1-6 (_Prison breakout, Savage Land, New Avengers assemble_)
 
 New Avengers #7-10 (_Sentry_)
 
-Young Avengers #7-12
+Young Avengers #7-8 (_Truth about Eli's powers_)
+
+Young Avengers #9-12 (_Kree vs Skrull_)
 
 House of M #1-8
 
