@@ -773,6 +773,8 @@ Siege :
 - Siege #1-4
 - Dark Avengers #16
 
+Avengers: Prime #1-5 (_Thor, Cap and Iron-Man vs Hela_) (Published after NA Finale but its timeline fits here)
+
 New Avengers Finale (_End of the Hood_)
 
 Secret Warriors #17-19 (_Several Howling Commandos die in China_)
