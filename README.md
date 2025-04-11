@@ -783,6 +783,14 @@ Secret Warriors #20-22 (_Death of Phobos and JT_)
 
 Secret Warriors #23-26 (_Nick's masterplan, Nick kills strucker and destroys Leviathan, Daisy is the new head of the peace force_)
 
+Avengers (2010) #1-6 (_Kang asks the Avengers to fix Ultron's dystopic future_)
+
+New Avengers (2010) #1-6 (_Agamotto, Jericho dies_)
+
+Secret Avenger #1-5 (_Mission on Mars, introduction of Max Fury_)
+
+Avengers (2010) #7-12 (_Hood collects the infinity gems_)
+
 ### Modern Marvel Cosmic
 Annihilation:
 - Drax the Destroyer #1-4
@@ -836,7 +844,8 @@ X-Men: King breaker
 - New avengers 35: Wilson Fisk is considered out of the games
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
-- New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38
+- New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
+- In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline
 
 ### ULTIMATE MARVEL UNIVERSE
 
