@@ -617,8 +617,6 @@ Avengers #500-503 (_Disassembled_) + Avengers Finale
 
 Marvel Team-Up #1-6 (_Golden Boy_)
 
-Young Avengers #1-6 (_Young Avengers vs Kang_)
-
 Captain America #1-14 (_Winter Soldier_) (#10 is a _House of M_ tie-in, but it reads smoothly here without any background of the main event.)
 
 Wolverine #20-31 (_Enemy of the State_)
@@ -626,6 +624,8 @@ Wolverine #20-31 (_Enemy of the State_)
 Secret War #1-5
 
 The Pulse #6-9 (_Aftermath of Secret War_)
+
+Young Avengers #1-6 (_Young Avengers vs Kang_)
 
 New Avengers #1-6 (_Prison breakout, Savage Land, New Avengers assemble_)
 
@@ -791,6 +791,8 @@ Secret Avenger #1-5 (_Mission on Mars, introduction of Max Fury_)
 
 Avengers (2010) #7-12 (_Hood collects the infinity gems_)
 
+Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
+
 ### Modern Marvel Cosmic
 Annihilation:
 - Drax the Destroyer #1-4
@@ -846,6 +848,7 @@ X-Men: King breaker
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
 - In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline
+- In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
 
 ### ULTIMATE MARVEL UNIVERSE
 
