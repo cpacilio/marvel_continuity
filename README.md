@@ -753,6 +753,8 @@ Captain America #49, 600-601 (_Interlude issues before Cap's reborn_)
 
 Captain America: Reborn #1-6 (_Cap's Reborn, death of Red Skull_) + Captain America: Who will wield the shield?
 
+Captain America #602-605 (_Two Americas_)* (this goes before Siege, osborn is still the head of shield)
+
 Dark Avengers Annual #1 (_Marvel Boy upgraded by Kree's supreme intelligence_)
 
 Dark Reign The List: Avengers (_Clint Barton captured by the Dark Avengers_)
@@ -790,6 +792,10 @@ New Avengers (2010) #1-6 (_Agamotto, Jericho dies_)
 Secret Avenger #1-5 (_Mission on Mars, introduction of Max Fury_)
 
 Avengers (2010) #7-12 (_Hood collects the infinity gems_)
+
+Captain America #605-610 (_Baron Zemo_)
+
+Captain America #611-615 (_Trial of Bucky_)
 
 Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
