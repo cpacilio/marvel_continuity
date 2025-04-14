@@ -787,11 +787,19 @@ Secret Warriors #23-26 (_Nick's masterplan, Nick kills strucker and destroys Lev
 
 Avengers (2010) #1-6 (_Kang asks the Avengers to fix Ultron's dystopic future_)
 
+Avengers (2010) #7-12 (_Hood collects the infinity gems_)
+
 New Avengers (2010) #1-6 (_Agamotto, Jericho dies_)
+
+New Avengers #7-8
+
+New Avengers #9-13 (_Superia, Nick Fury and the Infinity formula_)
 
 Secret Avenger #1-5 (_Mission on Mars, introduction of Max Fury_)
 
-Avengers (2010) #7-12 (_Hood collects the infinity gems_)
+Secret Avengers #6-10 (_Hai Dai & Shadow Council vs Shang-Chi_)*
+
+Secret Avengers #11-12 (_Truth about Steele_)
 
 Captain America #605-610 (_Baron Zemo_)
 
