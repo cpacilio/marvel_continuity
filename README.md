@@ -64,7 +64,7 @@ Frank Miller's solo run:
 - Daredevil #173 (_Trial of Melvin Potter, Becky Blake's trauma_)
 - Daredevil #174-177 (_Daredevil & Elektra vs the Hand, Daredevil loses radar senses and trains with Stick_)
 - Daredevil #178-182 (_Elektra hired by Kingpin, Bullseye kills Elektra_)
-- Daredevil #183-184 (_The Punisher, Matt proposes to Heather)
+- Daredevil #183-184 (_The Punisher, Matt proposes to Heather_)
 - Daredevil #185-186 (_Glenn's industries_)
 - Daredevil #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
 - Daredevil #191 (_Russian roulette wiht Bullseye_)
@@ -605,7 +605,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2010)
+### New Avengers Era (2004-2012)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -797,7 +797,7 @@ New Avengers #9-13 (_Superia, Nick Fury and the Infinity formula_)
 
 Secret Avenger #1-5 (_Mission on Mars, introduction of Max Fury_)
 
-Secret Avengers #6-10 (_Hai Dai & Shadow Council vs Shang-Chi_)*
+Secret Avengers #6-10 (_Hai Dai & Shadow Council vs Shang-Chi_)
 
 Secret Avengers #11-12 (_Truth about Steele_)
 
