@@ -805,6 +805,10 @@ Captain America #605-610 (_Baron Zemo_)
 
 Captain America #611-615 (_Trial of Bucky_)
 
+Captain America #615.1
+
+Captain America #616-619 (_Gulag_) (#616 is a special issue with additional bonus stories, you can read only the first to stay updated with the story_)
+
 Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
 ### Modern Marvel Cosmic
