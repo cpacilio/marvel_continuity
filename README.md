@@ -801,6 +801,10 @@ Secret Avengers #6-10 (_Hai Dai & Shadow Council vs Shang-Chi_)
 
 Secret Avengers #11-12 (_Truth about Steele_)
 
+The Invincible Iron-Man #25-33 (_Stark Resilient, Hammer Girls_)
+
+The Invincible Iron-Man Annual #1 (_Mandarin_)
+
 Captain America #605-610 (_Baron Zemo_)
 
 Captain America #611-615 (_Trial of Bucky_)
