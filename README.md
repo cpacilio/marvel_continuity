@@ -842,13 +842,19 @@ Annihilation: Conquest
 
 X-men: Emperor Vulcan #1-5
 
+Nova #13-15 (_Nova vs Galactus_)
+
 *Secret Invasion happens here*
 
 Secret Invasion: Inhumans #1-4
 
+Beta Ray Bill: Godhunter
+
 Secret Invasion: War of Kings 
 
 X-Men: King breaker
+
+War of Kings #1-6 + War of Kings: Who will rule?
 
 #### Notes
 - Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
