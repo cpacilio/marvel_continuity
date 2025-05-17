@@ -509,6 +509,8 @@ __Roy Thomas' Avengers:__
 
 Iron-Man #55, Captain Marvel #25-30, Marvel Features #12, Captain Marvel #31-33 (_Thanos War_) (This is the first cosmic storyline by Jim Starlin)
 
+Strange Tales #178 + Warlock #9-11,15 + Avengers Annual #7 + Marvel Two-in-one Annual #2 (_Warlock vs Magus, Return of Thanos_)
+
 __Steve Englearth's Avengers:__
 - Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
 
