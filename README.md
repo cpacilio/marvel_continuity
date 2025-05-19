@@ -499,6 +499,8 @@ Galactus featured several issues of Thor, culminating with Thor learning about t
 
 FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
 
+__Avengers__
+
 __Roy Thomas' Avengers:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
 - Avengers #55, 57-58 (_Intro to Ultron and Vision, Vision joins the Avengers_) (you can read AMS #86 hereafter to know about the fate of the Black Widow)
@@ -507,9 +509,14 @@ __Roy Thomas' Avengers:__
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
 
+
+__Jim Starlin's Cosmic Adventures:__
+
 Iron-Man #55, Captain Marvel #25-30, Marvel Features #12, Captain Marvel #31-33 (_Thanos War_) (This is the first cosmic storyline by Jim Starlin)
 
 Strange Tales #178 + Warlock #9-11,15 + Avengers Annual #7 + Marvel Two-in-one Annual #2 (_Warlock vs Magus, Return of Thanos_)
+
+The Death of Captain Marvel
 
 __Steve Englearth's Avengers:__
 - Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
