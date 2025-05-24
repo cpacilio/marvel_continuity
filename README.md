@@ -377,6 +377,8 @@ Spectacular SM #15-20 (_Ana, Peter mutates_)
 
 The Pulse #1-5 (_Norman Osborn revealed, Ben Urich knows about Peter_) __[Favourite]__
 
+AMS-2 509-514 (_Sarah and Gabriel Stacy_)
+
 Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
 
 Marvel Knights SM #1-12 __[Favourite]__
