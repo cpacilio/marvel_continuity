@@ -221,7 +221,7 @@ ASM #290-292 + Annual #21 (_Peter marries MJ_) __[Favourite]__
 
 WSM #31, ASM #293, PPSSM #131, WSM #32, ASM #294, PPSSM #132 (_Kraven's last hunt_) __[Favourite]__
 
-ASM #295, PPSSM #133, WSM #33 (_Mad Dogs_) __[Favourite]__
+ASM #295, PPSSM #133, WSM #33 (_Life in the Mad Dog Ward_) __[Favourite]__
 
 PPSSM #134-136 (_Sin-Eater released_) __[Favourite]__
 
