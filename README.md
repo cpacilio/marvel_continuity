@@ -499,7 +499,7 @@ Galactus featured several issues of Thor, culminating with Thor learning about t
 - Thor #168-169 (_Thor discovers the origin of Galactus_)
 - Super-Villain Classics 1 (_Retelling of Galactus' origin_) (This is a reprint from Lee-and-Kirby's original material, with alterations from other authors; for example, here Galactus receives his powers from the Sentience of the Universe, instead of just taking them from stellar radiations_)
 
-FF #120-123 (_Gabriel, Galactus sent to the negative zone_)
+FF #120-123 (_Gabriel, Galactus sent to the negative zone_) (Galactus returns to the positive zone in Thor #225. The details of his return are revealed in Thor #306)
 
 __Avengers__
 
