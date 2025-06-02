@@ -501,6 +501,10 @@ Galactus featured several issues of Thor, culminating with Thor learning about t
 
 FF #120-123 (_Gabriel, Galactus sent to the negative zone_) (Galactus returns to the positive zone in Thor #225. The details of his return are revealed in Thor #306.)
 
+FF Annual #12 (_FF & Inhumans vs the Sphinx_)
+
+FF 204-205 + Nova #25 + FF #206-214 (_Skrulls invade Xandar, Reed frees Galactus from vow of not devouring Earth, Galactus vs Sphinx, FF aged and deaged_)
+
 __Avengers__
 
 __Roy Thomas' Avengers:__
