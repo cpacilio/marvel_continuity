@@ -36,6 +36,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Marvel Now](https://www.comicbookherald.com/the-complete-marvel-reading-order-guide/marvel-now-checklist/)
 
+[Fantastic Four Best Sagas](https://www.cbr.com/must-read-ff-comic-runs-ranked/)
+
 ## Marvel Universe Reading Order
 
 ### Daredevil
