@@ -507,6 +507,16 @@ FF Annual #12 (_FF & Inhumans vs the Sphinx_)
 
 FF 204-205 + Nova #25 + FF #206-214 (_Skrulls invade Xandar, Reed frees Galactus from vow of not devouring Earth, Galactus vs Sphinx, FF aged and deaged_)
 
+__FF by John Byrne:__
+- #232 (_Diablo_)
+- #233 (_Johnny redeems the name of a death sentenced, Hammerhead_)
+- #234-235 (_Skip Collins, Ego the living planet_)
+- #236 (_FF trapped in Liddleville_)
+- #237-239 (_Ben half-cured by Reed, Frankye Raye's powers revealed, Aunt Petunia_)
+- #240 (_Inhumans move to the Moon, birth of Pietro's and Crystal's daughter_)
+- #241 (_A centurion in Wakanda_)
+- #242-244 (_Terrax vs Galactus, FF and Avengers spare Galactus' life, Franki Raye becomes Galactus' new herald_)
+
 __Avengers__
 
 __Roy Thomas' Avengers:__
