@@ -51,29 +51,37 @@ but if you prefer a more traditional take, you can read
 
 Before Frank Miller, DD was not a succesful comic-book. While Frank Miller became penciler *and* writer from issue 168, he penciled since issue 158. Issues 159-167 are useful to give you a background context before Frank Miller's solo run. They also feature relevant plot developments, such as DD interrupting his sentimental relation with the Black Widow, and Ben Urich discovering DD's identity.
 
-- Daredevil (1964) #159-161 (_Bullseye kidnaps the Black Widow_)
-- Daredevil #163 (_Battle vs Hulk_)
-- Daredevil #164 (_Ben Urich discovers DD's identity_)
-- Daredevil #165 (_Dr. Octopus, the Black Widow leaves NY_)
-- Daredevil #166 (_Gladiator, Foggy's wedding_)
-- Daredevil #167 (_Mauler_)
+- DD (1964) #159-161 (_Bullseye kidnaps the Black Widow_)
+- DD #163 (_Battle vs Hulk_)
+- DD #164 (_Ben Urich discovers DD's identity_)
+- DD #165 (_Dr. Octopus, the Black Widow leaves NY_)
+- DD #166 (_Gladiator, Foggy's wedding_)
+- DD #167 (_Mauler_)
 
 Frank Miller's solo run:
 
-- Daredevil #168 (_Elektra_)
-- Daredevil #169 (_Bullseye's brain tumor_)
-- Daredevil #170-172 (_Return of the Kingpin_)
-- Daredevil #173 (_Trial of Melvin Potter, Becky Blake's trauma_)
-- Daredevil #174-177 (_Daredevil & Elektra vs the Hand, Daredevil loses radar senses and trains with Stick_)
-- Daredevil #178-182 (_Elektra hired by Kingpin, Bullseye kills Elektra_)
-- Daredevil #183-184 (_The Punisher, Matt proposes to Heather_)
-- Daredevil #185-186 (_Glenn's industries_)
-- Daredevil #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
-- Daredevil #191 (_Russian roulette wiht Bullseye_)
+- DD #168 (_Elektra_)
+- DD #169 (_Bullseye's brain tumor_)
+- DD #170-172 (_Return of the Kingpin_)
+- DD #173 (_Trial of Melvin Potter, Becky Blake's trauma_)
+- DD #174-177 (_Daredevil & Elektra vs the Hand, Daredevil loses radar senses and trains with Stick_)
+- DD #178-182 (_Elektra hired by Kingpin, Bullseye kills Elektra_)
+- DD #183-184 (_The Punisher, Matt proposes to Heather_)
+- DD #185-186 (_Glenn's industries_)
+- DD #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
+- DD #191 (_Russian roulette wiht Bullseye_)
 
-Daredevil #196-200 (_Bullseye's spine healed in Japan_)
+DD #196-200 (_Bullseye's spine healed in Japan_)
 
-Daredevil #202, 206, 210-214 (_Mycah Synn_)
+DD #202, 206, 210-214 (_Mycah Synn_)
+
+Daredevil: Love and War
+
+DD #220  (_Death of Heather Glenn_)
+
+DD #225 (_Failure of Nelson and Murdock, the Vulture_)
+
+DD #227-233 (_Born Again_)
 
 ### Hulk
 
