@@ -83,6 +83,12 @@ DD #225 (_Failure of Nelson and Murdock, the Vulture_)
 
 DD #227-233 (_Born Again_)
 
+Daredevil by Ann Nocenti:
+
+- DD #236 (_Black Widow, Hazzard_)
+- DD #250-251 (_Kelco, Agent Bullet_)
+- DD #252 (_Tie-in to Fall of the Mutants, chaos in the streets_)
+
 ### Hulk
 
 Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
