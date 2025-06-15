@@ -88,6 +88,11 @@ Daredevil by Ann Nocenti:
 - DD #236 (_Black Widow, Hazzard_)
 - DD #250-251 (_Kelco, Agent Bullet_)
 - DD #252 (_Tie-in to Fall of the Mutants, chaos in the streets_)
+- DD #253-256 (_Kingpin, Typhoid Mary, Kelco_)
+- DD #257 (_Punisher_)
+- DD #259-260 (_Typhoid kills Daredevil_)
+- DD #261-262 (_these issues are less inspired and irrelevant to the plot, you can skip them_)
+- DD #263, 265-266 (_Inferno tie-ins, Matt meets Mephisto_) (_Only #263 is strictly necessary to follow the main plot_)
 
 ### Hulk
 
