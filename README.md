@@ -93,6 +93,10 @@ Daredevil by Ann Nocenti:
 - DD #259-260 (_Typhoid kills Daredevil_)
 - DD #261-262 (_these issues are less inspired and irrelevant to the plot, you can skip them_)
 - DD #263, 265-266 (_Inferno tie-ins, Matt meets Mephisto_) (_Only #263 is strictly necessary to follow the main plot_)
+- DD #267-269 (_Matt becomes a drifter in upstate NY_)
+- DD #270 (_DD and Spider-Man vs Blackheart_)
+- DD #277 (_Very good filler issue penciled by Rick Leonardi_)
+- DD #271-276, 278-282 (_Animal rights, Number Nine, Ultron, Inhumans, Blackheart & Mephisto, Silver Surfer_)
 
 ### Hulk
 
