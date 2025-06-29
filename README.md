@@ -426,6 +426,8 @@ AMS-2 #538 (_End of Civil War, Kingpin sends a sniper_)
 
 AMS-2 #539-543 (_Back in black_)
 
+Sensational Spider-Man Annual #1
+
 _One more day_:
 - AMS-2 #544
 - Friendly Neighborhood Spider-Man #24
