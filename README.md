@@ -541,6 +541,10 @@ __FF by John Byrne:__
 - #240 (_Inhumans move to the Moon, birth of Pietro's and Crystal's daughter_)
 - #241 (_A centurion in Wakanda_)
 - #242-244 (_Terrax vs Galactus, FF and Avengers spare Galactus' life, Franki Raye becomes Galactus' new herald_)
+- #245 (_Franklin's powers_)
+- #246-247 (_Return of Dr. Doom_)
+- #248 (_Nightmare on Attilan_)
+- #249-250 (_Gladiator, feat. X-Men, Spider-Man, Captain America_)
 
 __Avengers__
 
