@@ -545,6 +545,12 @@ __FF by John Byrne:__
 - #246-247 (_Return of Dr. Doom_)
 - #248 (_Nightmare on Attilan_)
 - #249-250 (_Gladiator, feat. X-Men, Spider-Man, Captain America_)
+- #251-256 + Avengers #233 (_Negative zone, Annihilus_)
+- Annual #17 (_Skrull's milk_)
+- #257-261 + Alpha Flight #4 (_Galactus devours the Skrull's world, Dr. Doom and Terrax, Namor, Search for Reed Richards_)
+- #262 (_The trial of Reed Richards_)
+- #263-264 (_Mr. Haas, Mole Man_)
+- The Thing #10 (_Ben decides to split from Alicia, beginning of the Secret Wars_)
 
 __Avengers__
 
@@ -555,7 +561,6 @@ __Roy Thomas' Avengers:__
 - Marvel Super-Heroes #12-13 + Captain Marvel #1-3,17 (_Origins of Captain Marvel_)
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
-
 
 __Jim Starlin's Cosmic Adventures:__
 
