@@ -550,7 +550,16 @@ __FF by John Byrne:__
 - #257-261 + Alpha Flight #4 (_Galactus devours the Skrull's world, Dr. Doom and Terrax, Namor, Search for Reed Richards_)
 - #262 (_The trial of Reed Richards_)
 - #263-264 (_Mr. Haas, Mole Man_)
+- Marvel Fanfare #15 [a spedial tale featuring the Thing from Barry Windsor Smith]
 - The Thing #10 (_Ben decides to split from Alicia, beginning of the Secret Wars_)
+
+_Secret Wars #1-12_ happens here
+[NOTE: During the Secret Wars, Wanda and Vision are already married, Hawkeye has just married Mockingbird, and Banner is in control of his Hulk powers]
+
+- #265-267 (_She-Hulk replaces the Thing, Susan loses the baby_)[NOTE: in #266 we see Bruce in human form and able to control his powers, saying that his wife is almost dying]
+- #268 (_Mask of Doom_)
+- Annual #18 (_Wedding of Black Bolt and Medusa, truce between Krees and Skrulls_)
+- #269-270 (_Terminus, Johnny and Alicia start to have mutual feelings_)
 
 __Avengers__
 
