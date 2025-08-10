@@ -570,7 +570,7 @@ _Secret Wars #1-12_ happens here
 - #287-288 (_Return of Dr. Doom, Doom vs the Beyonder_)
 - #289-292 (_Negative zone, Blastaar, Annihilus, 1936 New York_)
 
-The following issues are not authored by Byrne, by they close its cycle:
+The following issues are not authored by Byrne, but they close his cycle:
 - #293-295 (_Black dome in Central city_)
 - #296 (_Return of the Thing_)
 - #300 (_Wedding of Johnny and Alicia_)
