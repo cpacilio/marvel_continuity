@@ -596,6 +596,17 @@ The Death of Captain Marvel
 __Steve Englearth's Avengers:__
 - Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
 
+Iron Man #120-128 (_Demon in a Bottle_)
+
+Avengers #185-187 (_Nights of Wundragore, Darkhold, origin of Wanda and Pietro_)
+
+Iron Man #149-150 (_Doomquest_)
+
+Avengers #213 (_Hank abuses Janet, leaves the Avengers_)
+
+__Roger Stern's Avengers:__
+- #254-260 (_Vision's plot, Terminus, Nebula, fate of Skrulls' empire_) + Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_)
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
