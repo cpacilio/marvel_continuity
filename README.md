@@ -482,6 +482,8 @@ _Origins of Dr. Strange_: they have been told several times:
 
 Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
 
+Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
+
 __Early FF and Avengers:__
 
 The FF are the first (and for a while the only) supergroup in the MU, the Avengers later followed up.
@@ -540,6 +542,9 @@ __FF by John Byrne:__
 - #237-239 (_Ben half-cured by Reed, Frankye Raye's powers revealed, Aunt Petunia_)
 - #240 (_Inhumans move to the Moon, birth of Pietro's and Crystal's daughter_)
 - #241 (_A centurion in Wakanda_)
+
+Silver Surfer (1982) (_Silver Surfer returns on his planet, saves Shalla-Bal from Mephisto_) 
+
 - #242-244 (_Terrax vs Galactus, FF and Avengers spare Galactus' life, Franki Raye becomes Galactus' new herald_)
 - #245 (_Franklin's powers_)
 - #246-247 (_Return of Dr. Doom_)
@@ -570,10 +575,12 @@ _Secret Wars #1-12_ happens here
 - #287-288 (_Return of Dr. Doom, Doom vs the Beyonder_)
 - #289-292 (_Negative zone, Blastaar, Annihilus, 1936 New York_)
 
-The following issues are not authored by Byrne, but they close his cycle:
+The following issues are not authored by Byrne, but they complete his run:
 - #293-295 (_Black dome in Central city_)
 - #296 (_Return of the Thing_)
 - #300 (_Wedding of Johnny and Alicia_)
+
+FF Annual #20 (_Dr. Doom kidnaps Franklin to battle Mephisto, Kristoff frees himself and replaces Doom_)
 
 __Avengers__
 
@@ -606,6 +613,7 @@ Avengers #213 (_Hank abuses Janet, leaves the Avengers_)
 
 __Roger Stern's Avengers:__
 - #254-260 (_Vision's plot, Terminus, Nebula, fate of Skrulls' empire_) + Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_)
+- #267-269 (_The Kang dynasty_)
 
 ### Marvel Knights
 
