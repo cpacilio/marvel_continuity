@@ -484,6 +484,8 @@ Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
 
 Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
+Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
+
 __Early FF and Avengers:__
 
 The FF are the first (and for a while the only) supergroup in the MU, the Avengers later followed up.
@@ -580,11 +582,27 @@ The following issues are not authored by Byrne, but they complete his run:
 - #296 (_Return of the Thing_)
 - #300 (_Wedding of Johnny and Alicia_)
 
-FF Annual #20 (_Dr. Doom kidnaps Franklin to battle Mephisto, Kristoff frees himself and replaces Doom_)
+Silver Surfer (1987):
+- #1-2 (_FF free Silver Surfer from the barrier, returns to his homeplanet_)
+- #31 (_End of second Kree-Skrull War_)
+
+_Emperor Doom_ happens here (because Doom is still king of Latveria) 
+
+FF Annual #20 (_Dr. Doom kidnaps Franklin to battle Mephisto, Kristoff frees himself and replaces Doom as king of Latveria_)
+
+__FF by Walt Simonson:__
+- #337-341 (_FF, Iron Man, and Thor vs Galactus' in a furure time bubble_)
+- #343-346 (_Trapped into WW3, then on a preistoric island with dinosaurs_)
+- #348-349 (_The new FF_)
+- #350, 352-354 (_Return of Dr. Doom, Time Variance Authority_)
+
+_Doctor Strange and Doctor Doom: triumph and torment_
+
+FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
 
 __Avengers__
 
-__Roy Thomas' Avengers:__
+__Avengers by Roy Thomas:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
 - Avengers #55, 57-58 (_Intro to Ultron and Vision, Vision joins the Avengers_) (you can read AMS #86 hereafter to know about the fate of the Black Widow)
 - Avengers #87 (_Black Panther's origins_)
@@ -600,7 +618,7 @@ Strange Tales #178 + Warlock #9-11,15 + Avengers Annual #7 + Marvel Two-in-one A
 
 The Death of Captain Marvel
 
-__Steve Englearth's Avengers:__
+__Avengers by Steve Englearth:__
 - Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
 
 Iron Man #120-128 (_Demon in a Bottle_)
@@ -611,7 +629,7 @@ Iron Man #149-150 (_Doomquest_)
 
 Avengers #213 (_Hank abuses Janet, leaves the Avengers_)
 
-__Roger Stern's Avengers:__
+__Avengers by Roger Stern:__
 - #254-260 (_Vision's plot, Terminus, Nebula, fate of Skrulls' empire_) + Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_)
 - #267-269 (_The Kang dynasty_)
 
