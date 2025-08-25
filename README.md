@@ -627,6 +627,8 @@ Iron Man #120-128 (_Demon in a Bottle_)
 
 Avengers #185-187 (_Nights of Wundragore, Darkhold, origin of Wanda and Pietro_)
 
+Vision and the Scarlet Witch (1982) #4 (_Magneto reveals to be Wanda's and Pietro's true father_)
+
 Iron Man #149-150 (_Doomquest_)
 
 Avengers #213 (_Hank abuses Janet, leaves the Avengers_)
