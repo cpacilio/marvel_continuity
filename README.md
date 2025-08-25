@@ -637,6 +637,8 @@ __Avengers by Roger Stern:__
 - #254-260 (_Vision's plot, Terminus, Nebula, fate of Skrulls' empire_) + Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_)
 - #267-269 (_The Kang dynasty_)
 
+Vision and the Scarlet Witch (1985) #12 (_Birth of Billy and Thomas_)
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
@@ -868,7 +870,7 @@ Thor #600-603 + Thor Giant Size #1
 
 Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
 
-Dark Avengers #9 (_Ares confronts Nick about Phobos, Sentry is shot Lindy_) + Dark Avengers #10-12 (_Molecule Man_)
+Dark Avengers #9 (_Ares confronts Nick about Phobos, Sentry is shot by Lindy_) + Dark Avengers #10-12 (_Molecule Man_)
 
 New Avengers #55-60 (_Luke has a cardiac arrest, Loki brings back the Hood_)
 
@@ -878,7 +880,7 @@ Captain America #49, 600-601 (_Interlude issues before Cap's reborn_)
 
 Captain America: Reborn #1-6 (_Cap's Reborn, death of Red Skull_) + Captain America: Who will wield the shield?
 
-Captain America #602-605 (_Two Americas_)* (this goes before Siege, osborn is still the head of shield)
+Captain America #602-605 (_Two Americas_)
 
 Dark Avengers Annual #1 (_Marvel Boy upgraded by Kree's supreme intelligence_)
 
@@ -936,7 +938,7 @@ Captain America #611-615 (_Trial of Bucky_)
 
 Captain America #615.1
 
-Captain America #616-619 (_Gulag_) (#616 is a special issue with additional bonus stories, you can read only the first to stay updated with the story_)
+Captain America #616-619 (_Gulag_) (#616 is a special issue with additional bonus stories, you can read only the first to stay updated with the main plot_)
 
 Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
