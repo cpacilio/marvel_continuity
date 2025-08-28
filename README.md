@@ -639,6 +639,14 @@ __Avengers by Roger Stern:__
 
 Vision and the Scarlet Witch (1985) #12 (_Birth of Billy and Thomas_)
 
+__West Coast Avengers by John Byrne:__
+- #42-45 (_Vision Quest_)
+- #46-49 (_Great Lakes Avengers, That which endures_)
+- #50-52 (_Battle against Mephisto, Agata makes Wanda to forget her children_)
+- #53-55 (_Acts of vengeance_)
+- #56-57 (_Wanda turned evil reunites with Pietro and Magneto_)
+- #60-62 (_Final battle against Immortus, healing of Wanda_) [these issues are authored by Roger Stern and Paul Ryan, but they conclude the Immortus subplot left open by John Byrne]
+
 ### Marvel Knights
 
 Black Panther (2005) #1-6
