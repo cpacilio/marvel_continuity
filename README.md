@@ -38,6 +38,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Fantastic Four Best Sagas](https://www.cbr.com/must-read-ff-comic-runs-ranked/)
 
+[Timeline of Marvel events](https://comicbookreadingorders.com/marvel/event-timeline/)
+
 ## Marvel Universe Reading Order
 
 ### Daredevil
@@ -968,14 +970,14 @@ Fear Itself :
 - New Avengers #16 (_Daredevil joins the New Avengers_)
 - Fear Itself 7.1 (_Bucky reprises his Winter Soldier identity_)
 
+Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
+
 New Avengers #16.1 (_Osborn breaks out of prison_)
 Avengers #18 (_Avengers move to the Mansion_)
 New Avengers #17-20 (_Osborn assembles the New Dark Avengers_)
 Avengers #19 (_Vision resurrected, Captain America assembles a new team of Avengers_)
 New Avengers #20-23
 Avengers #24 (_Norman Osborn taken into custody_)
-
-Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
 ### Modern Marvel Cosmic
 Annihilation:
@@ -1038,7 +1040,11 @@ War of Kings #1-6 + War of Kings: Who will rule?
 - World War Hulk #2: Tempest is introduced as Black Panther's wife
 - New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
 - In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline
+- In Invincible Iron-Man #501 we see that Dr. Octopus is dying. How does it fit with the Spider-Man timeline?
+- Fear Itself happens after Johnny's death in FF and after the founding of the Future Foundation. Right in the middle of Fear Itself, Spider-Man switches to the white costume of the Future Foundation.
+- The New Dark Avengers storyline happens after Spider-Island. Spider-Man switches back and forth between the classic and the white costume during this saga.
 - In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
+- The exact placement of ATCC in thw timeline is a matter of discussion. by the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the Wonder Man issue is hard to solve within the timeline and it is likelimy due to the delays suffered by ATCC. Therefore, the common move is to accept it as an issue and place ATCC after Fear Itself.
 
 ### ULTIMATE MARVEL UNIVERSE
 
