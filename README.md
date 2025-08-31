@@ -948,6 +948,33 @@ Captain America #615.1
 
 Captain America #616-619 (_Gulag_) (#616 is a special issue with additional bonus stories, you can read only the first to stay updated with the main plot_)
 
+Avengers 12.1 (_Return of Ultron_)
+
+Invincible Iron-Man #501-503 (_Dr. Octopus_)
+
+New Avengers Annual #1 + Avengers Annual #1 (_Wonder Man vs the Avengers_)
+
+Fear Itself :
+- Fear Itself #1-3
+- Invincible Iron-Man #504-505
+- Fear Itself #4 (_Apparent death of Bucky Barnes, Steve reprises the Cap uniform_)
+- New Avengers #14
+- Invincible Iron-Man #506
+- Fear Itself #5
+- Invincible Iron-Man #507-508
+- Fear Itself #6
+- Invincible Iron-Man #509
+- Fear Itself #7
+- New Avengers #16 (_Daredevil joins the New Avengers_)
+- Fear Itself 7.1 (_Bucky reprises his Winter Soldier identity_)
+
+New Avengers #16.1 (_Osborn breaks out of prison_)
+Avengers #18 (_Avengers move to the Mansion_)
+New Avengers #17-20 (_Osborn assembles the New Dark Avengers_)
+Avengers #19 (_Vision resurrected, Captain America assembles a new team of Avengers_)
+New Avengers #20-23
+Avengers #24 (_Norman Osborn taken into custody_)
+
 Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
 ### Modern Marvel Cosmic
