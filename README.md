@@ -956,6 +956,8 @@ Invincible Iron-Man #501-503 (_Dr. Octopus_)
 
 New Avengers Annual #1 + Avengers Annual #1 (_Wonder Man vs the Avengers_)
 
+The Mighty Thor (2011) #1-6 (_Odin vs Galactus, Silver Surfer moves on Earth and Galactus turns a priest into his new erald_)
+
 Fear Itself :
 - Fear Itself #1-3
 - Invincible Iron-Man #504-505
@@ -972,12 +974,13 @@ Fear Itself :
 
 Avengers: The Children's Crusade #1-4 + ATCC-Young Avengers + ATCC #5-9 (_Young Avengers rescue Wanda, death of Cassie Lang and Vision, resurrection of Scott Lang_)
 
-New Avengers #16.1 (_Osborn breaks out of prison_)
-Avengers #18 (_Avengers move to the Mansion_)
-New Avengers #17-20 (_Osborn assembles the New Dark Avengers_)
-Avengers #19 (_Vision resurrected, Captain America assembles a new team of Avengers_)
-New Avengers #20-23
-Avengers #24 (_Norman Osborn taken into custody_)
+The new Dark Avengers:
+- New Avengers #16.1 (_Osborn breaks out of prison_)
+- Avengers #18 (_Avengers move to the Mansion_)
+- New Avengers #17-20 (_Osborn assembles the New Dark Avengers_)
+- Avengers #19 (_Vision resurrected, Captain America assembles a new team of Avengers_)
+- New Avengers #20-23
+- Avengers #24 (_Norman Osborn taken into custody_)
 
 ### Modern Marvel Cosmic
 Annihilation:
@@ -1019,6 +1022,14 @@ Secret Invasion: War of Kings
 X-Men: King breaker
 
 War of Kings #1-6 + War of Kings: Who will rule?
+
+Realm of Kings one-shot
+
+The Thanos imperative:
+- Nova #36
+- The Thanos imperative: Ignition
+- The Thanos imperative #1-6
+- The Thanos imperative: Devastation
 
 #### Notes
 - Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
