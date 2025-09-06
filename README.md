@@ -42,7 +42,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil
+### Daredevil (97 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -106,7 +106,7 @@ Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
 Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
 
-### Spider-Man
+### Spider-Man (450 issues)
 
 #### Silver Age (1962-1973)
 
