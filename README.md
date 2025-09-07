@@ -742,7 +742,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (531 issues)
+### New Avengers Era (2004-2012) (536 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1030,6 +1030,8 @@ The Thanos imperative:
 - The Thanos imperative: Ignition
 - The Thanos imperative #1-6
 - The Thanos imperative: Devastation
+
+Silver Surfer (2011) #1-5 (_High Evolutionary, Furure Foundation_) [happens after Johnny's death and before Mighty Thor (2011) #1-6]
 
 #### Notes
 - Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
