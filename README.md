@@ -982,6 +982,12 @@ The new Dark Avengers:
 - New Avengers #20-23
 - Avengers #24 (_Norman Osborn taken into custody_)
 
+Invincible Iron-Man #510-515 (_Stark  publicly disgraced_)
+
+Invincible Iron-Man #516-520 (_Stark resigns from Resilient, Spymaster attacks Resilient_)
+
+Invincible Iron-Man #521-526 (_Stark held prisoner by the Mandarin, final confrontation with the Mandarin_) + #527 (_Series finale, Stark plans to travel through space_)
+
 ### Modern Marvel Cosmic
 Annihilation:
 - Drax the Destroyer #1-4
