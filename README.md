@@ -438,9 +438,11 @@ _One more day_:
 
 #### Brand New Era (2008-)
 
-AMS-2 #568-573 (_Norman Osborn sends the Thunderbolts after Spider-Man, birth of anti-Venom_)
+ASM-2 #568-573 (_Norman Osborn sends the Thunderbolts after Spider-Man, birth of anti-Venom_)
 
-AMS-2 #584-588 (_Menace revealed_)
+ASM-2 #584-588 (_Menace revealed_)
+
+ASM-2 #600 (_Wedding of Aunt May and Jay Jamenson, Doc Ock is terminally ill_) 
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -952,7 +954,7 @@ Captain America #616-619 (_Gulag_) (#616 is a special issue with additional bonu
 
 Avengers 12.1 (_Return of Ultron_)
 
-Invincible Iron-Man #501-503 (_Dr. Octopus_)
+Invincible Iron-Man #501-503 (_Dr. Octopus_) [Doc Ock discovered to be terminally ill in ASM #600]
 
 New Avengers Annual #1 + Avengers Annual #1 (_Wonder Man vs the Avengers_)
 
