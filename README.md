@@ -106,7 +106,7 @@ Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
 Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
 
-### Spider-Man (450 issues)
+### Spider-Man (458 issues)
 
 #### Silver Age (1962-1973)
 
@@ -440,9 +440,19 @@ _One more day_:
 
 ASM-2 #568-573 (_Norman Osborn sends the Thunderbolts after Spider-Man, birth of anti-Venom_)
 
+ASM-2 #580 (_Blank man_) __[Favourite]__
+
 ASM-2 #584-588 (_Menace revealed_)
 
 ASM-2 #600 (_Wedding of Aunt May and Jay Jamenson, Doc Ock is terminally ill_) 
+
+ASM-2 #638-641 (_One moment in time_)
+
+ASM-2 #654 (_Death of Marla Jameson, Origin of the new Venom_)
+
+ASM-2 #654.1 (_Showcase of the new Venom_)
+
+ASM-2 #658 (_SM joins the FF_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -744,7 +754,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (554 issues)
+### New Avengers Era (2004-2012) (585 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -989,6 +999,20 @@ Invincible Iron-Man #510-515 (_Stark  publicly disgraced_)
 Invincible Iron-Man #516-520 (_Stark resigns from Resilient, Spymaster attacks Resilient_)
 
 Invincible Iron-Man #521-526 (_Stark held prisoner by the Mandarin, final confrontation with the Mandarin_) + #527 (_Series finale, Stark plans to travel through space_)
+
+Secret Avengers #16-21 (_One-shot issues by Warren Ellis and various artists, telling about missions vs the Shadow Council_)
+
+Secret Avengers #21.1 (_Hawkeye new head of the Secret Avengers _)
+
+Secret Avengers #22-25 (_Intro to the new adaptoids_)
+
+AVENGERS VS X-MEN:
+- AvX #0-1
+- New Avengers #24
+- Avengers #25-27
+- AvX #2-8
+- New Avengers # 25-28
+- AvX #9-12
 
 ### Modern Marvel Cosmic
 Annihilation:
