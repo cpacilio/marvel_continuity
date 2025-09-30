@@ -284,15 +284,15 @@ Spider-Man: Soul of the Hunter __[Favourite]__
 
 Spider-Man: Spirits of the Earth
 
-PPSSM #178-184 (_The child within_) [not on MU] __[Favourite]__
+PPSSM #178-184 (_The child within_) __[Favourite]__
 
 ASM #361-363 (_Carnage first appearence_)
 
 PPSSM #186-188 (_Funeral Arrangements_) __[Favourite]__
 
-PPSSM #189-190 (_The Osborn Legacy_) [#190 not on MU] __[Favourite]__
+PPSSM #189-190 (_The Osborn Legacy_) __[Favourite]__
 
-PPSSM #194-196 (_The death of Vermin_) [not on MU] __[Favourite]__
+PPSSM #194-196 (_The death of Vermin_) __[Favourite]__
 
 PPSSM #200 (_Death of Harry Osborn_) __[Favourite]__
 
@@ -1013,6 +1013,10 @@ AVENGERS VS X-MEN:
 - AvX #2-8
 - New Avengers # 25-28
 - AvX #9-12
+
+New Avengers #31-34 (_Daniel Drumm, Dr. Strange is sorcerer supreme again, Luke and Jessica leave the Avengers_)
+
+Avengers #31-34 (_Return of Janet_)
 
 ### Modern Marvel Cosmic
 Annihilation:
