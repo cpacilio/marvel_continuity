@@ -315,7 +315,7 @@ The Clone Saga (see Notes below):
 - Spider-man: The last Adventure #1-4 (_Peter and MJ move to Portland, Peter temporarily loses powers_)
 - Sensational SM #1, ASM #408, SM #65 (_Misteryo's Media Blizzard_)
 - PPSSM #231, Sensational SM #2, SM #66 (_The return of Kaine_)
-- Sensational SM #3, AMS #410, SM #67, PPSSM #233 (_Spider-Carnage_)
+- Sensational SM #3, ASM #410, SM #67, PPSSM #233 (_Spider-Carnage_)
 - Sensational SM #4 (_Ben unveiled by Jessica_)
 - SM #68, PPSSM #234 (_Cyber Hobgoblin_)
 - Sensational SM #5, ASM #412, (_Connection between Dr. Trainer and Osborn Industries_)
@@ -360,9 +360,9 @@ ASM-2 #22-24 (_Conclusion of Senator Ward's storyline_)
 
 Spider-Man: Lifeline #1-3 (_Petrified tablet saga #2_) __[Favourite]__
 
-Revenge of the Green Goblin #1-3, AMS-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
+Revenge of the Green Goblin #1-3, ASM-2 #25, PPSM-2 #25 (_Return of the Green Goblin_)
 
-ASM-2 #28-29, PPSM-2 #29, AMS Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
+ASM-2 #28-29, PPSM-2 #29, ASM Annual 2001 (_MJ breaks free, MJ and Peter take a marriage break_)
 
 SM's Tangled Web #4 __[Favourite]__
 
@@ -376,25 +376,25 @@ PPSM-2 #44-47 (_Return of Goblin, Flash paralyzed by Goblin_)
 
 PPSM-2 #56-57 (_Sandman reborn_)
 
-AMS-2 #40-42 (_Shade, Dr. Strange, Astral plane_) __[Favourite]__
+ASM-2 #40-42 (_Shade, Dr. Strange, Astral plane_) __[Favourite]__
 
-AMS-2 #43-45 (_Carlyle and Doc Ock_)
+ASM-2 #43-45 (_Carlyle and Doc Ock_)
 
 Spectacular SM #1-5 (_Return of Venom_)
 
-AMS-2 #46-50 (_Spider-Wasp, Dr. Doom at airport, Peter and MJ come back together_)
+ASM-2 #46-50 (_Spider-Wasp, Dr. Doom at airport, Peter and MJ come back together_)
 
-AMS-2 #51-54 (_Digger_)
+ASM-2 #51-54 (_Digger_)
 
-AMS-2 #55-56 (_Melissa and Joshua_)
+ASM-2 #55-56 (_Melissa and Joshua_)
 
-AMS-2 #57-58,500 (_Dr. Strange vs Dormammu, Peter relives his past_)
+ASM-2 #57-58,500 (_Dr. Strange vs Dormammu, Peter relives his past_)
 
-AMS-2 #501-502 (_May talks to Parkers' graves, the tailor_)
+ASM-2 #501-502 (_May talks to Parkers' graves, the tailor_)
 
-AMS-2 #503-504 (_Morwen & Loki_)
+ASM-2 #503-504 (_Morwen & Loki_)
 
-AMS-2 #505-508 (_End of Ezekiel_) __[Favourite]__
+ASM-2 #505-508 (_End of Ezekiel_) __[Favourite]__
 
 Doctor Octopus: Negative Exposure #1-5
 
@@ -406,7 +406,7 @@ Spectacular SM #15-20 (_Ana, Peter mutates_)
 
 The Pulse #1-5 (_Norman Osborn revealed, Ben Urich knows about Peter_) __[Favourite]__
 
-AMS-2 509-514 (_Sarah and Gabriel Stacy_)
+ASM-2 509-514 (_Sarah and Gabriel Stacy_)
 
 Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
 
@@ -414,29 +414,29 @@ Marvel Knights SM #1-12 __[Favourite]__
 
 __Note:__ New Avengers #1-6 happen here
 
-AMS-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
+ASM-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
 
 __Note:__ New Avengers #7-10 and #11-15 happen here (because Sentry is not present in the previous story)
 
-AMS-2 #526-527 (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.) __[Favourite]__
+ASM-2 #526-527 (_Morlun returns, Peter evolves_) (__Note__: these issues are part of the crossover "The Other". See the notes.) __[Favourite]__
 
-AMS-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
+ASM-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
 
 __Note:__ New Avengers #16-20 happen here (because Spider-Man wears the Iron-Spider suit)
 
 Civil War #1-7
 
-AMS-2 #538 (_End of Civil War, Kingpin sends a sniper_)
+ASM-2 #538 (_End of Civil War, Kingpin sends a sniper_)
 
-AMS-2 #539-543 (_Back in black_)
+ASM-2 #539-543 (_Back in black_)
 
 Sensational Spider-Man Annual #1
 
 _One more day_:
-- AMS-2 #544
+- ASM-2 #544
 - Friendly Neighborhood Spider-Man #24
 - The Sensational Spider-Man #41
-- AMS-2 #545
+- ASM-2 #545
 
 #### Brand New Era (2008-)
 
@@ -485,31 +485,11 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Classic Marvel Era (1961-1998)
+### Fantastic Four
 
-__Doctor Strange:__
+__[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
-Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
-
-_Origins of Dr. Strange_: they have been told several times:
-- Strange Tales (1951) #115
-- Doctor Strange (1968) #169
-- Doctor Strange (1974) #56
-
-Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
-
-Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
-
-Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
-
-__Early FF and Avengers:__
-
-The FF are the first (and for a while the only) supergroup in the MU, the Avengers later followed up.
-
-These stories are seminal in establishing the mithology of the MU. You will find the introduction of classic foes like the Skrulls, Dr Doom, The Watcher, Loki, and Kang The Conqueror. Moreover, directly from the Golden Age of Marvel Comics, Captain America is resurrected, alongside the Sub-Mariner.
-
-These stories are 60 years old and have not always aged well: the plots might seem silly to a modern reader. Moreover, Sue Storm and women in general are often depicted as damsels in peril and lack a strong characterization.
-
+__FF by Lee & Kirby:__
 - FF #2 (_Skrulls first appearance_)
 - FF #4 (_Sub-Mariner awakens_)
 - FF #5 (_Dr Doom first appearance_)
@@ -519,15 +499,7 @@ These stories are 60 years old and have not always aged well: the plots might se
 - FF #18 (_Super Skrull_)
 - FF #19 (_Pharoah Rama-Tut_) (this classic story was later retconned in Doctor Strange (1974) #53, revealing the undisclosed presence of the astral form of Dr. Strange)
 - FF Annual #2 (_Origin of Dr Doom_)
-- Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
-- Avengers #8 (_Kang the Conqueror_)
-- AMS Annual #3 (_Avengers test SM on hunting for Hulk_)
 - FF Annual #3 (_Wedding of Sue and Reed_)
-
-__Fantastic Four__
-
-Here, Lee and Kirby seem to have reached a more mature stage of storytelling. Plots developments are less obvious, topics more ambitious, and there is excellent character development. Pencils are more dynamic and Kirby does a majestic work with The Thing. They introduce fresh characters and storylines whose heritage lasts till today: the Inhumans, Galactus and Silver Surfer, Black Panther.
-
 - FF #44-48 (_Inhumans_)
 - FF #48-50 (_Galactus & Silver Surfer_)
 - FF #51 (_"This man... this monster"_)
@@ -618,7 +590,13 @@ I don't like Tom De Falco & Paul Ryan's tenure on the FF, but a major (and highl
 - FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
 - FF #393 contains a brief summary of the aftermath
 
-__Avengers__
+### Classic Avengers (1963-)
+
+Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
+
+Avengers #8 (_Kang the Conqueror_)
+
+ASM Annual #3 (_Avengers test SM on hunting for Hulk_)
 
 __Avengers by Roy Thomas:__
 - Avengers #56 (_Cap relives Bucky's death back in time_)
@@ -628,16 +606,12 @@ __Avengers by Roy Thomas:__
 - Avengers #89-97 (_Kree-Skrull War_) (later issues figure amazing art by Neil Adams)
 - Avengers #98-100 (_Ares vs Thor, Hercules, Vision falls in love with Wanda_)
 
-__Jim Starlin's Cosmic Adventures:__
+__Marvel Cosmic by Jim Starlin:__
+- Iron-Man #55, Captain Marvel #25-30, Marvel Features #12, Captain Marvel #31-33 (_Thanos War_) (This is the first cosmic storyline by Jim Starlin)
+- Strange Tales #178 + Warlock #9-11,15 + Avengers Annual #7 + Marvel Two-in-one Annual #2 (_Warlock vs Magus, Return of Thanos_)
+- The Death of Captain Marvel
 
-Iron-Man #55, Captain Marvel #25-30, Marvel Features #12, Captain Marvel #31-33 (_Thanos War_) (This is the first cosmic storyline by Jim Starlin)
-
-Strange Tales #178 + Warlock #9-11,15 + Avengers Annual #7 + Marvel Two-in-one Annual #2 (_Warlock vs Magus, Return of Thanos_)
-
-The Death of Captain Marvel
-
-__Avengers by Steve Englearth:__
-- Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
+Avengers #133-135 + GSA #4 (_Origin of the Kree-Skrull conflict, origin of Vision, Vision and Wanda Engage_)
 
 Iron Man #120-128 (_Demon in a Bottle_)
 
@@ -662,6 +636,23 @@ __West Coast Avengers by John Byrne:__
 - #53-55 (_Acts of vengeance_)
 - #56-57 (_Wanda turned evil reunites with Pietro and Magneto_)
 - #60-62 (_Final battle against Immortus, healing of Wanda_) [these issues are authored by Roger Stern and Paul Ryan, but they conclude the Immortus subplot left open by John Byrne]
+
+### Classic Marvel Era (1961-1998)
+
+__Doctor Strange:__
+
+Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
+
+_Origins of Dr. Strange_: they have been told several times:
+- Strange Tales (1951) #115
+- Doctor Strange (1968) #169
+- Doctor Strange (1974) #56
+
+Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
+
+Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
+
+Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
 
 ### Marvel Knights
 
