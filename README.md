@@ -42,7 +42,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (101 issues)
+### Daredevil (109 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -101,6 +101,9 @@ Daredevil by Ann Nocenti:
 - DD #271-276, 278-282 (_Animal rights, Number Nine, Ultron, Inhumans, Blackheart & Mephisto, Silver Surfer_)
 
 DD #297-300 (_Last Rites, fall of the Kingpin_)
+
+Elektra: Assassin #1-8
+[A surreal book whose place in the continuity is discussed. Some place it before Miller's run on DD, some place it here.]
 
 ### Hulk
 
