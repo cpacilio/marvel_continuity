@@ -560,6 +560,7 @@ _Secret Wars #1-12_ happens here
 - #269-270 (_Terminus, Johnny and Alicia start to have mutual feelings_)
 - #271-273 (_Nathaniel Richards_) [It is revealed that Kang is a descendant of Nathaniel from 3000 who discovers Nathaniel's ancient citadel and recreates the time machine in the form of a sphinx]
 - #276-277 (_Mephisto, Dr. Strange, the Thing returns to Earth_)
+- The Thing #23 (_Reed reveals the truth to Ben, Ben leaves the FF_)
 - #278-279 (_Kristoff as the new Dr Doom, explosion of the Baxter Building_)
 - #280-281 (_Hate Monger, Malice_)
 - #282-284 (_FF vs Psycho Man, Susan becomes the Invisible Woman_)
