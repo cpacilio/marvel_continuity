@@ -42,7 +42,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (109 issues)
+### Daredevil (110 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -72,6 +72,8 @@ Frank Miller's solo run:
 - DD #185-186 (_Glenn's industries_)
 - DD #187- 190 (_Return of the Black Widow, return of The Hand, Elektra reborn_)
 - DD #191 (_Russian roulette wiht Bullseye_)
+
+Elektra Lives Again [out of continuity closure of Miller's run]
 
 DD #196-200 (_Bullseye's spine healed in Japan_)
 
