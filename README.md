@@ -643,6 +643,12 @@ __West Coast Avengers by John Byrne:__
 - #56-57 (_Wanda turned evil reunites with Pietro and Magneto_)
 - #60-62 (_Final battle against Immortus, healing of Wanda_) [these issues are authored by Roger Stern and Paul Ryan, but they conclude the Immortus subplot left open by John Byrne]
 
+__Infinity trilogy by Jim Starlin:__
+- SS #34-38 (_Rebirth of Thanos_)
+- Thanos Quest #1-2 (_Thanos collects the infinity gems_)
+- SS #44-50 (_Drax and SS imprisoned in the Soul Gem, return of Adam Warlock, Mephisto joins Thanos_)
+- Infinity Gauntlet #1-6
+
 ### Classic Marvel Era (1961-1998)
 
 __Doctor Strange:__
