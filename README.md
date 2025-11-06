@@ -596,7 +596,7 @@ I don't like Tom De Falco & Paul Ryan's tenure on the FF, but a major (and highl
 - FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
 - FF #393 contains a brief summary of the aftermath
 
-### Classic Avengers (1963-) (116 issues)
+### Classic Avengers (1963-) (129 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -644,10 +644,27 @@ __West Coast Avengers by John Byrne:__
 - #60-62 (_Final battle against Immortus, healing of Wanda_) [these issues are authored by Roger Stern and Paul Ryan, but they conclude the Immortus subplot left open by John Byrne]
 
 __Infinity trilogy by Jim Starlin:__
-- SS #34-38 (_Rebirth of Thanos_)
-- Thanos Quest #1-2 (_Thanos collects the infinity gems_)
-- SS #44-50 (_Drax and SS imprisoned in the Soul Gem, return of Adam Warlock, Mephisto joins Thanos_)
-- Infinity Gauntlet #1-6
+SS #34-38 (_Rebirth of Thanos_)
+
+Thanos Quest #1-2 (_Thanos collects the infinity gems_)
+
+SS #44-50 (_Drax and SS imprisoned in the Soul Gem, return of Adam Warlock, Mephisto joins Thanos_)
+
+Infinity Gauntlet #1-6
+
+Warlock and the Infinity Watch #1-2 (_Warlock splits the Infinity gems among the Infinity watchers_)
+
+Infinity War:
+- Warlock and the Infinity Watch #7 (_Monster Island, Arrival of Thanos_)
+- Infinity War #1-3
+- Warlock and the Infinity Watch #8
+- Infinity War #4
+- Warlock and the Infinity Watch #9 (_Origin story of Gamora_)
+- Infinity War #5
+- Warlock and the Infinity Watch #10
+- Infinity War #6
+
+Warlock and the Infinity Watch #11 (_a good excuse to review the background stories of the Infinity watchers_)
 
 ### Classic Marvel Era (1961-1998)
 
