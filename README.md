@@ -693,7 +693,7 @@ Infinity Crusade:
 - Warlock and the Infinity Watch #22
 - Infinity Crusade #6
 
-Warlock and the Infinity Watch #40-42
+Warlock and the Infinity Watch #40-42 (_End of the Infinity Watch, the infinity gems disperse through the universe_)
 
 ### Classic Marvel Era (1961-1998)
 
@@ -805,7 +805,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (593 issues)
+### New Avengers Era (2004-2012) (601 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1050,6 +1050,8 @@ Invincible Iron-Man #510-515 (_Stark  publicly disgraced_)
 Invincible Iron-Man #516-520 (_Stark resigns from Resilient, Spymaster attacks Resilient_)
 
 Invincible Iron-Man #521-526 (_Stark held prisoner by the Mandarin, final confrontation with the Mandarin_) + #527 (_Series finale, Stark plans to travel through space_)
+
+Avengers: Assemble #1-8 (_Thanos gets a cosmic cube, the Elders take Thanos_)
 
 Secret Avengers #16-21 (_One-shot issues by Warren Ellis and various artists, telling about missions vs the Shadow Council_)
 
