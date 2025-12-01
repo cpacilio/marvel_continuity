@@ -596,7 +596,7 @@ I don't like Tom De Falco & Paul Ryan's tenure on the FF, but a major (and highl
 - FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
 - FF #393 contains a brief summary of the aftermath
 
-### Classic Avengers (1963-) (137 issues)
+### Classic Avengers (1963-) (157 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -672,6 +672,28 @@ Warlock and the Infinity Watch #12-13 (_Moondragon partially resurfaces Drax's m
 Warlock and the Infinity Watch #14 (_Eternity awakens Adam Warlock_)
 
 Silver Surfer: Homecoming  + Silver Surfer/Warlock: Resurrection #1-4 (_Death and resurrection of Shalla Ball, Confrontation with Mefisto_)
+
+Warlock and the Infinity Watch #17 (_Maxam is introduced_)
+
+Infinity Crusade:
+- Infinity Crusade #1
+- Warlock Chronicles #1
+- Warlock and the Infinity Watch #18
+- Infinity Crusade #2
+- Warlock Chronicles #2
+- Warlock and the Infinity Watch #19
+- Infinity Crusade #3
+- Warlock Chronicles #3
+- Warlock and the Infinity Watch #20
+- Infinity Crusade #4
+- Warlock Chronicles #4
+- Warlock and the Infinity Watch #21
+- Infinity Crusade #5
+- Warlock Chronicles #5
+- Warlock and the Infinity Watch #22
+- Infinity Crusade #6
+
+Warlock and the Infinity Watch #40-42
 
 ### Classic Marvel Era (1961-1998)
 
