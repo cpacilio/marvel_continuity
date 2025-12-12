@@ -490,7 +490,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (172 issues)
+### Fantastic Four (209 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -595,6 +595,20 @@ _Doctor Strange and Doctor Doom: triumph and torment_
 I don't like Tom De Falco & Paul Ryan's tenure on the FF, but a major (and highly controversial among the fans) retcon plot development occurred:
 - FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
 - FF #393 contains a brief summary of the aftermath
+
+FF (1998) #1-5 (these are the first issues of the FF relaunch after Heroes Return. I do not find them essential nor particularly enjoyable)
+
+Imhumans (1998) #1-12 (__Note:__ Attilan was moved on Antlanstis during the "Atlantis rising" event, taking place on Fantastic Four: Atlantis Rising #1-2 and Fantastic Four Unlimited #1. I don't paticularly like these stories. Moreover, they are set in a messy time of the FF, when Kristoff and Scott Lang had joined the team, Reed Richards was believed to be dead, and a future version of Franklin was occasionally intervening. I find these readings unessential, read them at your own risk of be bored.) __[Favourite]__
+
+FF #22 (_Valeria Richards_)
+
+Galactus: The Devourer #1-6 (_Death of Galactus_)
+
+FF Annual #1 (2001)  + FF (1998) #46-49 (_Abraxas, Franklin resurrects Galactus and makes Susan pregnant of Valeria again_)
+
+Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
+
+FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
 ### Classic Avengers (1963-) (157 issues)
 
