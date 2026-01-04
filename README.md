@@ -8,6 +8,8 @@ Storylines are not necessarily in chronological order. Rather, they are listed i
 Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the New Avengers, he appears with the black suit in the Avengers titles right after the Civil War, as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not essential to the Avengers and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers' plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
 
 ## Online resources
+[mightyavengers.net/](https://web.archive.org/web/20190619145058/https://mightyavengers.net/)
+
 [avengers-reading-order-bendis-years-2005-2012](https://www.crushingkrisis.com/collecting-avengers-comic-books-as-graphic-novels-a-definitive-guide/avengers-reading-order-bendis-years-2005-2012/)
 
 [brian-michael-bendis-avengers-reading-order](https://www.comicbooktreasury.com/brian-michael-bendis-avengers-reading-order/)
