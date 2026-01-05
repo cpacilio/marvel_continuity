@@ -612,7 +612,7 @@ Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 
 FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
-### Classic Avengers (1963-) (157 issues)
+### Classic Avengers (1963-) (197 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -710,6 +710,15 @@ Infinity Crusade:
 - Infinity Crusade #6
 
 Warlock and the Infinity Watch #40-42 (_End of the Infinity Watch, the infinity gems disperse through the universe_)
+
+__Avengers by Kurt Busiek:__
+- Avengers (1998) #1-4 (_Heroes Return, Morgana Le Fey uses Scarlet to change reality, the Avengers' new roster_)
+-  #10-11 (_the Grim Reaper, resurrection of Simon_)
+- Avengers Forever #1-12
+- #0
+- #19-22 (_Ultron unlimited_)
+- #23 (_confrontation between Vision and Simon_)
+- #41-43 + Annual 2001 + #44-55 (_The Kang Dynasty_)
 
 ### Classic Marvel Era (1961-1998)
 
