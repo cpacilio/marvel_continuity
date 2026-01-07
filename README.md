@@ -612,7 +612,7 @@ Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 
 FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
-### Classic Avengers (1963-) (197 issues)
+### Classic Avengers (1963-) (241 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -710,6 +710,36 @@ Infinity Crusade:
 - Infinity Crusade #6
 
 Warlock and the Infinity Watch #40-42 (_End of the Infinity Watch, the infinity gems disperse through the universe_)
+
+__Avengers by Bob Harras and Steve Epting:__
+
+_At the beginning of Infinity Crusade, Vision is back in his classical colored suit and skin. The character evolution of Vision, following Vision Quest, occurs during Bob Harras' tenure on the Avengers--which partially intersects with the Infinity trilogy. While these stories are not usually listed among the best Avengers sagas, I really do like them--especially those with art by Steve Epting. Here is a checklist, complemented by additional issues with relevant plot developments._
+
+Avengers Spotlight #40 (_Vision is implanted Alex Lipton's brain patterns_)
+
+- #334-339 (_The Collection Obsession_) [these first issues have a lower quality in both script and Art, when compared to the rest, but some relevant plot elements are planted here]
+- #343-344 (_Return of Swordsman_)
+- #345-347 (_Kree-Shi'ar War_) [part of the larger 'Operation Galactic Storm' crossover']
+- #348 (_Death of Miles Lipton_)
+- #349 (_Thor possessed by Ares_)
+- #355-356 (_The Gatherers, Coal Tiger_)
+- #357 [no relevant plot developments, but nice characters' dynamics]
+- #358-359 (_Polemachus, Sersi kills Anksar_)
+- #360-363 (_Vision returns red, Sersi's weariness_)
+- #364-367 (_Deathcry, Vengeance of the Kree_)
+
+Avengers West Coast #100 (_Death of Mockingbird_)
+
+Avengers #368, X-Men #25, Avengers West Coast #101, UncannyX-Men #307, Avengers #369 (_Bloodties_) [Avengers/X-Men crossover]
+
+Avengers West Coast #102 (_AWC dismantle_)
+
+- #372-375 (_End of Proctor Saga_)
+- #378-379 (_Mephistoids_)
+- #380-382 (_Pietro and Crystal in Wundragore_)
+- #384 (_Resolution of Hera's subplot_)
+
+__Note:__ 'Onslaught' and 'Heroes Reborn' happen here.
 
 __Avengers by Kurt Busiek:__
 - Avengers (1998) #1-4 (_Heroes Return, Morgana Le Fey uses Scarlet to change reality, the Avengers' new roster_)
