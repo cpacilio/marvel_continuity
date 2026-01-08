@@ -661,55 +661,43 @@ __West Coast Avengers by John Byrne:__
 
 __Infinity trilogy by Jim Starlin:__
 
-SS #34-38 (_Rebirth of Thanos_)
-
-Thanos Quest #1-2 (_Thanos collects the infinity gems_)
-
-SS #44-50 (_Drax and SS imprisoned in the Soul Gem, return of Adam Warlock, Mephisto joins Thanos_)
-
-Infinity Gauntlet #1-6
-
-Warlock and the Infinity Watch #1-2 (_Warlock splits the Infinity gems among the Infinity watchers_)
-
-Infinity War:
-- Warlock and the Infinity Watch #7 (_Monster Island, Arrival of Thanos_)
-- Infinity War #1-3
-- Warlock and the Infinity Watch #8
-- Infinity War #4
-- Warlock and the Infinity Watch #9 (_Origin story of Gamora_)
-- Infinity War #5
-- Warlock and the Infinity Watch #10
-- Infinity War #6
-
-Warlock and the Infinity Watch #11 (_a good excuse to review the background stories of the Infinity watchers_)
-
-Warlock and the Infinity Watch #12-13 (_Moondragon partially resurfaces Drax's memories, Drax vs Hulk_)
-
-Warlock and the Infinity Watch #14 (_Eternity awakens Adam Warlock_)
-
-Silver Surfer: Homecoming  + Silver Surfer/Warlock: Resurrection #1-4 (_Death and resurrection of Shalla Ball, Confrontation with Mefisto_)
-
-Warlock and the Infinity Watch #17 (_Maxam is introduced_)
-
-Infinity Crusade:
-- Infinity Crusade #1
-- Warlock Chronicles #1
-- Warlock and the Infinity Watch #18
-- Infinity Crusade #2
-- Warlock Chronicles #2
-- Warlock and the Infinity Watch #19
-- Infinity Crusade #3
-- Warlock Chronicles #3
-- Warlock and the Infinity Watch #20
-- Infinity Crusade #4
-- Warlock Chronicles #4
-- Warlock and the Infinity Watch #21
-- Infinity Crusade #5
-- Warlock Chronicles #5
-- Warlock and the Infinity Watch #22
-- Infinity Crusade #6
-
-Warlock and the Infinity Watch #40-42 (_End of the Infinity Watch, the infinity gems disperse through the universe_)
+- SS #34-38 (_Rebirth of Thanos_)
+- Thanos Quest #1-2 (_Thanos collects the infinity gems_)
+- SS #44-50 (_Drax and SS imprisoned in the Soul Gem, return of Adam Warlock, Mephisto joins Thanos_)
+- Infinity Gauntlet #1-6
+- Warlock and the Infinity Watch #1-2 (_Warlock splits the Infinity gems among the Infinity watchers_)
+- Infinity War:
+  - Warlock and the Infinity Watch #7 (_Monster Island, Arrival of Thanos_)
+  - Infinity War #1-3
+  - Warlock and the Infinity Watch #8
+  - Infinity War #4
+  - Warlock and the Infinity Watch #9 (_Origin story of Gamora_)
+  - Infinity War #5
+  - Warlock and the Infinity Watch #10
+  - Infinity War #6
+- Warlock and the Infinity Watch #11 (_a good excuse to review the background stories of the Infinity watchers_)
+- Warlock and the Infinity Watch #12-13 (_Moondragon partially resurfaces Drax's memories, Drax vs Hulk_)
+- Warlock and the Infinity Watch #14 (_Eternity awakens Adam Warlock_)
+- Silver Surfer: Homecoming  + Silver Surfer/Warlock: Resurrection #1-4 (_Death and resurrection of Shalla Ball, Confrontation with Mefisto_)
+- Warlock and the Infinity Watch #17 (_Maxam is introduced_)
+- Infinity Crusade:
+  - Infinity Crusade #1
+  - Warlock Chronicles #1
+  - Warlock and the Infinity Watch #18
+  - Infinity Crusade #2
+  - Warlock Chronicles #2
+  - Warlock and the Infinity Watch #19
+  - Infinity Crusade #3
+  - Warlock Chronicles #3
+  - Warlock and the Infinity Watch #20
+  - Infinity Crusade #4
+  - Warlock Chronicles #4
+  - Warlock and the Infinity Watch #21
+  - Infinity Crusade #5
+  - Warlock Chronicles #5
+  - Warlock and the Infinity Watch #22
+  - Infinity Crusade #6
+- Warlock and the Infinity Watch #40-42 (_End of the Infinity Watch, the infinity gems disperse through the universe_)
 
 __Avengers by Bob Harras and Steve Epting:__
 
