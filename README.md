@@ -612,7 +612,7 @@ Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 
 FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
-### Classic Avengers (1963-) (248 issues)
+### Classic Avengers (1963-) (292 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -739,6 +739,17 @@ __Avengers by Kurt Busiek:__
 - #23 (_confrontation between Vision and Simon_)
 - Maximum Security #1-3
 - #41-43 + Annual 2001 + #44-55 (_The Kang Dynasty_)
+
+Avengers #61-62 (_Avengers placed under UN jurisdiction, truth about Jack of Hearts_)
+
+Avengers #65-70 (_Red zone_)
+
+__Other cosmic developments:__
+- Marvel Boy #1-6 [This miniseries might look like it is set on a parallel Earth. Instead, it is presented from the point of view of Marvel Boy, to highlight how our world might look very different–and much more critical–than how we represent it to ourselves.]
+- Jim Starlin's new trilogy:
+  - Thanos: Infinity Abyss #1-6
+  - Marvel Universe: The End #1-6
+  - Thanos #1-6 (_Hunger, Galactus_)
 
 ### Classic Marvel Era (1961-1998)
 
