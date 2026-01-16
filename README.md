@@ -1204,7 +1204,7 @@ Silver Surfer (2011) #1-5 (_High Evolutionary, Furure Foundation_) [happens afte
 - In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
 - The exact placement of ATCC in thw timeline is a matter of discussion. by the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the Wonder Man issue is hard to solve within the timeline and it is likelimy due to the delays suffered by ATCC. Therefore, the common move is to accept it as an issue and place ATCC after Fear Itself.
 
-### ULTIMATE MARVEL UNIVERSE
+### ULTIMATE MARVEL UNIVERSE (257 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1310,9 +1310,9 @@ UXM #54-57 (_Mojo's TV show_)
 
 UXM #58 (_Xavier saves a back rob_)
 
-UXM Annual #1 (_Gambit and Rogue_)
-
 UXM #59-60 (_Wolverine and Storm vs Deathstrike_)
+
+UXM Annual #1 (_Gambit and Rogue_)
 
 UXM #61-65 (_Magneto's escape plan_)
 
