@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (110 issues)
+### Daredevil (118 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -108,6 +108,8 @@ DD #297-300 (_Last Rites, fall of the Kingpin_)
 
 Elektra: Assassin #1-8
 [A surreal book whose place in the continuity is discussed. Some place it before Miller's run on DD, some place it here.]
+
+DD (1998) #1-8 (_Guardian Devil_)
 
 ### Hulk
 
@@ -492,7 +494,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (209 issues)
+### Fantastic Four (213 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -611,6 +613,8 @@ FF Annual #1 (2001)  + FF (1998) #46-49 (_Abraxas, Franklin resurrects Galactus 
 Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 
 FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
+
+"Fantastic Four: 1234" #1-4 [An out-of-continuity miniseries by Grant Morrison and Jae Lee]
 
 ### Classic Avengers (1963-) (292 issues)
 
