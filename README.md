@@ -494,7 +494,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (213 issues)
+### Fantastic Four (249 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -615,6 +615,16 @@ Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
 "Fantastic Four: 1234" #1-4 [An out-of-continuity miniseries by Grant Morrison and Jae Lee]
+
+__FF by Mark Waid:__
+- #60-66 (_Imaginauts_) [Mark Waid restyles the FF]
+- #67-70, 500 (_Unthinkable, Doom bargains with Hell_)
+- #501-502 (_Aftermath of Doom's attack_)
+- #503-508 (_Authoritative action, FF take over Latveria_)
+- #509-511 (_FF rescue Ben from Heaven, they meet with God_) [the representation of God is one of the most moving things in Marvel's history]
+- #512-513 (_Spider-Man helps Johnny_)
+- #514-516 (_FF vs the Wizard_)
+- #517-524 (_Galactus takes Johnny as his new herald, Sue and Johnny temporarily swap powers_)
 
 ### Classic Avengers (1963-) (292 issues)
 
