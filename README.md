@@ -782,11 +782,24 @@ Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
 Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
 
-### Marvel Knights
+### Marvel Knights (31 issues)
+
+__Black Panther:__
 
 Black Panther (2005) #1-6
 
-Sentry:
+X-Men (2004) #175, BP #8, XM #176, BP #9 (_Wild Kingdom,  Red Ghost in Niguanda_)
+
+BP #10-11 (_Luke Cage, Falcon and Shang Chi_) + #12-13 (_Luke Cage, Blade, Brother Vodoo, Monica Rambeau_)
+
+BP #18 (_Black Panther's wedding_)
+
+_Civil War happens here_
+
+Marvel Zombies #1-5 + Marvel Zombies: Dead Days
+
+__Sentry:__
+
 Sentry is a character that becomes pivotal and thoroughly explored in the New Avengers storylines from 2004 to 2010; these issues collect the original miniseries that established the character:
 - Sentry #1-5
 - Sentry/Hulk
