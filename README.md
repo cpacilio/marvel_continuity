@@ -494,7 +494,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (249 issues)
+### Fantastic Four (262 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -625,6 +625,15 @@ __FF by Mark Waid:__
 - #512-513 (_Spider-Man helps Johnny_)
 - #514-516 (_FF vs the Wizard_)
 - #517-524 (_Galactus takes Johnny as his new herald, Sue and Johnny temporarily swap powers_)
+
+#536-537 (_Doom frees himself from Hell, Thor's hammer falls on Earth_)
+
+_Civil War happens here_
+
+__FF by McDuffie and Pelletier:__
+- #543-546 (_Reed and Sue go for their honeymoon on Titan, Black Panther and Storm join the FF, Battle with Galactus_)
+- #547-550 (_The Frightful Four, Cosmic adventure with Silver Surfer and Dr. Strange, Black Panther and Storm leave the team_)
+- #551-553 (_Dr. Doom from the future_)
 
 ### Classic Avengers (1963-) (292 issues)
 
