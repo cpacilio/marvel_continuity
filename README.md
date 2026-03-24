@@ -494,7 +494,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (262 issues)
+### Fantastic Four (266 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -521,6 +521,8 @@ __FF by Lee & Kirby:__
 _Here Kirby leaves the series and is replaced by John Romita and John Buscema._
 
 FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
+
+Silver Surfer (1998) #1-4
 
 Galactus featured several issues of Thor, culminating with Thor learning about the origin of Galactus:
 - Thor #160-162 (_Thor and Ego the living planet against Galactus_)
@@ -776,7 +778,19 @@ __Other cosmic developments:__
 
 ### Classic Marvel Era (1961-1998)
 
-__Doctor Strange:__
+#### Thor
+
+__Thor by Lee & Kirby:__
+- Journey into mistery #124-125 + Tor #126-130 (_Thos vs Hercules_)
+- Thor #131-133 (_Thor vs Rigelians and Ego the living planet_)
+- Thor #160-162 (_Rigelians and Ego vs Galactus_)
+- Thos #168-169 (_Origin of Galactus_)
+
+_Issue 179 is the last one penciled by Jack Kirby. It was followed by two issues penciled by the great Neal Adams._
+
+Thor #180-128 (_Loki switches bodies with Thor_)
+
+#### Doctor Strange
 
 Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
 
@@ -791,7 +805,7 @@ Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
 Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
 
-### Marvel Knights (31 issues)
+### Marvel Knights (39 issues)
 
 __Black Panther:__
 
@@ -803,9 +817,15 @@ BP #10-11 (_Luke Cage, Falcon and Shang Chi_) + #12-13 (_Luke Cage, Blade, Broth
 
 BP #18 (_Black Panther's wedding_)
 
-_Civil War happens here_
+_Civil War happens here._
+
+_After Civil War, BP and Storm take temporarily Reed's and Sue's place in the Fantastic Four._
 
 Marvel Zombies #1-5 + Marvel Zombies: Dead Days
+
+BP #28-30 (_croossover with the Marvel Zombies_)
+
+Marvel Zombies #1-5
 
 __Sentry:__
 
@@ -1212,7 +1232,7 @@ The Thanos imperative:
 - The Thanos imperative #1-6
 - The Thanos imperative: Devastation
 
-Silver Surfer (2011) #1-5 (_High Evolutionary, Furure Foundation_) [happens after Johnny's death and before Mighty Thor (2011) #1-6]
+Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens after Johnny's death and before Mighty Thor (2011) #1-6]
 
 #### Notes
 - Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
