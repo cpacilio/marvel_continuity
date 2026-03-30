@@ -805,7 +805,7 @@ Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
 Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
 
-### Marvel Knights (39 issues)
+### Marvel Knights (47 issues)
 
 __Black Panther:__
 
@@ -825,7 +825,13 @@ Marvel Zombies #1-5 + Marvel Zombies: Dead Days
 
 BP #28-30 (_croossover with the Marvel Zombies_)
 
-Marvel Zombies #1-5
+Marvel Zombies 2 #1-5
+
+BP #35-38 (_Death of Killmonger_)
+
+BP #39-41 (_Skrull Invasion_)
+
+BP Annual (2008) 1
 
 __Sentry:__
 
