@@ -467,31 +467,32 @@ ASM-2 #658 (_SM joins the FF_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
-- SM Ch.One #0 bortows the origins of the Vulture from ASM #241.
-- ASM #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find that the engagement of Aunt May with Doc-Ock is a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, ASM #136 can be easily read even without that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in ASM #123, however it is completely irrelevant to the scope of that issue.
+- SM Ch.One #0 borrows the origins of the Vulture from ASM #241.
+- ASM #136 contains a summary page with the events involving the marriage of Dr. Octopus and Aunt May and the war between Doc-Ock and Hammer-head. Since I find the engagement of Aunt May with Doc-Ock a regrettable sub-plot, I intentionally excluded all the related issues from my reading list. Luckily, ASM #136 can be read even ignoring that page. There is also a one-ballon reference to Aunt May being guarded by Doc-Ock's guards during Gwen's funeral in ASM #123, however it is completely irrelevant to the plot.
 - In PPSSM Annual #3, Peter works for the Bugle again.
 - ASM Annual #13 has great art by John Byrne, and I love how Doc Ock's arms seem to be alive.
-- ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by a sarcasm on how sensational journalism work. It contains the best characterization of The Punisher so far. At the end, the Punisher lets himself to be arrested by the Police. We'll see him next in Daredevil #182.
+- ASM Annual #15 is a great comic book by any respect. Frank Miller's art is nearly perfect, and i love how Spider-Man's mask is drawn after Steve Ditko. It is a fine thrilling adventure cherried by an intentional critique of sensational journalism work. It contained the best characterization of The Punisher so far. At the end, the Punisher lets himself to be arrested by the Police. We'll see him next in Daredevil #182.
 - PPSSM #76 happens between ASM #238 and 239.
+- ASM #258 is set during the events of Thor #249, when a great cold falls on Earth during the summer season.
 - ASM #256 makes reference to the gang war between kingpin and Micah Synn in Daredevil.
 - In PPSSM #99 the Black Cat gives a manifactured black suit to Peter.
 - _The death of Jean deWolff_ is really a gem of a story
 - ASM #277 is set during DD Born Again, After DD #228
 - ASM #284-288 (_Gang War_) takes Place After DD: Love and War
-- The main antagonist of the story-arc Torment SM #1-5 is Calypso. She was depicted as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his pride to make him fight Spider-Man.
+- The main antagonist of the story-arc Torment in SM #1-5 is Calypso. She was introduced as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his virility to push him to fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 [not on MU] (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring.
 - WSM #84-89 (_Name of the Rose_) [not on MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
-- Romita Jr's inks for SM are exceptional. 
+- Romita Jr's art for SM is exceptional. 
 - In PPSSM #237 Peter starts to regain his powers.
 - In ASM #416 Peter is fired from the Bugle due to the journal's financial crisis. He still serves as a freelance for them.
 - SM #70-71, 73-74 tells of the gang war following the Kingpin's loss of power and departure from New-York.
 - _The Clone Saga_ is a controversial storyline occupying all Spider-Man titles between October 1994 and December 1996. It can be split in two parts (Oct 1994-to-Dec 1995 and Jan 1996-to-Dec 1996). I find that the first part is written in a chaotic way and only few issues are worth reading. The second part, on the other hand, is enjoyable and leads to what is probably the most important plot-twist in Spider-Man's history. Here is a brief summary of the first part, out of which I only list few selected issues:
-  - Aunt May is hospitalized in critical conditions. On the rooftop of the hospital, Peter meets his clone, who he believed to be dead. He has lived out of New York for the past five years, under the name of Ben Reilly (_Spider-Man: The lost years #0-3_). Ben decides to stay in New York and assumes the secret identity of the Scarlet Spider. Meanwhile, a misterious foe named Kaine appears, who is revealed to be an earlier prototype of Peter's clone, whose cells are degenerating. Kaine, who is a much stronger and wilder version of Peter and Ben, kills Dr. Octopus. The Jackal makes his return as well. Aunt May dies, not before revealing to Peter that she knew he was Spider-Man since a long time (_ASM #400_). Meanwhile, Mary Jane gets pregnant. Peter and Ben check their genetic signatures with the help of Ben's friend, Dr. Seward Trainer. They discover that Peter is the clone while Ben is the original (_PPSSM #226_). A final battle leads to the deaths of the Jackal and Kaine. After the shocking revelations, Peter decides to leave New York and moves to Portland with Mary Jane (_PPSSM #229_). Ben is left as the only Spider-Man and starts a new life in New York.
-- During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was approximately 19 when Gwen died and he is 25 during the Clone Saga.
+  - Aunt May is hospitalized in critical conditions. On the rooftop of the hospital, Peter meets his clone, who he believed to be dead. He has lived out of New York for the past five years, under the name of Ben Reilly (_Spider-Man: The lost years #0-3_). Ben decides to stay in New York and assumes the secret identity of the Scarlet Spider. Meanwhile, a misterious foe named Kaine appears, who is revealed to be an earlier prototype of Peter's clone, whose cells are degenerating. Kaine, who is a much stronger and wilder version of Peter and Ben, kills Dr. Octopus. The Jackal makes his return as well. Aunt May dies, not before revealing to Peter that she knew he was Spider-Man since a long time (_ASM #400_). Meanwhile, Mary Jane gets pregnant. Peter and Ben check their genetic signatures with the help of Ben's friend, Dr. Seward Trainer. They discover that Peter is the clone while Ben is the original (_PPSSM #226_). A final battle leads to the (apparent?) deaths of the Jackal and Kaine. After the shocking revelations, Peter decides to leave New York and moves to Portland with Mary Jane (_PPSSM #229_). Ben is left as the only Spider-Man and starts a new life in New York.
+- During the Clone Saga, we learn that five years have passed since the original Clone Saga. Moreover, in Spider-Man: Redemption, Flash Thompson tells Ben to be 25 years old. We deduce that Peter was about 20 when Gwen died and he is 25 during the Clone Saga.
 - ASM-2 #12, PPSM-2 #12 Happen after DD-2 #7. There, a new Mysterio appears and his identity is kept secret up until the mini-series _Spider-Man: Mysterio Manifesto_. There he is hinted to be Daniel Berkhart, a second Mysterio originally appearing in AMS #141-142. I definitely disliked this mini-series.
 - ASM-2 #39 is a mute issue in memory of the victims of the 9/11 terror attack.
 - AMS-2 519-524 and "The Other" are set before New Avengers #7, because Sentry is not present.
-- "The Other" is a 12-issues crossover spanning the following: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fullfil its grand premises. Moreover, many elements introduced here are not referenced later on. Still, AMS-2 #526-527 well written and penciled, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, this issue is set before New Avengers #16-20.
+- "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
 ### Fantastic Four (266 issues)
@@ -1241,30 +1242,30 @@ The Thanos imperative:
 Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens after Johnny's death and before Mighty Thor (2011) #1-6]
 
 #### Notes
-- Young Avengers #1 is set before New Avengers and before Winter Soldier, and before Jessica Jones gives birth
+- Young Avengers #1 is set before New Avengers, before Winter Soldier, and before Jessica Jones gives birth.
 - Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
-- In The New Thunderbolts #17 it is revealed that the Baron Von Strucker killed during the _Enemy of the State_ storyline was a clone.
-- New Avengers 11: 
+- In The New Thunderbolts #17 it was revealed that the Baron Von Strucker who was killed during the _Enemy of the State_ storyline was a clone.
+- New Avengers 11:
   - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
-  - Madame Hydra is considered in disgrace (but where did it happen?)
-  - Wolverine is on a mission with the X-Men
+  - Madame Hydra is considered in disgrace (but where did it happen?);
+  - Wolverine is on a mission with the X-Men;
 - The Pulse #11-14:
-  - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it
-  - The so called Murdock files are mentioned
+  - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it;
+  - The so called Murdock files are mentioned;
 - During Sentry (2005) #1-8, Nick Fury appears as the head of SHIELD, despite he is dismissed at the end of Secret War. This is probably due to the publication delays suffered by Secret War.
-- During the Civil War, Dr. Strange and Wolverine are absent
-- Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_
-- AMS 529: it is set before Daredevil #93
-- New avengers 35: Wilson Fisk is considered out of the games
-- The Incredible Hulk #95: happens before Annihilation: Silver Surfer
-- World War Hulk #2: Tempest is introduced as Black Panther's wife
+- During the Civil War, Dr. Strange and Wolverine are absent.
+- Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_.
+- AMS 529: it is set before Daredevil #93.
+- New avengers 35: Wilson Fisk is again considered decayed.
+- The Incredible Hulk #95: happens before Annihilation: Silver Surfer.
+- World War Hulk #2: Tempest is introduced as Black Panther's wife.
 - New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
-- In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline
+- In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline.
 - In Invincible Iron-Man #501 we see that Dr. Octopus is dying. How does it fit with the Spider-Man timeline?
 - Fear Itself happens after Johnny's death in FF and after the founding of the Future Foundation. Right in the middle of Fear Itself, Spider-Man switches to the white costume of the Future Foundation.
 - The New Dark Avengers storyline happens after Spider-Island. Spider-Man switches back and forth between the classic and the white costume during this saga.
 - In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
-- The exact placement of ATCC in thw timeline is a matter of discussion. by the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the Wonder Man issue is hard to solve within the timeline and it is likelimy due to the delays suffered by ATCC. Therefore, the common move is to accept it as an issue and place ATCC after Fear Itself.
+- The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
 
 ### ULTIMATE MARVEL UNIVERSE (339 issues)
 
