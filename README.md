@@ -782,14 +782,27 @@ __Other cosmic developments:__
 #### Thor
 
 __Thor by Lee & Kirby:__
-- Journey into mistery #124-125 + Tor #126-130 (_Thos vs Hercules_)
-- Thor #131-133 (_Thor vs Rigelians and Ego the living planet_)
-- Thor #160-162 (_Rigelians and Ego vs Galactus_)
-- Thos #168-169 (_Origin of Galactus_)
+- Journey into mistery #124-125 + Thor #126-130 (_Thos vs Hercules_)
+- #131-133 (_Thor vs Rigelians and Ego the living planet_)
+- #154-157 (_Mollrog_)
+- #159 (_Truth about Donald Blake_)
+- #160-162 (_Rigelians and Ego vs Galactus_)
+- #168-169 (_Origin of Galactus_)
 
 _Issue 179 is the last one penciled by Jack Kirby. It was followed by two issues penciled by the great Neal Adams._
 
-Thor #180-128 (_Loki switches bodies with Thor_)
+Thor #180-181 (_Loki switches bodies with Thor_)
+
+Thor #225-228 (_Return of Galactus, Firelord_)
+
+Annual #11 [This issue presents a series of flashbacks that help new readers to become familiar with Thor's background]
+
+__Thor by Walt Simonson:__
+- 337-340 (_Beta Ray Bill_)
+- 341-355 (_Surtur Saga + Aftermath_) [issue 355 is penciled by guest artist Sal Buscema]
+- Annual #13 (_Thor vs Mephisto_) [_this story happens in between the events of issue 354, when Thor is wandering in the snowy mountains_]
+- 357-359 (_Resolution of Loki's and Lorelei's plot, Thor and Bill make the angardian warriors return to Midgard_)
+- 360 + Balder The Brave #1 + 361-362 (_Thor and the asgardian warriors descend to Hel_)
 
 #### Doctor Strange
 
