@@ -798,11 +798,23 @@ Thor #225-228 (_Return of Galactus, Firelord_)
 Annual #11 [This issue presents a series of flashbacks that help new readers to become familiar with Thor's background]
 
 __Thor by Walt Simonson:__
+
+_NOTE: Starting with issue 368, Walt Simonson leaves pencils to Sal Buscema, who also pencils issue 355 and Balder The Brave. Annual 13 is in continuity with Simonson's run but has a different creative team (notably, pencils by John Buscema). Issue 370 is a delightful western story by James Owsley (now Christopher Priest) and John Buscema, taking place in 1875._
+
 - 337-340 (_Beta Ray Bill_)
+
+_In issue 341, Thor enters the Avengers mansion and three blank panels follow. His entrance is shown in Avengers 242, where the Avengers get involved with the Secret Wars event._
+
 - 341-355 (_Surtur Saga + Aftermath_) [issue 355 is penciled by guest artist Sal Buscema]
 - Annual #13 (_Thor vs Mephisto_) [_this story happens in between the events of issue 354, when Thor is wandering in the snowy mountains_]
 - 357-359 (_Resolution of Loki's and Lorelei's plot, Thor and Bill make the angardian warriors return to Midgard_)
 - 360 + Balder The Brave #1 + 361-362 (_Thor and the asgardian warriors descend to Hel_)
+- 363-366 (_Thor becomes a frog, Balder is named king of Asgard_)
+- Balder The Brave #2-4 (_Balder defeats the frost giants, and is named king of Asgard_)
+- 367-369 (_Thor rescues Balder_)
+- 370-371 (_Justice Peace_)
+- 372-373 (_Thor feat. X-factor_)
+- 374-382 (_Frost giants,  Jormungand, final confrontation with Hela_)
 
 #### Doctor Strange
 
