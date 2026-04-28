@@ -797,6 +797,8 @@ Thor #225-228 (_Return of Galactus, Firelord_)
 
 Annual #11 [This issue presents a series of flashbacks that help new readers to become familiar with Thor's background]
 
+Mighty Thor: I, whom the gods would destroy [this story was published after, but takes place before Simonson's run]
+
 __Thor by Walt Simonson:__
 
 _NOTE: Starting with issue 368, Walt Simonson leaves pencils to Sal Buscema, who also pencils issue 355 and Balder The Brave. Annual 13 is in continuity with Simonson's run but has a different creative team (notably, pencils by John Buscema). Issue 370 is a delightful western story by James Owsley (now Christopher Priest) and John Buscema, taking place in 1875._
@@ -816,6 +818,9 @@ _In issue 341, Thor enters the Avengers mansion and three blank panels follow. H
 - 372-373 (_Thor feat. X-factor_)
 - 374-382 (_Frost giants,  Jormungand, final confrontation with Hela_)
 
+#299-300 (_Return of Odin_)
+
+#491-494 (_World-Engine_)
 #### Doctor Strange
 
 Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
