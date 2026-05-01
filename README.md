@@ -814,13 +814,15 @@ _In issue 341, Thor enters the Avengers mansion and three blank panels follow. H
 - 363-366 (_Thor becomes a frog, Balder is named king of Asgard_)
 - Balder The Brave #2-4 (_Balder defeats the frost giants, and is named king of Asgard_)
 - 367-369 (_Thor rescues Balder_)
-- 370-371 (_Justice Peace_)
-- 372-373 (_Thor feat. X-factor_)
-- 374-382 (_Frost giants,  Jormungand, final confrontation with Hela_)
+- 370 (_Thor and Loki in the wild west_)
+- 371-372 (_Justice Peace_)
+- 373-374 (_Thor feat. X-factor_)
+- 375-382 (_Frost giants,  Jormungand, final confrontation with Hela_)
 
 #299-300 (_Return of Odin_)
 
 #491-494 (_World-Engine_)
+
 #### Doctor Strange
 
 Strange Tales (1951) #127,130-141,146 (_Dormammu, Search for Eternity_)
