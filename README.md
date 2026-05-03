@@ -956,7 +956,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (601 issues)
+### New Avengers Era (2004-2012) (611 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1222,6 +1222,8 @@ New Avengers #31-34 (_Daniel Drumm, Dr. Strange is sorcerer supreme again, Luke 
 
 Avengers #31-34 (_Return of Janet_)
 
+Age of Ultron #1-10
+
 ### Modern Marvel Cosmic
 Annihilation:
 - Drax the Destroyer #1-4
@@ -1298,8 +1300,23 @@ Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens afte
 - The New Dark Avengers storyline happens after Spider-Island. Spider-Man switches back and forth between the classic and the white costume during this saga.
 - In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
+- Age of Ultron was published in the Marvel Now era, but it serves better as the conclusion of Bendis’s Avengers.
 
-### ULTIMATE MARVEL UNIVERSE (339 issues)
+### Marvel Now (2012-) (19 issues)
+
+New Avengers (2013) #1-3 (_The Illuminati use the Infinity Gauntlet against the first incursions_)
+
+New Avengers #4-6 (_The Illuminati destroy their first world_)
+
+Avengers (2012) #1-3 (_Avengers vs Ex Nihilo and Abyss on Mars_)
+
+Avengers #4-6 (_Focus on the three new Avengers: Hyperion, Smasher, Captain Universe_)
+
+Avengers #7-9 (_The Star Brand_)
+
+Avengers #10-13
+
+### ULTIMATE MARVEL UNIVERSE (344 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1332,6 +1349,10 @@ USM #22-27 (_Return of Goblin_)
 USM #28-32 (_SM impostor, Death of Capt. Stacy_)
 
 USM #33-39 (_Venom_)
+
+--------------------
+
+Ultimates #1-5 (_The Ultimates vs Hulk_)
 
 --------------------
 
