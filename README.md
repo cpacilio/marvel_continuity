@@ -956,7 +956,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (611 issues)
+### New Avengers Era (2004-2012) (613 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1090,6 +1090,8 @@ Secret Warriors #1-6 (_Nick unveils the secret Hydra's ramifications, Baron Von 
 
 Spider-Woman #1-7
 
+Frew Comic Book Day 2009 (_New Avengers and Dark Avengers vs frost giant_)
+
 Thor #600-603 + Thor Giant Size #1
 
 Captain America #43-48 (_Professor Zhang Chin, burial of Human Torch_)
@@ -1135,6 +1137,8 @@ Secret Warriors #17-19 (_Several Howling Commandos die in China_)
 Secret Warriors #20-22 (_Death of Phobos and JT_)
 
 Secret Warriors #23-26 (_Nick's masterplan, Nick kills strucker and destroys Leviathan, Daisy is the new head of the peace force_)
+
+Free Comic Book Day 2010 (_Thor and Iron-Man vs Luna Inc._)
 
 Avengers (2010) #1-6 (_Kang asks the Avengers to fix Ultron's dystopic future_)
 
