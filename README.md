@@ -495,7 +495,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (266 issues)
+### Fantastic Four (291 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -637,6 +637,22 @@ __FF by McDuffie and Pelletier:__
 - #543-546 (_Reed and Sue go for their honeymoon on Titan, Black Panther and Storm join the FF, Battle with Galactus_)
 - #547-550 (_The Frightful Four, Cosmic adventure with Silver Surfer and Dr. Strange, Black Panther and Storm leave the team_)
 - #551-553 (_Dr. Doom from the future_)
+
+__FF by Millar and Hitch:__
+- 554-557 (_Return of Alyssa, Nu World project_)
+- 558-561 (_Menace from a parallel universe_)
+- 562-565 (_Ben engages with Deborah, disadventure in Scotland_)
+
+Secret Invasion: Fantastic Four #1-3
+
+_Read the Secret Invasion Event_
+
+- 566-569 (_The master of Doom, Ben's "wedding" day_)
+
+FF Annual 2010 (_Psycho Woman_)
+
+__FF by Jonathan Hickman:__
+- Dark Reign: Fantastic Four #1-5
 
 ### Classic Avengers (1963-) (292 issues)
 
