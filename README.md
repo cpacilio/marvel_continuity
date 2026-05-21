@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (135 issues)
+### Daredevil (165 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -116,6 +116,25 @@ DD #9-11, 13-15 (_Introduction of Echo, fall of the Kingpin_) [DD #12 is optiona
 DD #16-19 (_Ben Urich investigates on Leap Frog's kid_)
 
 DD #20-25 (_DD brought to court_)
+
+Alias #1-5 (_Intro to Jessica Jones_)
+
+Alias #6-9 (_Rick Jones_)
+
+__DD by Bendis and Maleev:__
+- DD #26-37 (_Downfall of the Kingpin, Daredevil exposed_)
+
+DD 38-40 (_Trial of Hector Ayala_)
+
+Alias #10 (_JJJ asks Jessica to find out Spider-Man's identity_)
+
+Alias #11-14 (_Rebecca_) [this story seems inspired to Twin Peaks]
+
+Alias #15 (_Jessica and Luke bodyguard Matt Murdock, Jessica dates Scott Lang_)
+
+Notes:
+- Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
+- DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
 
 ### Hulk
 
