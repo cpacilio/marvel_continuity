@@ -124,13 +124,13 @@ Alias #6-9 (_Rick Jones_)
 __DD by Bendis and Maleev:__
 - DD #26-37 (_Downfall of the Kingpin, Daredevil exposed_)
 
-DD 38-40 (_Trial of Hector Ayala_)
-
 Alias #10 (_JJJ asks Jessica to find out Spider-Man's identity_)
 
 Alias #11-14 (_Rebecca_) [this story seems inspired to Twin Peaks]
 
 Alias #15 (_Jessica and Luke bodyguard Matt Murdock, Jessica dates Scott Lang_)
+
+DD 38-40 (_Trial of Hector Ayala_)
 
 Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
