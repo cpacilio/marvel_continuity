@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (165 issues)
+### Daredevil (178 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -131,6 +131,12 @@ Alias #11-14 (_Rebecca_) [this story seems inspired to Twin Peaks]
 Alias #15 (_Jessica and Luke bodyguard Matt Murdock, Jessica dates Scott Lang_)
 
 DD 38-40 (_Trial of Hector Ayala_)
+
+Alias #16-21 (_Mattie Franklin_)
+
+Alias #22-23 (_Origin of Jessica's powers_)
+
+Alias #23-28 (_Purple Man_)
 
 Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
@@ -997,11 +1003,13 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (613 issues)
+### New Avengers Era (2004-2012) (614 issues)
 
 Thor #80-85 (_Ragnarok_)
 
 The Pulse #1-5 (_Goblin arrested, Ben Urich knows about Peter_)
+
+What if ... Jessica Jones had joined the Avengers?
 
 Marvel Knights Spider-Man #1-12
 
