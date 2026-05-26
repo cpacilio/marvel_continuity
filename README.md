@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (178 issues)
+### Daredevil (198 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -149,7 +149,7 @@ Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
 - Alias #11-15 has many elements from Twin Peaks.
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
-- DD #60 happens after the storyline of The Pulse
+- DD #60 happens after The Pulse #1-5
 
 ### Hulk
 
