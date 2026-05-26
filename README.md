@@ -126,7 +126,7 @@ __DD by Bendis and Maleev:__
 
 Alias #10 (_JJJ asks Jessica to find out Spider-Man's identity_)
 
-Alias #11-14 (_Rebecca_) [this story seems inspired to Twin Peaks]
+Alias #11-14 (_Rebecca_)
 
 Alias #15 (_Jessica and Luke bodyguard Matt Murdock, Jessica dates Scott Lang_)
 
@@ -134,13 +134,22 @@ DD 38-40 (_Trial of Hector Ayala_)
 
 Alias #16-21 (_Mattie Franklin_)
 
+- DD 41-45 (_The Owl_)
+- DD 46-50 (_Return of the Kingpin_)
+
 Alias #22-23 (_Origin of Jessica's powers_)
 
 Alias #23-28 (_Purple Man_)
 
+DD 51-55 (_Family history of Echo_)
+
+- DD 56-60 (_Kingpin of Hell's Kitchen, Yakuza_)
+
 Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
+- Alias #11-15 has many elements from Twin Peaks.
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
+- DD #60 happens after the storyline of The Pulse
 
 ### Hulk
 
