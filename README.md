@@ -130,7 +130,7 @@ Alias #11-14 (_Rebecca_)
 
 Alias #15 (_Jessica and Luke bodyguard Matt Murdock, Jessica dates Scott Lang_)
 
-DD 38-40 (_Trial of Hector Ayala_)
+- DD 38-40 (_Trial of Hector Ayala_)
 
 Alias #16-21 (_Mattie Franklin_)
 
@@ -145,11 +145,14 @@ DD 51-55 (_Family history of Echo_)
 
 - DD 56-60 (_Kingpin of Hell's Kitchen, Yakuza_)
 
+_The Pulse #1-5 happen here_
+
+_MK Spider-Man #1-4 happen here_
+
 Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
 - Alias #11-15 has many elements from Twin Peaks.
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
-- DD #60 happens after The Pulse #1-5
 
 ### Hulk
 
