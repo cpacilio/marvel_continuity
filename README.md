@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (198 issues)
+### Daredevil (213 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -148,6 +148,24 @@ DD 51-55 (_Family history of Echo_)
 _The Pulse #1-5 happen here_
 
 _MK Spider-Man #1-4 happen here_
+
+- DD 61-64 (_Black Widow, Nick Fury_) 
+
+- DD 65 [this is a special sized issue with no relevant plot developments but for the last page. You can skip it.]
+
+- DD 66-70 (_Melvin Potter, Alexander Bunt_)
+
+- DD 71-75 (_Decalogue_)
+
+_MK Spider-Man 11 happens here_
+
+_Wolverine: Enemy of the State happens here_
+
+_Secret War happens here_
+
+_New Avengers #1 happens here_
+
+_New Avengers #11 happens here_
 
 Notes:
 - Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
