@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (213 issues)
+### Daredevil (219 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -167,8 +167,9 @@ _New Avengers #1 happens here_
 
 _New Avengers #11 happens here_
 
+- DD 76-81 (_the Murdock papers_)
+
 Notes:
-- Matt Murdock serves as Jessica's lawyer in Alias #1-5, which is therefore set before the start of Bendis' run.
 - Alias #11-15 has many elements from Twin Peaks.
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
 
@@ -1360,15 +1361,14 @@ Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens afte
 
 #### Notes
 - Young Avengers #1 is set before New Avengers, before Winter Soldier, and before Jessica Jones gives birth.
-- Marvel Knights Spider-Man #2: The Kingpin is considered decayed and The Owl is trying to take his place as the boss of the underground mob.
+- Marvel Knights Spider-Man #2: The Kingpin is decayed and The Owl is trying to take his place as the boss of the underground mob. It causes continuity issues because the Howl was arrested in Daredevil prior to this story.
 - In The New Thunderbolts #17 it was revealed that the Baron Von Strucker who was killed during the _Enemy of the State_ storyline was a clone.
 - New Avengers 11:
-  - Matt Murdock's identity is considered public and Matt Murdock says they want him in prison; 
-  - Madame Hydra is considered in disgrace (but where did it happen?);
+  - It happens immediately before Daredevil 76-81; 
+  - Iron-Man comments that madame Hydra went off radar two months before; it happened in Daredevil 64.
   - Wolverine is on a mission with the X-Men;
 - The Pulse #11-14:
   - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it;
-  - The so called Murdock files are mentioned;
 - During Sentry (2005) #1-8, Nick Fury appears as the head of SHIELD, despite he is dismissed at the end of Secret War. This is probably due to the publication delays suffered by Secret War.
 - During the Civil War, Dr. Strange and Wolverine are absent.
 - Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_.
