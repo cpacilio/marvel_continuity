@@ -1399,7 +1399,7 @@ Avengers #7-9 (_The Star Brand_)
 
 Avengers #10-13
 
-### ULTIMATE MARVEL UNIVERSE (369 issues)
+### ULTIMATE MARVEL UNIVERSE (377 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1436,6 +1436,8 @@ USM #33-39 (_Venom_)
 --------------------
 
 Ultimates #1-5 (_The Ultimates vs Hulk_)
+
+Ultimates #6-13 (_Hank abuses Janet, Ultimates vs Chitauri_)
 
 --------------------
 
