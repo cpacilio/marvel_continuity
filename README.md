@@ -1399,7 +1399,7 @@ Avengers #7-9 (_The Star Brand_)
 
 Avengers #10-13
 
-### ULTIMATE MARVEL UNIVERSE (363 issues)
+### ULTIMATE MARVEL UNIVERSE (369 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1604,14 +1604,21 @@ Ultimate Comics Captain America #1-4
 
 Ultimate Comics Thor #1-4
 
-Ultimate Comics Avengers 3 #1-6 [This miniseries has an open ending that introduces to Avengers vs. New Ultimates. This might mean that, temporally, it happens just before the death of Spider-Man.]
-
 --------------------
 
 Ultimate Comics SM #9-15 (_Kitty goes rogue, the Chameleons_)
 
 Ultimate Comics SM #150-154 (_Avengers put SM under training, Black Cat and Mysterio steal the Zodiac Key_)
 
+--------------------
+
+Ultimate Comics Avengers 3 #1-6
+
+Ultimate Avengers vs New Ultimates #1-6
+
+--------------------
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
+- I prefer to read Ultimate Avengers vs New Ultimates before USM #155-160 to keep momentum with the Avegers continuity. The death of Spider-Man is just tangential there and actually it acts as a tease to read USM.
