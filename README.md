@@ -1399,7 +1399,7 @@ Avengers #7-9 (_The Star Brand_)
 
 Avengers #10-13
 
-### ULTIMATE MARVEL UNIVERSE (377 issues)
+### ULTIMATE MARVEL UNIVERSE (389 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1617,6 +1617,12 @@ Ultimate Comics SM #150-154 (_Avengers put SM under training, Black Cat and Myst
 Ultimate Comics Avengers 3 #1-6
 
 Ultimate Avengers vs New Ultimates #1-6
+
+--------------------
+
+Ultimate Comics SM #155-160 (_Death of Spider-Man_)
+
+Ultimate Fallout #1-6 [a series of short stories setting the stage for the next phase of the Ultimate Universe]
 
 --------------------
 
