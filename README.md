@@ -44,7 +44,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (219 issues)
+### Daredevil (225 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -166,6 +166,8 @@ _Secret War happens here_
 _New Avengers #1 happens here_
 
 _New Avengers #11 happens here_
+
+Daredevil: Redemption #1-6
 
 - DD 76-81 (_the Murdock papers_)
 
@@ -557,7 +559,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (291 issues)
+### Fantastic Four (302 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -690,6 +692,10 @@ __FF by Mark Waid:__
 - #512-513 (_Spider-Man helps Johnny_)
 - #514-516 (_FF vs the Wizard_)
 - #517-524 (_Galactus takes Johnny as his new herald, Sue and Johnny temporarily swap powers_)
+
+The books of Doom #1-6
+
+Submariner: The depths #1-5
 
 #536-537 (_Doom frees himself from Hell, Thor's hammer falls on Earth_)
 
