@@ -42,6 +42,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Timeline of Marvel events](https://comicbookreadingorders.com/marvel/event-timeline/)
 
+[Miles Morales](https://www.marvel.com/comics/characters/1016181/spider-man_miles_morales)
+
 ## Marvel Universe Reading Order
 
 ### Daredevil (225 issues)
