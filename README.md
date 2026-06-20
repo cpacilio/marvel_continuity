@@ -1393,7 +1393,9 @@ Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens afte
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
 - Age of Ultron was published in the Marvel Now era, but it serves better as the conclusion of Bendis’s Avengers.
 
-### Marvel Now (2012-) (59 issues)
+### Marvel Now (2012-) (62 issues)
+
+Avengers Assemble: Annual #1 (_Vision leaves the Avengers_)
 
 Newuniversal #1-6 + Newuniversal: Shockfront #1-2 [these miniseries are unfinished but introduce concepts that are heavily reprised by Hickman's run on the Avengers]
 
@@ -1432,6 +1434,8 @@ __Infinity:_
 - Guardians of the Galaxy 8-9
 - Infinity #6
 - New Avengers #12
+
+Inhumanity #1-2
 
 ### ULTIMATE MARVEL UNIVERSE (389 issues)
 
