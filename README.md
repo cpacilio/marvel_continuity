@@ -561,7 +561,7 @@ ASM-2 #658 (_SM joins the FF_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (302 issues)
+### Fantastic Four (321 issues)
 
 __[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
 
@@ -723,6 +723,21 @@ FF Annual 2010 (_Psycho Woman_)
 
 __FF by Jonathan Hickman:__
 - Dark Reign: Fantastic Four #1-5
+- FF #570-572 (_Solve everything_)
+- FF #573 (_Nu World_)
+- FF #574 (_visit from Future Franklin_)
+- #575-578 (_the four civilizations, rebirth of Annihilus_)
+- #579-580 (_Reed creates the future foundation for gifted children_)
+- #581-582 (_the hunt for Nathaniel Richards_)
+- #583 (_Valeria makes a deal with Doom_)
+- #584-587 (_Ben becomes normal for a week, Galactus vs Nu world, Namor vs ancient arlantideans, Annihilation wave_)
+- #588 (_Mourn of Johnny Storm_)
+
+Notes: 
+- FF 554 happens after Mighty Avengers #11
+- FF 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
+- In FF #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
+- FF #588 happens before Fear Itself.
 
 ### Classic Avengers (1963-) (292 issues)
 
