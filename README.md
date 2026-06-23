@@ -249,7 +249,7 @@ ASM Annual #13 + PPSSM Annual #1 (_Dock Ock returns_) __[Favourite]__
 
 ASM Annual #14 (_Doctor Strange vs Dr. Doom_)
 
-Marvel Team-Up #100 (_FF & Vietnamise Mutants_)
+Marvel Team-Up #100 (_F4 & Vietnamise Mutants_)
 
 PPSSM Annual #3 (_Healing of the Man-Wolf_)
 
@@ -529,7 +529,7 @@ ASM-2 #654 (_Death of Marla Jameson, Origin of the new Venom_)
 
 ASM-2 #654.1 (_Showcase of the new Venom_)
 
-ASM-2 #658 (_SM joins the FF_)
+ASM-2 #658 (_SM joins the F4_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -563,31 +563,31 @@ ASM-2 #658 (_SM joins the FF_)
 
 ### Fantastic Four (321 issues)
 
-__[Note]: The FF appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after FF Annual #2.__
+__[Note]: The F4 appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after F4 Annual #2.__
 
-__FF by Lee & Kirby:__
-- FF #2 (_Skrulls first appearance_)
-- FF #4 (_Sub-Mariner awakens_)
-- FF #5 (_Dr Doom first appearance_)
-- FF #6 (_Sub-Mariner & Dr Doom_)
-- FF #12 (_First meeting with the Hulk_)
-- FF Annual #1 (_Origin of Sub-Mariner, Sub-Mariner conquers the Earth_)
-- FF #18 (_Super Skrull_)
-- FF #19 (_Pharoah Rama-Tut_) (this classic story was later retconned in Doctor Strange (1974) #53, revealing the undisclosed presence of the astral form of Dr. Strange)
-- FF Annual #2 (_Origin of Dr Doom_)
-- FF Annual #3 (_Wedding of Sue and Reed_)
-- FF #44-48 (_Inhumans_)
-- FF #48-50 (_Galactus & Silver Surfer_)
-- FF #51 (_"This man... this monster"_)
-- FF #52-53 (_Black Panther_)
-- FF #54-60 (_Inhumans break free, Dr. Doom steals cosmic powers from Silver Surfer_)
-- FF #64-65 (_Kree's Sentry, Ronan the accuser_)
-- FF Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
-- FF #102-104 (_Magneto tricks Namor in attacking New York_)
+__F4 by Lee & Kirby:__
+- #2 (_Skrulls first appearance_)
+- #4 (_Sub-Mariner awakens_)
+- #5 (_Dr Doom first appearance_)
+- #6 (_Sub-Mariner & Dr Doom_)
+- #12 (_First meeting with the Hulk_)
+- F4 Annual #1 (_Origin of Sub-Mariner, Sub-Mariner conquers the Earth_)
+- #18 (_Super Skrull_)
+- #19 (_Pharoah Rama-Tut_) (this classic story was later retconned in Doctor Strange (1974) #53, revealing the undisclosed presence of the astral form of Dr. Strange)
+- F4 Annual #2 (_Origin of Dr Doom_)
+- F4 Annual #3 (_Wedding of Sue and Reed_)
+- #44-48 (_Inhumans_)
+- #48-50 (_Galactus & Silver Surfer_)
+- #51 (_"This man... this monster"_)
+- #52-53 (_Black Panther_)
+- #54-60 (_Inhumans break free, Dr. Doom steals cosmic powers from Silver Surfer_)
+- #64-65 (_Kree's Sentry, Ronan the accuser_)
+- F4 Annual #6 (_Negative zone, Annihilus, Susan gives birth_)
+- #102-104 (_Magneto tricks Namor in attacking New York_)
 
 _Here Kirby leaves the series and is replaced by John Romita and John Buscema._
 
-FF #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, FF seek help from Doom_)
+F4 #107-116 (_Ben "cured" by Reed, Nega-Man & Annihilus, Ben vs Hulk, the Over-Mind, F4 seek help from Doom_)
 
 Silver Surfer (1998) #1-4
 
@@ -596,24 +596,24 @@ Galactus featured several issues of Thor, culminating with Thor learning about t
 - Thor #168-169 (_Thor discovers the origin of Galactus_)
 - Super-Villain Classics 1 (_Retelling of Galactus' origin_) (This is a reprint from Lee-and-Kirby's original material, with alterations from other authors; for example, here Galactus receives his powers from the Sentience of the Universe, instead of just taking them from stellar radiations)
 
-FF #120-123 (_Gabriel, Galactus sent to the negative zone_) (Galactus returns to the positive zone in Thor #225. The details of his return are revealed in Thor #306.)
+F4 #120-123 (_Gabriel, Galactus sent to the negative zone_) (Galactus returns to the positive zone in Thor #225. The details of his return are revealed in Thor #306.)
 
-FF Annual #12 (_FF & Inhumans vs the Sphinx_)
+F4 Annual #12 (_F4 & Inhumans vs the Sphinx_)
 
-FF 204-205 + Nova #25 + FF #206-214 (_Skrulls invade Xandar, Reed frees Galactus from vow of not devouring Earth, Galactus vs Sphinx, FF aged and deaged_)
+F4 204-205 + Nova #25 + F4 #206-214 (_Skrulls invade Xandar, Reed frees Galactus from vow of not devouring Earth, Galactus vs Sphinx, F4 aged and deaged_)
 
-__FF by John Byrne:__
+__F4 by John Byrne:__
 - #232 (_Diablo_)
 - #233 (_Johnny redeems the name of a death sentenced, Hammerhead_)
 - #234-235 (_Skip Collins, Ego the living planet_)
-- #236 (_FF trapped in Liddleville_)
+- #236 (_F4 trapped in Liddleville_)
 - #237-239 (_Ben half-cured by Reed, Frankye Raye's powers revealed, Aunt Petunia_)
 - #240 (_Inhumans move to the Moon, birth of Pietro's and Crystal's daughter_)
 - #241 (_A centurion in Wakanda_)
 
 Silver Surfer (1982) (_Silver Surfer returns on his planet, saves Shalla-Bal from Mephisto_) 
 
-- #242-244 (_Terrax vs Galactus, FF and Avengers spare Galactus' life, Franki Raye becomes Galactus' new herald_)
+- #242-244 (_Terrax vs Galactus, F4 and Avengers spare Galactus' life, Franki Raye becomes Galactus' new herald_)
 - #245 (_Franklin's powers_)
 - #246-247 (_Return of Dr. Doom_)
 - #248 (_Nightmare on Attilan_)
@@ -635,11 +635,11 @@ _Secret Wars #1-12_ happens here
 - #269-270 (_Terminus, Johnny and Alicia start to have mutual feelings_)
 - #271-273 (_Nathaniel Richards_) [It is revealed that Kang is a descendant of Nathaniel from 3000 who discovers Nathaniel's ancient citadel and recreates the time machine in the form of a sphinx]
 - #276-277 (_Mephisto, Dr. Strange, the Thing returns to Earth_)
-- The Thing #23 (_Reed reveals the truth to Ben, Ben leaves the FF_)
+- The Thing #23 (_Reed reveals the truth to Ben, Ben leaves the F4_)
 - #278-279 (_Kristoff as the new Dr Doom, explosion of the Baxter Building_)
 - #280-281 (_Hate Monger, Malice_)
-- #282-284 (_FF vs Psycho Man, Susan becomes the Invisible Woman_)
-- Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_) [A parallel plot is told in FF Annual #19, with the final pages of the two Annuals almost overlapping. However, I find it a much weaker story which does not add much. You might want to read it just for completeness.]
+- #282-284 (_F4 vs Psycho Man, Susan becomes the Invisible Woman_)
+- Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_) [A parallel plot is told in F4 Annual #19, with the final pages of the two Annuals almost overlapping. However, I find it a much weaker story which does not add much. You might want to read it just for completeness.]
 - #286 (_Revival of Jean Grey_)
 - #287-288 (_Return of Dr. Doom, Doom vs the Beyonder_)
 - #289-292 (_Negative zone, Blastaar, Annihilus, 1936 New York_)
@@ -650,49 +650,49 @@ The following issues are not authored by Byrne, but they complete his run:
 - #300 (_Wedding of Johnny and Alicia_)
 
 Silver Surfer (1987):
-- #1-2 (_FF free Silver Surfer from the barrier, returns to his homeplanet_)
+- #1-2 (_F4 free Silver Surfer from the barrier, returns to his homeplanet_)
 - #31 (_End of second Kree-Skrull War_)
 
 _Emperor Doom_ happens here (because Doom is still king of Latveria) 
 
-FF Annual #20 (_Dr. Doom kidnaps Franklin to battle Mephisto, Kristoff frees himself and replaces Doom as king of Latveria_)
+F4 Annual #20 (_Dr. Doom kidnaps Franklin to battle Mephisto, Kristoff frees himself and replaces Doom as king of Latveria_)
 
-__FF by Walt Simonson:__
-- #337-341 (_FF, Iron Man, and Thor vs Galactus' in a furure time bubble_)
+__F4 by Walt Simonson:__
+- #337-341 (_F4, Iron Man, and Thor vs Galactus' in a furure time bubble_)
 - #343-346 (_Trapped into WW3, then on a preistoric island with dinosaurs_)
-- #348-349 (_The new FF_)
+- #348-349 (_The new F4_)
 - #350, 352-354 (_Return of Dr. Doom, Time Variance Authority_)
 
 _Doctor Strange and Doctor Doom: triumph and torment_
 
-I don't like Tom De Falco & Paul Ryan's tenure on the FF, but a major (and highly controversial among the fans) retcon plot development occurred:
-- FF #358 (_Alicia revealed to be a Skrull, FF rescue the true Alicia_)
-- FF #393 contains a brief summary of the aftermath
+I don't like Tom De Falco & Paul Ryan's tenure on the F4, but a major (and highly controversial among the fans) retcon plot development occurred:
+- F4 #358 (_Alicia revealed to be a Skrull, F4 rescue the true Alicia_)
+- F4 #393 contains a brief summary of the aftermath
 
-FF (1998) #1-5 (these are the first issues of the FF relaunch after Heroes Return. I do not find them essential nor particularly enjoyable)
+F4 (1998) #1-5 (these are the first issues of the F4 relaunch after Heroes Return. I do not find them essential nor particularly enjoyable)
 
-Imhumans (1998) #1-12 (__Note:__ Attilan was moved on Antlanstis during the "Atlantis rising" event, taking place on Fantastic Four: Atlantis Rising #1-2 and Fantastic Four Unlimited #1. I don't paticularly like these stories. Moreover, they are set in a messy time of the FF, when Kristoff and Scott Lang had joined the team, Reed Richards was believed to be dead, and a future version of Franklin was occasionally intervening. I find these readings unessential, read them at your own risk of be bored.) __[Favourite]__
+Imhumans (1998) #1-12 (__Note:__ Attilan was moved on Antlanstis during the "Atlantis rising" event, taking place on Fantastic Four: Atlantis Rising #1-2 and Fantastic Four Unlimited #1. I don't paticularly like these stories. Moreover, they are set in a messy time of the F4, when Kristoff and Scott Lang had joined the team, Reed Richards was believed to be dead, and a future version of Franklin was occasionally intervening. I find these readings unessential, read them at your own risk of be bored.) __[Favourite]__
 
-FF #22 (_Valeria Richards_)
+F4 #22 (_Valeria Richards_)
 
 Galactus: The Devourer #1-6 (_Death of Galactus_)
 
-FF Annual #1 (2001)  + FF (1998) #46-49 (_Abraxas, Franklin resurrects Galactus and makes Susan pregnant of Valeria again_)
+F4 Annual #1 (2001)  + F4 (1998) #46-49 (_Abraxas, Franklin resurrects Galactus and makes Susan pregnant of Valeria again_)
 
 Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 
-FF #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
+F4 #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
 "Fantastic Four: 1234" #1-4 [An out-of-continuity miniseries by Grant Morrison and Jae Lee]
 
-__FF by Mark Waid:__
-- #60-66 (_Imaginauts_) [Mark Waid restyles the FF]
+__F4 by Mark Waid:__
+- #60-66 (_Imaginauts_) [Mark Waid restyles the F4]
 - #67-70, 500 (_Unthinkable, Doom bargains with Hell_)
 - #501-502 (_Aftermath of Doom's attack_)
-- #503-508 (_Authoritative action, FF take over Latveria_)
-- #509-511 (_FF rescue Ben from Heaven, they meet with God_) [the representation of God is one of the most moving things in Marvel's history]
+- #503-508 (_Authoritative action, F4 take over Latveria_)
+- #509-511 (_F4 rescue Ben from Heaven, they meet with God_) [the representation of God is one of the most moving things in Marvel's history]
 - #512-513 (_Spider-Man helps Johnny_)
-- #514-516 (_FF vs the Wizard_)
+- #514-516 (_F4 vs the Wizard_)
 - #517-524 (_Galactus takes Johnny as his new herald, Sue and Johnny temporarily swap powers_)
 
 The books of Doom #1-6
@@ -703,29 +703,29 @@ Submariner: The depths #1-5
 
 _Civil War happens here_
 
-__FF by McDuffie and Pelletier:__
-- #543-546 (_Reed and Sue go for their honeymoon on Titan, Black Panther and Storm join the FF, Battle with Galactus_)
+__F4 by McDuffie and Pelletier:__
+- #543-546 (_Reed and Sue go for their honeymoon on Titan, Black Panther and Storm join the F4, Battle with Galactus_)
 - #547-550 (_The Frightful Four, Cosmic adventure with Silver Surfer and Dr. Strange, Black Panther and Storm leave the team_)
 - #551-553 (_Dr. Doom from the future_)
 
-__FF by Millar and Hitch:__
-- 554-557 (_Return of Alyssa, Nu World project_)
-- 558-561 (_Menace from a parallel universe_)
-- 562-565 (_Ben engages with Deborah, disadventure in Scotland_)
+__F4 by Millar and Hitch:__
+- #554-557 (_Return of Alyssa, Nu World project_)
+- #558-561 (_Menace from a parallel universe_)
+- #562-565 (_Ben engages with Deborah, disadventure in Scotland_)
 
 Secret Invasion: Fantastic Four #1-3
 
 _Read the Secret Invasion Event_
 
-- 566-569 (_The master of Doom, Ben's "wedding" day_)
+- #566-569 (_The master of Doom, Ben's "wedding" day_)
 
-FF Annual 2010 (_Psycho Woman_)
+F4 Annual 2010 (_Psycho Woman_)
 
-__FF by Jonathan Hickman:__
+__F4 by Jonathan Hickman:__
 - Dark Reign: Fantastic Four #1-5
-- FF #570-572 (_Solve everything_)
-- FF #573 (_Nu World_)
-- FF #574 (_visit from Future Franklin_)
+- #570-572 (_Solve everything_)
+- #573 (_Nu World_)
+- #574 (_visit from Future Franklin_)
 - #575-578 (_the four civilizations, rebirth of Annihilus_)
 - #579-580 (_Reed creates the future foundation for gifted children_)
 - #581-582 (_the hunt for Nathaniel Richards_)
@@ -734,10 +734,10 @@ __FF by Jonathan Hickman:__
 - #588 (_Mourn of Johnny Storm_)
 
 Notes: 
-- FF 554 happens after Mighty Avengers #11
-- FF 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
-- In FF #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
-- FF #588 happens before Fear Itself.
+- F4 554 happens after Mighty Avengers #11
+- F4 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
+- In F4 #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
+- F4 #588 happens before Fear Itself.
 
 ### Classic Avengers (1963-) (292 issues)
 
@@ -933,7 +933,7 @@ _Origins of Dr. Strange_: they have been told several times:
 - Doctor Strange (1968) #169
 - Doctor Strange (1974) #56
 
-Doctor Strange (1974) #53 (_Travel back in time, retcon of FF vs. Rama-Tut_)
+Doctor Strange (1974) #53 (_Travel back in time, retcon of F4 vs. Rama-Tut_)
 
 Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
@@ -1402,7 +1402,7 @@ Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens afte
 - New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
 - In Avengers (2010) #6, future Tony instructs Tony to stop Ultron in his timeline.
 - In Invincible Iron-Man #501 we see that Dr. Octopus is dying. How does it fit with the Spider-Man timeline?
-- Fear Itself happens after Johnny's death in FF and after the founding of the Future Foundation. Right in the middle of Fear Itself, Spider-Man switches to the white costume of the Future Foundation.
+- Fear Itself happens after Johnny's death in F4 and after the founding of the Future Foundation. Right in the middle of Fear Itself, Spider-Man switches to the white costume of the Future Foundation.
 - The New Dark Avengers storyline happens after Spider-Island. Spider-Man switches back and forth between the classic and the white costume during this saga.
 - In ATCC-Young Avengers it is revealed that the YA formed the same night the NA formed ad Ryker's Island.
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
@@ -1524,9 +1524,9 @@ U-Nightmare #1-5 (_Galactus trilogy: book one_)
 
 --------------------
 
-UFF #1-6 (_Origin story_)
+UF4 #1-6 (_Origin story_)
 
-UFF #7-12 (_Confrontation with Victor_)
+UF4 #7-12 (_Confrontation with Victor_)
 
 --------------------
 
@@ -1542,21 +1542,21 @@ USM #66-69 (_Peter stops being SM, Peter switches his mind with Wolverine, Johnn
 
 --------------------
 
-UFF #13-18 (_Into the N-Zone_)
+UF4 #13-18 (_Into the N-Zone_)
 
 U-Secret #1-4 (_Capt. Marvel and Kree, Galactus Trilogy: Book Two_)
 
-UFF #19-20 (_Rhona Burchill_)
+UF4 #19-20 (_Rhona Burchill_)
 
-UFF #21-23 (_Crossover with a parallel Marvel Universe_)
+UF4 #21-23 (_Crossover with a parallel Marvel Universe_)
 
-UFF #24-26 (_Namor_)
+UF4 #24-26 (_Namor_)
 
-UFF Annual #1 (_Inhumans_)
+UF4 Annual #1 (_Inhumans_)
 
-UFF #27-29 (_Time travels & super skrull_)
+UF4 #27-29 (_Time travels & super skrull_)
 
-UFF #30-32 (_Doom & zombie menace_)
+UF4 #30-32 (_Doom & zombie menace_)
 
 --------------------
 
@@ -1588,7 +1588,7 @@ USM #86-90 (_Silver Sable_)
 
 --------------------
 
-UXM/UFF #1-2 (_return of Rhona Burchill_)
+UXM/UF4 #1-2 (_return of Rhona Burchill_)
 
 UXM #66-68 (_Xavier seals a deal with Sh'iar cult_)
 
