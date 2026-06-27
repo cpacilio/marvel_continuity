@@ -750,7 +750,7 @@ Notes:
 - F4 554 happens after Mighty Avengers #11
 - F4 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
 - In F4 #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
-- F4 #588 happens before Fear Itself.
+- F4 #588 happens before Fear Itself. I would put Fear Itself before FF #1, but it's not an essential reading.
 - Silver Surfer (2011) #1-5 happens between FF 3 and 4.
 - Jonathan Hickman's run on serves also as a restoration of the status of Marvel Cosmic. When the run started, Annihilus had been reverted to an egg and the Supreme Intelligence had been killed during the Annihilation event, the Inhumans had left the Solar System to conquer the Kree Empire, Crystal was married to Ronan, and Thanos was trapped and presumably dead within the Fault. By the end of his run, Hickman put almost everything back in place bar Thanos (who would however be restored into the main continuity during Hickman's first Avengers event).
 
