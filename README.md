@@ -561,7 +561,7 @@ ASM-2 #658 (_SM joins the F4_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (321 issues)
+### Fantastic Four (355 issues)
 
 __[Note]: The F4 appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after F4 Annual #2.__
 
@@ -732,12 +732,27 @@ __F4 by Jonathan Hickman:__
 - #583 (_Valeria makes a deal with Doom_)
 - #584-587 (_Ben becomes normal for a week, Galactus vs Nu world, Namor vs ancient arlantideans, Annihilation wave_)
 - #588 (_Mourn of Johnny Storm_)
+- FF #1-11 (_The war of four cities, return of Black Bolt, Ronan resurrects the Supreme Intelligence_)
+- #600 (_Kree invasion, return of Johnny_)
+- #601-603 + FF #12-15
+- #604 + FF #16 (_Conclusion of the four cities storyline_)
+- #605 (_Reed and Nathaniel travel through the future_)
+- FF #17 (_Johnny and Peter_)
+- #606 (_Mr. Lumpkin's brain tumor_)
+- FF #18 (_the negative zone votes for Annihilus_)
+- #607-608 + FF #19 (_Adventure in Wakanda, Black Panther becomes king of the city of the deads_)
+- FF #20-21 (_Crystal returns to Attilan_)
+- #609 (_The future Defenders leave for space_)
+- #610 + FF #22 (_The Wizard and Bentley_)
+- #611 (_Return of Doom, future Valeria leaves_) + FF #23 (_future Franklin leaves_)
 
 Notes: 
 - F4 554 happens after Mighty Avengers #11
 - F4 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
 - In F4 #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
 - F4 #588 happens before Fear Itself.
+- Silver Surfer (2011) #1-5 happens between FF 3 and 4.
+- Jonathan Hickman's run on serves also as a restoration of the status of Marvel Cosmic. When the run started, Annihilus had been reverted to an egg and the Supreme Intelligence had been killed during the Annihilation event, the Inhumans had left the Solar System to conquer the Kree Empire, Crystal was married to Ronan, and Thanos was trapped and presumably dead within the Fault. By the end of his run, Hickman put almost everything back in place bar Thanos (who would however be restored into the main continuity during Hickman's first Avengers event).
 
 ### Classic Avengers (1963-) (292 issues)
 
