@@ -933,11 +933,22 @@ _In issue 341, Thor enters the Avengers mansion and three blank panels follow. H
 - 370 (_Thor and Loki in the wild west_)
 - 371-372 (_Justice Peace_)
 - 373-374 (_Thor feat. X-factor_)
-- 375-382 (_Frost giants,  Jormungand, final confrontation with Hela_)
+- 375-382 (_Frost giants, Jormungand, final confrontation with Hela_)
 
 #299-300 (_Return of Odin_)
 
 #491-494 (_World-Engine_)
+
+__Thor by Dan Jurgens:__
+- Thor (1998) #1-2 (_The Destroyer_)
+- #3-4 (_Sedna_)
+- #5-8 + Peter Parker: Spider-Man #2 (_Hercules, Dark Gods, team-up with Spider-Man_)
+- #9-13 (_Conclusion of the Dark Gods storyline_)
+- #14-20 (_The enchanters_)
+- #21 + Annual 2000 + #22-25 (_Confrontation with Loki. Thanos and Mangog_)
+
+Notes: 
+- Thor (1998) #1 happens after Avengers (1998) #3
 
 #### Doctor Strange
 
