@@ -895,7 +895,7 @@ __Other cosmic developments:__
 
 ### Classic Marvel Era (1961-1998)
 
-#### Thor
+#### Thor (135 issues)
 
 __Thor by Lee & Kirby:__
 - Journey into mistery #124-125 + Thor #126-130 (_Thos vs Hercules_)
@@ -946,6 +946,13 @@ __Thor by Dan Jurgens:__
 - #9-13 (_Conclusion of the Dark Gods storyline_)
 - #14-20 (_The enchanters_)
 - #21 + Annual 2000 + #22-25 (_Confrontation with Loki. Thanos and Mangog_)
+- #29-32 (_Malekith_)
+- #41 (_Death of Odin_)
+- #42 (_Thor becomes King of Asgard_)
+- #43 (_Odin's funeral_) [this is a silent issue in memory of 9/11 victims]
+- #51, 68-79 (_The reigning, Gods and Men_) [this is a dystopian story of what happens if Thor rules over Earth]
+
+Thor: Vikings #1-5
 
 Notes: 
 - Thor (1998) #1 happens after Avengers (1998) #3
@@ -1083,7 +1090,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (614 issues)
+### New Avengers Era (2004-2012) (620 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1358,6 +1365,10 @@ Avengers #31-34 (_Return of Janet_)
 Age of Ultron #1-10
 
 ### Modern Marvel Cosmic
+
+Thanos #7-12 (_revolt at the k
+Klyn, Thanos confronts the Beyonder and the Fallen One_)
+
 Annihilation:
 - Drax the Destroyer #1-4
 - Annihilation Prologue 
