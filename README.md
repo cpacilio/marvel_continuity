@@ -1419,6 +1419,17 @@ The Thanos imperative:
 
 Silver Surfer (2011) #1-5 (_High Evolutionary, Future Foundation_) [happens after Johnny's death and before Mighty Thor (2011) #1-6]
 
+__Short summary of Marvel Cosmic brtween 2004 and 2011:__
+- Thanos visits the Klyn, a maximum security cosmic prison, where he battles the Beyonder. He attacks the Beyonder–in its feminine form of the Creator–and the Fallen One–the first herald of Galactus.
+- Annihilus invades the Universe from the Negative Zone. The Annihilation wave destroys Xandar and the Skrull homeworld. Thanos allies with Annihilus. Meanwhile, the Supreme Intelligence is killed.
+- Thanos helps Annihilus to capture Galactus, but then he regrets. However, before he can set Galactus free, he is killed by Drax.
+- Galactus is freed and attacks Annihilus, who is ultimately killed by Nova.
+- Ultron controls the Phalanx to conquer the Universe. After his defeat, the Guardians of the Galaxy are put back together by Star-Lord.
+- Adam Warlock finds Thanos' body and preserves it in a cocoon. The cocoon is then found by Magus' Universal Church of Truth and later brought back to life.
+- After the Secret Invasion, the Inhumans leave the Solar System and settle to Hala as the new rulers of the Kree. This status is sealed by the wedding of Crystal and Ronan.
+- Emperor Vulcan invades the Kree, unleashing the fury of Black Bolt. During the final battle between Vulcan and Black Bolt, they both die and the energy released during the battle open the Fault, a rift in the fabric of spacetime. 
+- The Fault is revealed to be a portal through the Cancerverse. Thanos and the Guardians of the Galaxy manage to stop the invasion from the Cancerverse, but Nova and Star-Lord sacrifice to keep Thanos within the cancerverse before the closure of the Fault.
+
 #### Notes
 - Young Avengers #1 is set before New Avengers, before Winter Soldier, and before Jessica Jones gives birth.
 - Marvel Knights Spider-Man #2: The Kingpin is decayed and The Owl is trying to take his place as the boss of the underground mob. It causes continuity issues because the Howl was arrested in Daredevil prior to this story.
