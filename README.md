@@ -972,7 +972,11 @@ Tomb of Dracula #44, Doctor Strange #14, 59-62 (_Dracula, Darkholders_)
 
 Doctor Strange and Doctor Doom: Triumph and Torment (_Strange helps to free Doom's mother's soul from Hell_)
 
-### Marvel Knights (47 issues)
+### Marvel Knights (59 issues)
+
+__Punisher:__
+
+Punisher (2000) #1-12 (_Welcome back Frank_)
 
 __Black Panther:__
 
