@@ -46,7 +46,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (225 issues)
+### Daredevil (224 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -183,7 +183,7 @@ Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
 Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
 
-### Spider-Man (458 issues)
+### Spider-Man (466 issues)
 
 #### Silver Age (1962-1973)
 
@@ -396,7 +396,7 @@ The Clone Saga (see Notes below):
 - Sensational SM #5, ASM #412, (_Connection between Dr. Trainer and Osborn Industries_)
 - SM #69 (_Confrontation with cyber Hobgoblin, Peter and MJ move back to NY_)
 - Sensational SM #6 (_Jessica accepts the truth about her father_)
-- Spider-Man: Redemption (_Kaine's and Janine's redemption_) __[Favourite]__
+- Spider-Man: Redemption #1-4 (_Kaine's and Janine's redemption_) __[Favourite]__
 - SM #70-71 (_Don Fortunato, Peter hospitalized critically_)
 - SM #72 (_Sentinels, Onslaught tie-in_)
 - SM #73-74 (_Don Fortunato & Hydra_)
@@ -499,7 +499,7 @@ ASM-2 #529 (_Iron Spider, Tony foreshadows the registration act_)
 
 __Note:__ New Avengers #16-20 happen here (because Spider-Man wears the Iron-Spider suit)
 
-Civil War #1-7
+_Civil War happens here_
 
 ASM-2 #538 (_End of Civil War, Kingpin sends a sniper_)
 
@@ -561,7 +561,7 @@ ASM-2 #658 (_SM joins the F4_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (355 issues)
+### Fantastic Four (340 issues)
 
 __[Note]: The F4 appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after F4 Annual #2.__
 
@@ -754,7 +754,7 @@ Notes:
 - Silver Surfer (2011) #1-5 happens between FF 3 and 4.
 - Jonathan Hickman's run on serves also as a restoration of the status of Marvel Cosmic. When the run started, Annihilus had been reverted to an egg and the Supreme Intelligence had been killed during the Annihilation event, the Inhumans had left the Solar System to conquer the Kree Empire, Crystal was married to Ronan, and Thanos was trapped and presumably dead within the Fault. By the end of his run, Hickman put almost everything back in place bar Thanos (who would however be restored into the main continuity during Hickman's first Avengers event).
 
-### Classic Avengers (1963-) (292 issues)
+### Classic Avengers (1963-) (277 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -874,7 +874,7 @@ __Note:__ 'Onslaught' and 'Heroes Reborn' happen here.
 __Avengers by Kurt Busiek:__
 - Avengers (1998) #1-4 (_Heroes Return, Morgana Le Fey uses Scarlet to change reality, the Avengers' new roster_)
 - Iron-Man #7, Captain America #6, Quicksilver #10, Avengers#7 (_Live Kree or die_)
--  #10-11 (_the Grim Reaper, resurrection of Simon_)
+- #10-11 (_the Grim Reaper, resurrection of Simon_)
 - Avengers Forever #1-12
 - #0
 - #19-22 (_Ultron unlimited_)
@@ -895,7 +895,7 @@ __Other cosmic developments:__
 
 ### Classic Marvel Era (1961-1998)
 
-#### Thor (135 issues)
+#### Thor (133 issues)
 
 __Thor by Lee & Kirby:__
 - Journey into mistery #124-125 + Thor #126-130 (_Thos vs Hercules_)
