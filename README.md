@@ -1484,7 +1484,7 @@ New Avengers #7 (_Namor vs Wakanda_)
 
 Avengers #14-17
 
-__Infinity:_
+Infinity:
 - Infinity #1
 - New Avengers #8-9
 - Avengers #18
@@ -1510,7 +1510,7 @@ Avengers #24 (_Rogue planet_)
 
 Avengers #25-28 (_A.I.M. brings evil Avengers from an incursion, Bruce joins the Illuminati, A.I.M. adaptoids join the Map Makers_)
 
-__Original Sin:__
+Original Sin:
 - Original Sin #1-8 (_main event_)
 - Original Sin #5.1-5.5 (_Angela, the tenth realm_)
 
