@@ -1460,7 +1460,7 @@ __Short summary of Marvel Cosmic brtween 2004 and 2011:__
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
 - Age of Ultron was published in the Marvel Now era, but it serves better as the conclusion of Bendis’s Avengers.
 
-### Marvel Now (2012-) (92 issues)
+### Marvel Now (2012-) (100 issues)
 
 Avengers Assemble: Annual #1 (_Vision leaves the Avengers_)
 
@@ -1518,9 +1518,14 @@ Guardians of the Galaxy #18-20 (_Retcon of how Thanos, Drax, and Peter returned 
 
 Avengers #29-34 (_Cap travels in time and meets future Franklin_)
 
+New Avengers #16-22 (_Incursion of the Great Society's planet_)
+
+New Avengers #23 (_Namor forms the Cabal_)
+
 Notes:
 - You don't need to read Avengers to follow New Avengers, but for Avengers #28-34, (TB updated)
 - Strictly speaking, the events in Avengers #29-34 occur immediately after Original Sin #2. However, they are largely independent of the main event. Moreover, the feelings of Cap and the other Avengers towards the Illuminati at the end of Avengers #34 do not align with the continuation of Original Sin. Since you cannot resolve the inconsistency, you can at least aim at a smooth reading, which definitely corresponds to reading Avengers #29-34 after the conclusion of Original Sin.
+- In New Avengers #23 we are gently updated on the status of some Marvel Universe events happened in the recent past on other titles: Beast brought the past X-Men into the present, and Valeria moved in Doom's castle in Latveria.
 
 ### ULTIMATE MARVEL UNIVERSE (389 issues)
 
