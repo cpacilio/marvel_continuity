@@ -46,7 +46,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (224 issues)
+### Daredevil (236 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -172,6 +172,15 @@ _New Avengers #11 happens here_
 Daredevil: Redemption #1-6
 
 - DD 76-81 (_the Murdock papers_)
+
+__DD by Brubaker and Lark:__
+- #82-87 (_Daredevil in prison_)
+
+_Civil War happens here_
+
+_Spider-Man: Back in black happens here_
+
+- #88-93 (_Matt and Kingpin are set free of charges_)
 
 Notes:
 - Alias #11-15 has many elements from Twin Peaks.
