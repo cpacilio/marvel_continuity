@@ -1442,10 +1442,9 @@ __Short summary of Marvel Cosmic brtween 2004 and 2011:__
   - It happens immediately before Daredevil 76-81; 
   - Iron-Man comments that madame Hydra went off radar two months before; it happened in Daredevil 64.
   - Wolverine is on a mission with the X-Men;
-- The Pulse #11-14:
-  - The identity of Daredevil is unknown to the general public but is known to Ben Urich and I seem to understand that the FED's also know it;
 - During Sentry (2005) #1-8, Nick Fury appears as the head of SHIELD, despite he is dismissed at the end of Secret War. This is probably due to the publication delays suffered by Secret War.
 - During the Civil War, Dr. Strange and Wolverine are absent.
+- During Civil War, Danny Rand impersonates Daredevil.
 - Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_.
 - AMS 529: it is set before Daredevil #93.
 - New avengers 35: Wilson Fisk is again considered decayed.
