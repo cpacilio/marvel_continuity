@@ -46,7 +46,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (236 issues)
+### Daredevil (265 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -181,10 +181,18 @@ _Civil War happens here_
 _Spider-Man: Back in black happens here_
 
 - #88-93 (_Matt and Kingpin are set free of charges_)
+- #94-105 (_Gladiator, Mr. Fear_)
+- Annual 2007 (_Black Tarantula_)
+- #106 (_Matt descends into a violent spiral_)
+- Daredevil: Blood of the Tarantula
+- #107-110 (_Big Ben_)
+- #111-115 (_Lady Bullseye_)
+- #116-119 + 500 (_Return of Kingpin, Matt becomes leader of the Hand_)
 
 Notes:
 - Alias #11-15 has many elements from Twin Peaks.
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
+- While not explicitly stated, Lady Bullseye's origin's flashback is most logically placed right after Frank Miller’s run, between Daredevil 199 and 200, when Bullseye had been brought to Japan.
 
 ### Hulk
 
