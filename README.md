@@ -44,6 +44,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [Miles Morales](https://www.marvel.com/comics/characters/1016181/spider-man_miles_morales)
 
+[X-Men reading order](https://ultimatexmenreadingorder.com/x-men-era-two-the-uncanny-x-men-1974-1983/)
+
 ## Marvel Universe Reading Order
 
 ### Daredevil (265 issues)
