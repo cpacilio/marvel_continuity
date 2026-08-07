@@ -200,7 +200,7 @@ Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
 Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
 
-### Spider-Man (466 issues)
+### Spider-Man (468 issues)
 
 #### Silver Age (1962-1973)
 
@@ -547,6 +547,9 @@ ASM-2 #654 (_Death of Marla Jameson, Origin of the new Venom_)
 ASM-2 #654.1 (_Showcase of the new Venom_)
 
 ASM-2 #658 (_SM joins the F4_)
+
+__Superior Spider-Man:__
+- ASM-2 #699-700 (_Octopus swaps his mind with Peter_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -1464,7 +1467,7 @@ __Short summary of Marvel Cosmic brtween 2004 and 2011:__
 - During Civil War, Danny Rand impersonates Daredevil.
 - Captain America #28: Charles Xavier walks on his own legs and helps Tony stark with telepatic powers. Therefore it is set after _House of M_ and after _The Rise and Fall of the Shi'ar Empire_.
 - AMS 529: it is set before Daredevil #93.
-- New avengers 35: Wilson Fisk is again considered decayed.
+- New avengers 35: Wilson Fisk is again considered decayed, as a result of the events of Daredevil 93. Kingpin returns to New York after Secret Invasion, in Daredevil 116.
 - The Incredible Hulk #95: happens before Annihilation: Silver Surfer.
 - World War Hulk #2: Tempest is introduced as Black Panther's wife.
 - New Avengers #38: Spider-Man is back in his original suit, therefore *one more day* happens between NA Annual #2 and NA #38.
