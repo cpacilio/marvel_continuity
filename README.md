@@ -48,7 +48,7 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 ## Marvel Universe Reading Order
 
-### Daredevil (265 issues)
+### Daredevil (288 issues)
 
 Origin story:
 There are many versions of DD's origins. I prefer:
@@ -190,6 +190,23 @@ _Spider-Man: Back in black happens here_
 - #107-110 (_Big Ben_)
 - #111-115 (_Lady Bullseye_)
 - #116-119 + 500 (_Return of Kingpin, Matt becomes leader of the Hand_)
+
+Dark Reign: The List – Daredevil 
+
+DD #501-507 (_Daredevil becomes leader of the Hand_)
+
+Shadowland:
+- Shadowland #1
+- DD #508-509
+- Shadowland #2-3
+- DD #510
+- Shadowland #4
+- Daredevil #511
+- Shadowland #5
+- Daredevil #512
+- Shadowland: After the fall
+
+Daredevil: Reborn #1-4
 
 Notes:
 - Alias #11-15 has many elements from Twin Peaks.
