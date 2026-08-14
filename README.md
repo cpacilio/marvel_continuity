@@ -46,6 +46,8 @@ Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One 
 
 [X-Men reading order](https://ultimatexmenreadingorder.com/x-men-era-two-the-uncanny-x-men-1974-1983/)
 
+[Byrne FAQ](https://web.archive.org/web/20130126025406/http://www.byrnerobotics.com/FAQ/listing.asp?ID=2&T1=Questions+about+Comic+Book+Projects#164)
+
 ## Marvel Universe Reading Order
 
 ### Daredevil (288 issues)
