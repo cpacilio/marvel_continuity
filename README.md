@@ -215,11 +215,13 @@ Notes:
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
 - While not explicitly stated, Lady Bullseye's origin's flashback is most logically placed right after Frank Miller’s run, between Daredevil 199 and 200, when Bullseye had been brought to Japan.
 
-### Hulk
+### Hulk (9 issues)
 
 Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
-Incredible Hulk (1962) #141 (_Origin of Doc Samson_)
+Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
+
+IH #180-181 (_Wendigo, introduction of Wolverine_)
 
 ### Spider-Man (468 issues)
 
@@ -933,6 +935,25 @@ __Other cosmic developments:__
   - Thanos: Infinity Abyss #1-6
   - Marvel Universe: The End #1-6
   - Thanos #1-6 (_Hunger, Galactus_)
+
+### Classic X-Men (44 issues)
+
+Uncanny X-Men  (UXM) #50-52 (_Dorna is Magneto's daughter_) [#50-51 are drawn by Jim Steranko, who also introduced the new X-Men logo in #50's cover]
+
+UXM #55-63, 65-66 (_Havok, the Sentinels, Sauron, the Savage Land, return of Prof. X, Hulk_) [X-Men by Roy Thomas and Neal Adams, with contributions from Dennis O'Neil and Sal Buscema] __[Favourite]__
+
+X-Men (1991) #94.2 + X-Men: Hidden years #1-22
+
+Amazing Adventures #11 (_Hank becomes furry Beast_)
+
+Giant Size X-Men #1 + UXM #94-95 (_Second Genesis, death of Thunderbird_)
+
+Classic X-Men #1-3
+
+Notes:
+- Prof. X is believed dead prior to UXM #50.
+- Before Giant Size X-Men #1, Beast joins the Avengers.
+- Classic X-Men contains back-up stories exploring the dynamics among the X-Men behind the scenes of issues 94-128.
 
 ### Classic Marvel Era (1961-1998)
 
