@@ -604,7 +604,7 @@ __Superior Spider-Man:__
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 
-### Fantastic Four (340 issues)
+### Fantastic Four (344 issues)
 
 __[Note]: The F4 appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after F4 Annual #2.__
 
@@ -727,6 +727,8 @@ Inhumans (2000) #1-4 (_Ronan kidnaps the Inhumans to battle the Shi'ar_)
 F4 #51-54 (_Inhumans relocated on the moon, Doom helps Susan to give birth to Valeria_)
 
 "Fantastic Four: 1234" #1-4 [An out-of-continuity miniseries by Grant Morrison and Jae Lee]
+
+Fantastic Four: Antithesis #1-4 [This is marginally out of continuity, because Silver Surfer being Galactus' herald is difficult to reconcile at this point of the continuity, but everything else fits here]
 
 __F4 by Mark Waid:__
 - #60-66 (_Imaginauts_) [Mark Waid restyles the F4]
