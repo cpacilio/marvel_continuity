@@ -938,7 +938,7 @@ __Other cosmic developments:__
   - Marvel Universe: The End #1-6
   - Thanos #1-6 (_Hunger, Galactus_)
 
-### Classic X-Men (44 issues)
+### Classic X-Men (62 issues)
 
 Uncanny X-Men  (UXM) #50-52 (_Dorna is Magneto's daughter_) [#50-51 are drawn by Jim Steranko, who also introduced the new X-Men logo in #50's cover]
 
@@ -948,14 +948,34 @@ X-Men (1991) #94.2 + X-Men: Hidden years #1-22
 
 Amazing Adventures #11 (_Hank becomes furry Beast_)
 
-Giant Size X-Men #1 + UXM #94-95 (_Second Genesis, death of Thunderbird_)
+Giant Size X-Men #1 + UXM #94-95 + Classic X-Men #1,3 (_Second Genesis, death of Thunderbird_)
 
-Classic X-Men #1-3
+Classic X-Men #2, 4-6
+
+Classic X-Men #7 (_the Infernal club_)
+
+UXM #101 + Classic X-Men #8 (_Awakening of the Phoenix_)
+
+UXM #102 [includes Storm's origin as a short flashback, which is expanded by John Romita Sr. in Classic X-Men #10]
+
+Classic X-Men #9-11
+
+Classic X-Men #12 (_Magneto's past flashback_)
+
+Classic X-Men #13-14
+
+UXM #107-108 (_emperor D'Ken, the M'Kraan Crystal_) [Classic X-Men #15 presents an edited version of UXM #108 where we see the first appearance of the dark phoenix]
+
+Classic X-Men #15 (_Origin of the Starjammers_)
+
+UXM #109 (_Weapon Alpha_) [extra pages in Classic X-Men #16]
+
+Classic X-Men #16 (_flashback from Banshee's past_)
 
 Notes:
 - Prof. X is believed dead prior to UXM #50.
-- Before Giant Size X-Men #1, Beast joins the Avengers.
-- Classic X-Men contains back-up stories exploring the dynamics among the X-Men behind the scenes of issues 94-128.
+- Prior to Giant Size X-Men #1, Beast joins the Avengers.
+- Classic X-Men contains back-up stories exploring the dynamics among the X-Men behind the scenes of issues 94-138.
 
 ### Classic Marvel Era (1961-1998)
 
