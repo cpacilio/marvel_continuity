@@ -799,7 +799,7 @@ Notes:
 - Silver Surfer (2011) #1-5 happens between FF 3 and 4.
 - Jonathan Hickman's run on serves also as a restoration of the status of Marvel Cosmic. When the run started, Annihilus had been reverted to an egg and the Supreme Intelligence had been killed during the Annihilation event, the Inhumans had left the Solar System to conquer the Kree Empire, Crystal was married to Ronan, and Thanos was trapped and presumably dead within the Fault. By the end of his run, Hickman put almost everything back in place bar Thanos (who would however be restored into the main continuity during Hickman's first Avengers event).
 
-### Classic Avengers (1963-) (277 issues)
+### Classic Avengers (1963-) (281 issues)
 
 Avengers #3-4 (_Avengers vs Sub-Mariner & Hulk, Capt. America awakens_)
 
@@ -856,6 +856,7 @@ __Infinity trilogy by Jim Starlin:__
 - Infinity War:
   - Warlock and the Infinity Watch #7 (_Monster Island, Arrival of Thanos_)
   - Infinity War #1-3
+  - Marvel Comics Presents #108-111 (_Thanos meets Death_) [happens right after panel 6, page 26 of Infinity War #3]
   - Warlock and the Infinity Watch #8
   - Infinity War #4
   - Warlock and the Infinity Watch #9 (_Origin story of Gamora_)
