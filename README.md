@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (468 issues)
+### Spider-Man (484 issues)
 
 #### Silver Age (1962-1973)
 
@@ -573,6 +573,12 @@ ASM-2 #658 (_SM joins the F4_)
 
 __Superior Spider-Man:__
 - ASM-2 #699-700 (_Octopus swaps his mind with Peter_)
+- SSM #1-6 (_intro to SSM_)
+- SSM #7-8 (_Cardiac_)
+- SSM #9-10 (_Octopus frees himself from Peter, return of Goblin_
+- SSM #11-13 (_Spider-Slayer_)
+- SSM #14-16 (_SM destroys Shadowland, Hobgoblin_)
+
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
