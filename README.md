@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (484 issues)
+### Spider-Man (499 issues)
 
 #### Silver Age (1962-1973)
 
@@ -578,6 +578,10 @@ __Superior Spider-Man:__
 - SSM #9-10 (_Octopus frees himself from Peter, return of Goblin_
 - SSM #11-13 (_Spider-Slayer_)
 - SSM #14-16 (_SM destroys Shadowland, Hobgoblin_)
+- SSM #17-19 (_Spider-Man 2099_)
+- SSM #20-21 (_Stunner, Peter/Otto earns his doctorate_)
+- SSM #22-25 (_Venom_)
+- SSM #26-31 (_Goblin Nation, Peter comes back_)
 
 
 #### Notes
