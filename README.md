@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (499 issues)
+### Spider-Man (509 issues)
 
 #### Silver Age (1962-1973)
 
@@ -565,11 +565,15 @@ ASM-2 #600 (_Wedding of Aunt May and Jay Jamenson, Doc Ock is terminally ill_)
 
 ASM-2 #638-641 (_One moment in time_)
 
-ASM-2 #654 (_Death of Marla Jameson, Origin of the new Venom_)
+ASM-2 #648-651 (_Hobgoblin, Peter starts working for Horizon Labs_)
+
+AMS-2 #652-654 (_Spider-Slayer, death of Marla Jameson_)
 
 ASM-2 #654.1 (_Showcase of the new Venom_)
 
 ASM-2 #658 (_SM joins the F4_)
+
+AMS-2 #695-697 (_Return of Hobgoblin, Norman Osborn escapes_)
 
 __Superior Spider-Man:__
 - ASM-2 #699-700 (_Octopus swaps his mind with Peter_)
@@ -582,7 +586,6 @@ __Superior Spider-Man:__
 - SSM #20-21 (_Stunner, Peter/Otto earns his doctorate_)
 - SSM #22-25 (_Venom_)
 - SSM #26-31 (_Goblin Nation, Peter comes back_)
-
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
