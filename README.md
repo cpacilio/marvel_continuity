@@ -1152,6 +1152,8 @@ Wolverine: The Origin #1-6
 
 Wolverine (2003) #1-
 
+Wolverine (2003) #66-72 + Old Man Logan: Giant Size (_Old Man Logan_)
+
 ### X-Men Modern Era (2001-)
 
 In the Modern Era, X-Men comic books are best represented by two flagship titles: _New X-Men_ (2001-2004) by Grant Morrison and _Astonishing X-Men_ by Joss Whedon (2004-2008). Both runs can be read independently from other titles running in parallel (with the small exception of AXM #14, mentioning the appointment of Maria Hill as the new head of SHIELD after _Secret War_).
