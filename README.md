@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (509 issues)
+### Spider-Man (522 issues)
 
 #### Silver Age (1962-1973)
 
@@ -563,6 +563,8 @@ ASM-2 #584-588 (_Menace revealed_)
 
 ASM-2 #600 (_Wedding of Aunt May and Jay Jamenson, Doc Ock is terminally ill_) 
 
+AMS-2 #627-629 (_Captain Universe vs the Juggernaut_)
+
 ASM-2 #638-641 (_One moment in time_)
 
 ASM-2 #648-651 (_Hobgoblin, Peter starts working for Horizon Labs_)
@@ -570,6 +572,8 @@ ASM-2 #648-651 (_Hobgoblin, Peter starts working for Horizon Labs_)
 AMS-2 #652-654 (_Spider-Slayer, death of Marla Jameson_)
 
 ASM-2 #654.1 (_Showcase of the new Venom_)
+
+Spider-Men #1-5 (_Solution of Mysterio's subplot in the Ultimate Universe_)
 
 ASM-2 #658 (_SM joins the F4_)
 
@@ -586,6 +590,8 @@ __Superior Spider-Man:__
 - SSM #20-21 (_Stunner, Peter/Otto earns his doctorate_)
 - SSM #22-25 (_Venom_)
 - SSM #26-31 (_Goblin Nation, Peter comes back_)
+
+AMS-3 #1-5 (_Introduction of Silk_)
 
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
@@ -616,6 +622,7 @@ __Superior Spider-Man:__
 - AMS-2 519-524 and "The Other" are set before New Avengers #7, because Sentry is not present.
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
+- AMS-2 #627-629 happens just before Shadowland
 
 ### Fantastic Four (344 issues)
 
