@@ -1235,7 +1235,7 @@ Astonishing X-Men #13-24 + Giant Size Astonishing X-Men #1
 - Astonishing X-Men #13: Maria Hill is deputy of Shield, therefore it happens after Secret War; the Sentinels do not guard the school 
 - Giant Size Astonishing X-Men #1: the fate of Danger is left unknown (Danger comes back after Secret Invasion in X-Men Legacy #220)
 
-### New Avengers Era (2004-2012) (620 issues)
+### New Avengers Era (2004-2012) (604 issues)
 
 Thor #80-85 (_Ragnarok_)
 
@@ -1509,7 +1509,7 @@ Avengers #31-34 (_Return of Janet_)
 
 Age of Ultron #1-10
 
-### Modern Marvel Cosmic
+### Modern Marvel Cosmic (112 issues)
 
 Thanos #7-12 (_revolt at the k
 Klyn, Thanos confronts the Beyonder and the Fallen One_)
