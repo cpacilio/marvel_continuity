@@ -1667,6 +1667,10 @@ Notes:
 - Strictly speaking, the events in Avengers #29-34 occur immediately after Original Sin #2. However, they are largely independent of the main event. Moreover, the feelings of Cap and the other Avengers towards the Illuminati at the end of Avengers #34 do not align with the continuation of Original Sin. Since you cannot resolve the inconsistency, you can at least aim at a smooth reading, which definitely corresponds to reading Avengers #29-34 after the conclusion of Original Sin.
 - In New Avengers #23 we are gently updated on the status of some Marvel Universe events happened in the recent past on other titles: Beast brought the past X-Men into the present, and Valeria moved in Doom's castle in Latveria.
 
+### POST SECRET WARS ERA (2015-) (12 issues)
+
+Vision #1-12 [this is an amazing volume] __[Favourite]__
+
 ### ULTIMATE MARVEL UNIVERSE (389 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
