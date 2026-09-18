@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (522 issues)
+### Spider-Man (533 issues)
 
 #### Silver Age (1962-1973)
 
@@ -419,6 +419,13 @@ PPSSM #213-214 (_Bloody Mary_) __[Favourite]__
 
 Spider-Man: Legacy of Evil (_Ben Urich exposes Goblin's identities_) [not on MU] __[Favourite]__
 
+Spider-Man 2099 (1993)
+- #1-3 (_Origin story_)
+- #4 (_With great power...")
+- #10 (_We learn of Miguel's past_)
+- #25 (_Miguel discovers his true father_)
+- Spider-Man meets Spider-Man 2099
+
 The Clone Saga (see Notes below):
 - The Clone Journal (_Fast recap of the initial events_)
 - Spider-Man: The lost years #0-3 (_Ben's backstory in the past five years_) __[Favourite]__
@@ -593,6 +600,8 @@ __Superior Spider-Man:__
 
 AMS-3 #1-5 (_Introduction of Silk_)
 
+Spider-Man 2099 (2014) #1-4 (_Miguel adjustes to his new life in 2014_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 borrows the origins of the Vulture from ASM #241.
@@ -610,6 +619,7 @@ AMS-3 #1-5 (_Introduction of Silk_)
 - The main antagonist of the story-arc Torment in SM #1-5 is Calypso. She was introduced as Kraven's partner and lover in AMS #209. There she had a manipulatory attitude towards Kraven, insisting on his virility to push him to fight Spider-Man.
 - After PPSSM #150, the events in WSM #51, PPSM #151, PPSSM #152, WSM #53, PPSSM #153, WSM #54, PPSSM #154, WSM #55 [not on MU] (_Gang War with Lobo Brothers, Robbie in prison_) occur. I found them boring.
 - WSM #84-89 (_Name of the Rose_) [not on MU]. #84-86 takes Place before DD #300, after which Kingpin is set out of power from Hydra; Hobgoblin is in a bad shape after Ghost Rider #16-17 and Moonknight #32-33. Richard Fisk "dies" and the misterious Bloody Rose is born. I found these issues boring.
+- "Spider-Man meets Spider-Man 2099" is set DURING the Clone Saga, before rhe big reveal in Spectacular Spider-Man #226. I placed it before for the smoothness of the reading, and because the references to the Clone Saga are only vague.
 - Romita Jr's art for SM is exceptional. 
 - In PPSSM #237 Peter starts to regain his powers.
 - In ASM #416 Peter is fired from the Bugle due to the journal's financial crisis. He still serves as a freelance for them.
