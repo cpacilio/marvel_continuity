@@ -1681,7 +1681,7 @@ Notes:
 
 Vision #1-12 [this is an amazing volume] __[Favourite]__
 
-### ULTIMATE MARVEL UNIVERSE (389 issues)
+### ULTIMATE MARVEL UNIVERSE (424 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1907,6 +1907,30 @@ Ultimate Comics SM #155-160 (_Death of Spider-Man_)
 Ultimate Fallout #1-6 [a series of short stories setting the stage for the next phase of the Ultimate Universe]
 
 --------------------
+
+Ultimate Comics Ultimates #1-4 (_The Maker and the children of tomorrow_)
+
+Ultimate Comics Ultimates #5-6 (_The world_)
+
+--------------------
+
+Ultimate Comics Spider-Man (2011) #1-12 (_Origins of Miles Morales/Spider-Man_)
+
+--------------------
+
+Ultimate Comics Ultimates #7-12 (_confrontation with the Maker_)
+
+--------------------
+
+Ultimate Comics SM #13-14 (_May gives Miles the web shooters_)
+
+Ultimate Comics SM #15-18 (_Miles joins the Ultimates vs Hydra, Captain America becomes US president_)
+
+Ultimate Comics SM #16.1 (_Betty Brant investigates SM identity, appearance of the new Venom_)
+
+Spider-Men #1-5 (_Solution of Mysterio's subplot_)
+
+Ultimate Comics Spider-Man #19-22 (_Venom, death of Miles' mother_)
 
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
