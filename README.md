@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (533 issues)
+### Spider-Man (537 issues)
 
 #### Silver Age (1962-1973)
 
@@ -528,7 +528,9 @@ Spectacular SM #15-20 (_Ana, Peter mutates_)
 
 The Pulse #1-5 (_Norman Osborn revealed, Ben Urich knows about Peter_) __[Favourite]__
 
-ASM-2 509-514 (_Sarah and Gabriel Stacy_)
+ASM-2 #509-514 (_Sarah and Gabriel Stacy_)
+
+AMS-2 #515-518 (_Skin deep_)
 
 Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
 
