@@ -528,15 +528,15 @@ Spectacular SM #15-20 (_Ana, Peter mutates_)
 
 The Pulse #1-5 (_Norman Osborn revealed, Ben Urich knows about Peter_) __[Favourite]__
 
+Marvel Knights SM #1-12 __[Favourite]__
+
 ASM-2 #509-514 (_Sarah and Gabriel Stacy_)
+
+__Note:__ New Avengers #1-6 happen here
 
 AMS-2 #515-518 (_Skin deep_)
 
 Spectacular SM #23-26 (_Gabriel and Sarah Stacy in London_)
-
-Marvel Knights SM #1-12 __[Favourite]__
-
-__Note:__ New Avengers #1-6 happen here
 
 ASM-2 #519-524 (_Peter, May and MJ move to Stark Tower. Return of Hydra_)
 
