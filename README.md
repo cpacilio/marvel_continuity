@@ -1683,7 +1683,7 @@ Notes:
 
 Vision #1-12 [this is an amazing volume] __[Favourite]__
 
-### ULTIMATE MARVEL UNIVERSE (424 issues)
+### ULTIMATE MARVEL UNIVERSE (449 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1910,6 +1910,8 @@ Ultimate Fallout #1-6 [a series of short stories setting the stage for the next 
 
 --------------------
 
+Ultimate Comics Hawkeye #1-4
+
 Ultimate Comics Ultimates #1-4 (_The Maker and the children of tomorrow_)
 
 Ultimate Comics Ultimates #5-6 (_The world_)
@@ -1933,6 +1935,23 @@ Ultimate Comics SM #16.1 (_Betty Brant investigates SM identity, appearance of t
 Spider-Men #1-5 (_Solution of Mysterio's subplot_)
 
 Ultimate Comics Spider-Man #19-22 (_Venom, death of Miles' mother_)
+
+Ultimate Comics Spider-Man #23-28 (_Spider-Man no more, Roxxon_)
+
+--------------------
+
+Cataclysm:
+- Hunger #1-4
+- Cataclysm #0.1
+- Cataclysm: Ultimate Comics SM #1
+- The Ultimates' last stand #1
+- Cataclysm: Ultimate Comics SM #2-3
+- The Ultimates' last stand #2-5
+- Cataclysm: Survive
+
+--------------------
+
+Ultimate Comics SM #200 (_second anniversary of Peter's death_)
 
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
