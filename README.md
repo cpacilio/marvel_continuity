@@ -1683,7 +1683,7 @@ Notes:
 
 Vision #1-12 [this is an amazing volume] __[Favourite]__
 
-### ULTIMATE MARVEL UNIVERSE (449 issues)
+### ULTIMATE MARVEL UNIVERSE (461 issues)
 
 USM #1-7 (_Birth of SM, Battle with Goblin_)
 
@@ -1953,7 +1953,17 @@ Cataclysm:
 
 Ultimate Comics SM #200 (_second anniversary of Peter's death_)
 
+_Spider-Verse happens here_
+
+Miles Morales: Ultimate Spider-Man #1-7 (_Return of Norman and Peter_)
+
+Miles Morales: USM #8-9 (_Miles' father hidden past_)
+
+Miles Morales: USM #10-12 (_Hydra and Dr. Doom_)
+
 #### Notes
 - You can read USM #46 after #21 or before U-Six #1
 - USM #45 is a nice interlude with Aunt May talking with her psychotherapist about Peter
+- In Ultimate FF #32, Doctor Doom teleports to the zombie universe, at a moment when the zombies are devouring Galactus. This moment occurs in between a time jump at the end of Marvel Zombies #5, but Marvel never revealed what happened to Doom and how he returned to the Ultimate Universe.
 - I prefer to read Ultimate Avengers vs New Ultimates before USM #155-160 to keep momentum with the Avegers continuity. The death of Spider-Man is just tangential there and actually it acts as a tease to read USM.
+- During Cataclysm, Miles travels to Universe 616, where he meets Superior Spider-Man.
