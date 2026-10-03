@@ -223,7 +223,7 @@ Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
 
-### Spider-Man (537 issues)
+### Spider-Man (541 issues)
 
 #### Silver Age (1962-1973)
 
@@ -604,6 +604,8 @@ AMS-3 #1-5 (_Introduction of Silk_)
 
 Spider-Man 2099 (2014) #1-4 (_Miguel adjustes to his new life in 2014_)
 
+Spider-Man 2099 #9-10 (_Hulk Maestro_) + #11-12 (_Cure of Tempest_)
+
 #### Notes
 - SM Ch.One #3 portrays the events of ASM #2 but it also reveals the truth behind the aliens, borrowing from the flaskback scenes originally portrayed in PPSSM #51.
 - SM Ch.One #0 borrows the origins of the Vulture from ASM #241.
@@ -635,6 +637,28 @@ Spider-Man 2099 (2014) #1-4 (_Miguel adjustes to his new life in 2014_)
 - "The Other" is a 12-issues crossover spanning: Friendly Neighborhood SM #1, MKSM #19, AMS-2 #525, Friendly Neighborhood SM #2, MKSM #20, AMS-2 #526, Friendly Neighborhood SM #3, MKSM #21, AMS-2 #527, Friendly Neighborhood SM #4, MKSM #22, AMS-2 #528. I find that it does not fulfil its grand premises. Moreover, many elements introduced here are not referenced in SM stories. Still, AMS-2 #526-527 have good story and art, and they can be read without having the overall picture. In MKSM #20 Peter and MJ go to the moon and we see the Collective floating above the Earth, therefore, this issue is set before New Avengers #16-20.
 - AMS-2 #538 happens before Daredevil #93.
 - AMS-2 #627-629 happens just before Shadowland
+- The Spider-verse is a messy event and I don't like at all. However, if you really care, the reading order is
+  - Superior Spider-Man #32
+  - Edge of the Spider-verse #1 (_Spider-Man Noir_) + #2 (_Gwen Stacy_)
+  - Superior Spider-Man #33
+  - AMS-3 #7-8 (_Team-Up with Kamala, Spider-UK_)
+  - Edge of the Spider-verse #5 (_Peni Parker aka Sp//dr_) [Optional but fun!]
+  - Spider-Man 2099 #5 (_Miguel meets Morlun_)
+  - AMS-3 #9-10 (_Gathering of the Spiders_)
+  - Spider-Woman #1
+  - Scarlet Spiders #1
+  - Spider-Man 2099 #6
+  - AMS-3 #11
+  - Scarlet Spiders #2
+  - Spider-Woman #2
+  - AMS-3 #12
+  - Spider-Man 2099 #7
+  - Scarlet Spiders #3
+  - AMS-3 #13
+  - Spider-Verse Team-Up #3
+  - Spider-Man 2099 #8
+  - AMS-3 #14-15
+- The events of Spider-Man 2099 #9-12 are interrupted by Secret Wars. Question: will they be reprised somewhere?
 
 ### Fantastic Four (344 issues)
 
