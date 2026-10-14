@@ -995,7 +995,7 @@ __Other cosmic developments:__
   - Marvel Universe: The End #1-6
   - Thanos #1-6 (_Hunger, Galactus_)
 
-### Classic X-Men (102 issues)
+### Classic X-Men (113 issues)
 
 Uncanny X-Men  (UXM) #50-52 (_Dorna is Magneto's daughter_) [#50-51 are drawn by Jim Steranko, who also introduced the new X-Men logo in #50's cover]
 
@@ -1062,6 +1062,20 @@ UXM 143 (_Kitty vs alien monster_)
 Avengers Annual #10 (_brotherhood of evil mutants, introduction of Rogue_)
 
 UXM #150 (_evolution of Magneto_)
+
+UXM #151-152 (_Return of the Hellfire Club_)
+
+UXM #154-157 (_Starjammers, Cyclops discovers that Corsair is his father, Deathbird and the Brood_)
+
+UXM #158 (_Brotherhood of mutants_)
+
+UXM #159 (_Dracula_)
+
+UXM #160 (_Belasco_)
+
+UXM #161 (_Young Xavier and Magneto vs Hydra_)
+
+X-Men Annual #6 (_Return of Dracula_)
 
 Notes:
 - Prof. X is believed dead prior to UXM #50.
