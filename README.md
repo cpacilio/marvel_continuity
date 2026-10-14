@@ -1,11 +1,11 @@
 ## About
-This repo keeps track of the reading order of Marvel comic books. 
+This repo keeps track of the reading order of Marvel comic books. __It is still a live page, as I have not yet finished reading them. Still, I read about ~3000 issues so far! It will be finished in a few years I guess...__
 
 It is not a comprehensive list: I'll take the freedom of skipping storylines that I do not bother about, unless they are strictly necessary to follow the major plots. 
 
 Storylines are not necessarily in chronological order. Rather, they are listed in the order that preserves smoothness of reading. For example, sometimes I prefer reading a main event first and to catch up with the tie-ins later. 
 
-Other notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the New Avengers, he appears with the black suit in the Avengers titles right after the Civil War, as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not essential to the Avengers and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers' plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
+Notable examples are the _Spider-Man: Back in black_ and _Spider-Man: One more day_ storylines. Since they deal with the aftermath of the Civil War on Spider-Man's life, I prefer to read them right after _Civil War_. But note that, since Spider-Man is a member of the New Avengers, he appears with the black suit in the Avengers titles right after the Civil War, as a consequence of the first issues of _Spider-Man: Back in black_. I opted to preserve the homogeneity in the reading of Spider-Man's storylines _Spider-Man: Back in black_ and _Spider-Man: One more day_ because they are not essential to the Avengers and they tell a story that deserves to be appreciated without interruptions. After reading them, the reader can return to the Avengers' plots and it will be super easy to figure out what is their relative timeline to Spider-Man.
 
 ## Online resources
 [mightyavengers.net/](https://web.archive.org/web/20190619145058/https://mightyavengers.net/)
@@ -1197,7 +1197,7 @@ Wolverine (2003) #1-
 
 Wolverine (2003) #66-72 + Old Man Logan: Giant Size (_Old Man Logan_)
 
-### X-Men Modern Era (2001-)
+### X-Men Modern Era (2001-) (134 issues)
 
 In the Modern Era, X-Men comic books are best represented by two flagship titles: _New X-Men_ (2001-2004) by Grant Morrison and _Astonishing X-Men_ by Joss Whedon (2004-2008). Both runs can be read independently from other titles running in parallel (with the small exception of AXM #14, mentioning the appointment of Maria Hill as the new head of SHIELD after _Secret War_).
 
@@ -1238,7 +1238,7 @@ Astonishing X-Men #7-12
 
 __Note__: Wolverine #20-31 (_Enemy of the State_) happens here
 
-Phoenix: Endsong
+Phoenix: Endsong #1-5
 
 __Note__: _Secret War_ happens here
 
