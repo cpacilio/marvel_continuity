@@ -745,7 +745,7 @@ Silver Surfer (1982) (_Silver Surfer returns on his planet, saves Shalla-Bal fro
 _Secret Wars #1-12_ happens here
 [NOTE: During the Secret Wars, Wanda and Vision are already married, Hawkeye has just married Mockingbird, and Banner is in control of his Hulk powers]
 
-- #265-267 (_She-Hulk replaces the Thing, Susan loses the baby_)[NOTE: in #266 we see Bruce in human form and able to control his powers, saying that his wife is almost dying]
+- #265-267 (_She-Hulk replaces the Thing, Susan loses the baby_)
 - #268 (_Mask of Doom_)
 - Annual #18 (_Wedding of Black Bolt and Medusa, truce between Krees and Skrulls_)
 - #269-270 (_Terminus, Johnny and Alicia start to have mutual feelings_)
@@ -866,8 +866,9 @@ __F4 by Jonathan Hickman:__
 - #611 (_Return of Doom, future Valeria leaves_) + FF #23 (_future Franklin leaves_)
 
 Notes: 
-- F4 554 happens after Mighty Avengers #11
-- F4 566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
+- In F4 #266 Bruce Banner says that his wife is dying, however, that is a wrongly attributed balloon. The balloon is supposed to be spoken by Reed Richards.
+- F4 #554 happens after Mighty Avengers #11
+- F4 #566 happens after Secret Invasion: Dark Reign and Dark Avengers #1-4
 - In F4 #584 Reed is monitoring the Fault, a rift in spacetime formed at the end of War of Kings.
 - F4 #588 happens before Fear Itself. I would put Fear Itself before FF #1, but it's not an essential reading.
 - Silver Surfer (2011) #1-5 happens between FF 3 and 4.
