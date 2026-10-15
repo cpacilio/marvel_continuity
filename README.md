@@ -215,13 +215,30 @@ Notes:
 - DD (1998) #36 overlaps with Alias #15. The two issues depict the same scene (Natasha visiting Matt) from two different perspectives.
 - While not explicitly stated, Lady Bullseye's origin's flashback is most logically placed right after Frank Miller’s run, between Daredevil 199 and 200, when Bullseye had been brought to Japan.
 
-### Hulk (9 issues)
+### Hulk (36 issues)
 
 Hulk: Gray #1-6 (_Hulk's origin_) __[Favourite]__
 
 Incredible Hulk (IH) (1962) #141 (_Origin of Doc Samson_)
 
 IH #180-181 (_Wendigo, introduction of Wolverine_)
+
+Hulk by Bill Mantlo: __[Favourite]__
+- IH #272 (_Banner takes control of Hulk_)
+- IH #297-300 (_Hulks regains control, Nightmare, Doctor Strange exiles Hulk onto other worlds_)
+- IH #301 (_Hulk at the Crossroads of Eternity_)
+- IH #308-309 (_Hulk's three personalities_)
+- IH #310-311 (_Bruce's consciousness returns_)
+- IH #312 (_Flashback of Bruce's childhood abuses_)
+- IH #313 + Alpha Flight #29 (_Hulk returns to Earth_)
+
+Hulk Annual #14 (_Fat-man_) + IH #314-319 (_Bruce separated from Hulk, the Hulkbusters, wedding of Bruce and Betty_) [these issues are Byrne's brief Hulk run]
+
+_John Byrne's run on the Hulk was interrupted by an editorial decision, which by the way led Byrne to leave Marvel for DC. I love Byrne in general and I was loving his tenure on the Hulk, so it's really a pity that this happened. Hulk's plots were briefly continued by Al Milgrom. I don't particularly like these stories, but they contain important plot development._
+
+IH #324-330 (_Rick becomes the Hulk, Bruce becomes Grey Hulk, death of general Ross_)
+
+_Afterwards, Peter David became the regular writer for a decade, probably the longest writing tenure in Marvel's history._
 
 ### Spider-Man (541 issues)
 
@@ -660,7 +677,7 @@ Spider-Man 2099 #9-10 (_Hulk Maestro_) + #11-12 (_Cure of Tempest_)
   - AMS-3 #14-15
 - The events of Spider-Man 2099 #9-12 are interrupted by Secret Wars. Question: will they be reprised somewhere?
 
-### Fantastic Four (344 issues)
+### Fantastic Four (345 issues)
 
 __[Note]: The F4 appear to be the only supergroup on Earth up until here. Therefore, The Avengers appear at least after F4 Annual #2.__
 
@@ -739,6 +756,7 @@ _Secret Wars #1-12_ happens here
 - #280-281 (_Hate Monger, Malice_)
 - #282-284 (_F4 vs Psycho Man, Susan becomes the Invisible Woman_)
 - Avengers Annual #14 (_Prince Dezan becomes the new king of the Skrulls, Skrulls lose ability of shape-shift_) [A parallel plot is told in F4 Annual #19, with the final pages of the two Annuals almost overlapping. However, I find it a much weaker story which does not add much. You might want to read it just for completeness.]
+- Marvel Original Graphic Novels #18 (_The Sensational She-Hulk_) (_Jennifer becomes She-Hulk permanently_)
 - #286 (_Revival of Jean Grey_)
 - #287-288 (_Return of Dr. Doom, Doom vs the Beyonder_)
 - #289-292 (_Negative zone, Blastaar, Annihilus, 1936 New York_)
