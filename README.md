@@ -1669,7 +1669,7 @@ __Short summary of Marvel Cosmic brtween 2004 and 2011:__
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
 - Age of Ultron was published in the Marvel Now era, but it serves better as the conclusion of Bendis’s Avengers.
 
-### Marvel Now (2012-) (100 issues)
+### Marvel Now (2012-) (125 issues)
 
 Avengers Assemble: Annual #1 (_Vision leaves the Avengers_)
 
@@ -1718,6 +1718,15 @@ New Avengers #13-15 (_Reed rebuilds the bridge to learn from parallel Earths_)
 Avengers #24 (_Rogue planet_)
 
 Avengers #25-28 (_A.I.M. brings evil Avengers from an incursion, Bruce joins the Illuminati, A.I.M. adaptoids join the Map Makers_)
+
+__Thor by Jason Aaron (Part 1):__
+- Thor #1-11 (_Gorr the God Butcher_)
+- Thor #12 (_Thor returns to Earth, Jane Foster has cancer_)
+- Thor #13-17 (_Return of Malekith_)
+- Thor #18 (_Wine and dragons_) [this is a special story of 9th century Thor, with beautifully art by Das Pastoras]
+- Thor #19-24 (_Roxxon, future Thor vs Galactus_)
+- _Original Sin happens here_
+- Thor #25 (_Origin of Malekith, Thor becomes unworthy_) [you may want to read it after Original Sin]
 
 Original Sin:
 - Original Sin #1-8 (_main event_)
