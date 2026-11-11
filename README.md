@@ -1669,7 +1669,7 @@ __Short summary of Marvel Cosmic brtween 2004 and 2011:__
 - The exact placement of ATCC in the timeline is a matter of discussion. By the fact that Steve is back as Captain America, it would be placed after Fear Itself. This contrasts with the fact that Wonder Man declared War to the Avengers before Fear Itself, while he acts friendly in ATCC. However, the inconsistency in Wonder Man's behavior is likely due to the delays suffered by ATCC. Therefore, I seem to understand that the common consensus is to accept this inconsistency and place ATCC after Fear Itself.
 - Age of Ultron was published in the Marvel Now era, but it serves better as the conclusion of Bendis’s Avengers.
 
-### Marvel Now (2013-) (154 issues)
+### Marvel Now (2013-) (178 issues)
 
 Avengers Assemble: Annual #1 (_Vision leaves the Avengers_)
 
@@ -1766,6 +1766,15 @@ Time Runs Out:
 - New Avengers 33
 - Avengers 43
 - Avengers 44
+
+Secret Wars:
+- Secret Wars #0 (Free Comic Book Day)
+- Secret Wars #1-2
+- __Tie in:__ Civil War (2015) #1-5
+- __Tie in:__ Old Man Logan (2015) #1-5 [offers a glimpse of what is Battleworld, well placed here, right after the concept of Battleworld is introduced in SW #2]
+- Secret Wars #3-6
+- __Tie in:__ Thors #1-4 [I would read this towards the end]
+- Secret Wars #7-9
 
 Notes:
 - You don't need to read Avengers to follow New Avengers, but for Avengers #28-34, (TB updated)
